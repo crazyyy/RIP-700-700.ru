@@ -4793,3 +4793,185 @@ ul.tabs {
 {
 	border: 2px dashed #C00;
 }
+
+/* Сброс настроек браузера */
+.flex-container a:active,
+.flexslider a:active,
+.flex-container a:focus,
+.flexslider a:focus  { outline: none; }
+
+.slides,
+.flex-control-nav,
+.flex-direction-nav {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.flex-direction-nav 
+{
+	position:absolute;
+	display:none;
+	width:100%;
+	height:100%;
+	top:0px;
+	left:0px;
+}
+
+.flexslider a img { outline: none; border: none; }
+
+.flexslider {
+}
+
+/* Скрываем слайды перед загрузкой ява-скрипта */
+.flexslider .slides > li {
+	display: none;
+	-webkit-backface-visibility: hidden;
+	background:none;
+	padding:0px;
+}
+
+.flexslider .slides img {
+	width: 100%;
+	display: block;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+/* Чистим предидущее изображение для .slides */
+.slides:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+
+html[xmlns] .slides { display: block; }
+* html .slides { height: 1%; }
+
+
+
+/* Основной стиль слайдера */
+.flexslider {
+}
+
+/* Вы можете изменить под свои требования*/
+.flex-container {
+	min-width: 150px;
+	max-width: 960px;
+}
+
+.flexslider .slides { zoom: 1; padding-bottom:0px; }
+
+
+
+/* Кнопки прокрутки. Стили */
+
+.flex-direction-nav .flex-next {
+	right: 0px;
+	width:36px;
+	height:48px;
+	position:absolute;
+	top:50%;
+	margin-top:-24px;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+.flex-direction-nav .flex-prev {
+	left:0px;
+	width:36px;
+	height:48px;
+	position:absolute;
+	top:50%;
+	margin-top:-24px;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+
+
+
+/* Кнопки прокрутки. Управление */
+.flexslider .flex-control-nav {
+	position: absolute;
+	width: 100%;
+	bottom: -40px;
+	text-align: center;
+	margin: 0 0 0 -10px;
+}
+
+.flex-control-nav li {
+	display: inline-block;
+	zoom: 1;
+}
+
+.flex-control-paging li a {
+	display: block;
+	cursor: pointer;
+	text-indent: -9999px;
+	width: 12px;
+	height: 12px;
+	margin: 0 3px;
+	background-color: #b6b6b6 \9;
+
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+	border-radius: 12px;
+
+	-webkit-box-shadow: inset 0 0 0 2px #b6b6b6;
+	-moz-box-shadow: inset 0 0 0 2px #b6b6b6;
+	box-shadow: inset 0 0 0 2px #b6b6b6;
+}
+
+.flex-control-paging li a.flex-active {
+	background-color: #82d344;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#82d344), to(#51af34));
+	background-image: -webkit-linear-gradient(top, #82d344, #51af34);
+	background-image: -moz-linear-gradient(top, #82d344, #51af34);
+	background-image: -o-linear-gradient(top, #82d344, #51af34);
+	background-image: linear-gradient(to bottom, #82d344, #51af34);
+
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+
+
+
+/* Подпись к изображению */
+.flexslider .caption
+	{
+		background:url(../images/black_bg.png);
+		position:absolute;
+		bottom:0px;
+		left:0px;
+		right:0px;
+		padding:15px;
+		color:#FFF;
+		font-size:14px;
+		line-height:16px;
+	}
+	
+	.flexslider .caption h2
+	{
+		font-size:19px;
+		padding-bottom:10px;
+		font-style:normal;
+	}
+	
+	.flexslider .caption p
+	{
+		padding-bottom:0px;
+	}
