@@ -1,4 +1,3 @@
-<!-- /* Template Name: Page Template */  -->
 <?php get_header(); ?>
 
 <div class="main">
@@ -20,37 +19,12 @@
                 <?php the_post_thumbnail(); // Fullsize image for the single post ?>
             </a>
 
-
-                <div class="test-blocks">
-                    
-                <?php the_field('protein'); ?> <br>
-                <?php the_field('big-text'); ?>
-                <?php the_field('big-text'); ?>
-                <?php the_field('text-with_REDACTOR'); ?>
-                <?php 
-                    $image = get_field('imagere');
-                    if( !empty($image) ): ?>
-                    <img src="<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>" />
-                    <?php endif; ?>
-
-                </div>
-
-
-<div class="mames">
-    
-</div>
-
             <?php endif; ?>
             <!-- /post thumbnail -->
-
-
-
-
 
             <?php endwhile; else: // If 404 page error ?>
             <h2 class="page-title inner-title"><?php _e( 'Sorry, nothing to display.', 'wpeasy' ); ?></h2>
             <?php endif; ?>
-
 
         </div>
         <!-- post_wrap -->

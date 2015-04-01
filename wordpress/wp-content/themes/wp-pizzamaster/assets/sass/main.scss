@@ -1109,6 +1109,14 @@ a {
     &.nom a img {
         margin-right: 0;
     }
+    &:nth-child(3),
+    &:nth-child(6) {
+    	a {
+    		img {
+    			margin-right: 0;   			
+    		}
+    	}
+    }
 }
 
 .videoslide {
