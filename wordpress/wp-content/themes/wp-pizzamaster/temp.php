@@ -1,19 +1,39 @@
 <!DOCTYPE html>
-<!-- /* Template Name: Category Template */  -->
+<!-- /* Template Name: Temp Template */  -->
 <!-- saved from url=(0024)http://700-700.ru/pizza/ -->
-
-<html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="ru" hola_ext_inject="ready"><!--<![endif]-->
+<html <?php language_attributes(); ?> class="no-js">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="<?php bloginfo( 'charset' ); ?>">
+    <title><?php wp_title( '' ); ?><?php if ( wp_title( '', false ) ) { echo ' :'; } ?> <?php bloginfo( 'name' ); ?></title>
 
-	<meta charset="utf-8">
-    <title>Пицца | 700-700 | Пицца Мастер</title>
+    <!-- dns prefetch -->
+    <link href="//www.google-analytics.com" rel="dns-prefetch">
+
+    <!-- meta -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+    <!-- icons -->
+    <link href="<?php echo get_template_directory_uri(); ?>/favicon.ico" rel="shortcut icon">
+    <link href="<?php echo get_template_directory_uri(); ?>/img/icons/touch.png" rel="apple-touch-icon-precomposed">
+
+    <!-- css + javascript -->
+    <?php wp_head(); ?>
+    <script>
+    !function(){
+        // configure legacy, retina, touch requirements @ conditionizr.com
+        conditionizr()
+    }()
+    </script>
+
+
+    
     <meta name="title" content="Пицца Вологда">
     <meta name="viewport" content="maximum-scale=4, minimum-scale=0.1, width=1300">    
 	<meta name="author" content="">
     <link rel="shortcut icon" href="img/favicon.gif" type="image/x-icon">
     
-    <link href="style.css" rel="stylesheet" type="text/css">
+    
         
         <!--[if IE]><link href="http://700-700.ru/wp-content/themes/pizzamaster2/css/ie.css" rel="stylesheet" media="all" /><![endif]-->
     <script type="text/javascript" async="" src="http://mc.yandex.ru/metrika/watch.js"></script><script async="" src="http://www.google-analytics.com/analytics.js"></script><script src="js/modernizr-2.0.6.min.js"></script>
