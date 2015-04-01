@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<!-- saved from url=(0018)http://700-700.ru/ -->
+<!-- saved from url=(0036)http://700-700.ru/constructor-pizza/ -->
 <html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="ru" hola_ext_inject="ready"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta charset="utf-8">
-    <title>Пицца Мастер 700-700 Вологда. Бесплатная доставка пиццы и роллов. Вкуснятина.</title>
+    <title>Конструктор пиццы | 700-700 | Пицца Мастер</title>
     <meta name="title" content="Пицца Вологда">
     <meta name="viewport" content="maximum-scale=4, minimum-scale=0.1, width=1300">    
 	<meta name="author" content="">
-    <link rel="shortcut icon" href="img/favicon.gif" type="image/x-icon">
     <link href="css/reset.css" rel="stylesheet" type="text/css">
         
         <!--[if IE]><link href="http://700-700.ru/wp-content/themes/pizzamaster2/css/ie.css" rel="stylesheet" media="all" /><![endif]-->
@@ -21,39 +20,38 @@
     <script src="js/fancybox.js"></script>
     <script type="text/javascript" src="js/jquery.fancybox-media.js"></script>
     <script src="js/scrollbar.js"></script>
-    
+    <link rel="alternate" type="application/rss+xml" title="700-700 | Пицца Мастер » Лента комментариев к «Конструктор пиццы»" href="http://700-700.ru/constructor-pizza/feed/">
+
 <script type="text/javascript" src="js/jquery(1).js"></script>
 <script type="text/javascript" src="js/jquery-migrate.min.js"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://700-700.ru/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://700-700.ru/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="Качество" href="http://700-700.ru/quality/">
+<link rel="next" title="Констуктор роллов" href="http://700-700.ru/constructor-rolls/">
 <meta name="generator" content="WordPress 3.9.2">
+<link rel="shortlink" href="http://700-700.ru/?p=365">
 <script type="text/javascript">
 var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
 </script>
 
-<!-- All in One SEO Pack 2.1.1 by Michael Torbert of Semper Fi Web Design[337,344] -->
-<meta name="description" content="Быстрая доставка пиццы в Вологде. Телефон для заказа 700-700. Большой выбор на любой вкус.">
-
-<meta name="keywords" content="709999.ru, 709999, 709999 вологда, пицца вологда,роллы вологда, вкуснейшая пицца в вологде, вкуснейшие роллы в вологде, пиццамастер вологда, пицца мастер Вологда, бесплатная доставка вологда, бесплатная доставка в вологде, самые вкусные пиццы вологда, самые вкусные роллы вологда, вкусные обеды в вологде, бесплатная доставка обедов в вологде, пиццамастер.рф, конструктор пиццы в вологде, конструктор пиццы, Доставка пиццы и роллов на дом">
-<link rel="next" href="http://700-700.ru/page/2/">
-
-<link rel="canonical" href="./index_files/index.html">
+<!-- All in One SEO Pack 2.1.1 by Michael Torbert of Semper Fi Web Design[337,363] -->
+<link rel="canonical" href="./construct_files/construct.html">
 <!-- /all in one seo pack -->
 </head>
 <body minorder="350" minorderself="60" hola-ext-player="1">
 		
-		                                                        
+		
 	
 
 
     
 <div class="wrap">
-<div class="pseudohead"></div>
+<div class="pseudohead fixed"></div>
 
-<div class="header">    
+<div class="header fixed">    
     <div class="head_wrap">
     	<div class="logo">
-                        <a href="./index_files/index.html"><img src="img/Master_logo_vologda700700_2.png" title="Пицца-Мастер" alt="Доставка пиццы в Вологде"></a>
+                        <a href="http://700-700.ru/"><img src="img/Master_logo_vologda700700_2.png" title="Пицца-Мастер" alt="Доставка пиццы в Вологде"></a>
                     </div>
 
     	<div class="userlinks">
@@ -64,16 +62,16 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
             <div class="freedel_text">Бесплатная<br>доставка<br>в Вологде</div>
         </div>
     	<div class="headcart">
-			            <div class="cart_counter opencartpopup">0</div>
+			            <div class="cart_counter opencartpopup">1</div>
                         <a href="" class="order opencartpopup">Оформить заказ</a>
             <h1>Корзина</h1>
-            <p>товар(-ов) на <span class="totalcartsum">0</span> руб.</p>
+            <p>товар(-ов) на <span class="totalcartsum">80</span> руб.</p>
             
         </div>
         
     	<div class="menubg"></div>
     	<div class="left_menu">
-        	<ul><li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-16"><a href="./index_files/index.html">Главная</a></li>
+        	<ul><li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="http://700-700.ru/">Главная</a></li>
 <li id="menu-item-950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-950"><a href="http://700-700.ru/menu">Меню</a>
 <ul class="sub-menu">
 	<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="http://700-700.ru/pizza/">Пицца</a></li>
@@ -84,7 +82,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
 	<li id="menu-item-44" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44"><a href="http://700-700.ru/drinks/">Напитки</a></li>
 </ul>
 </li>
-<li id="menu-item-951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-951"><a href="http://700-700.ru/constructor-pizza/">Конструктор пиццы</a></li>
+<li id="menu-item-951" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-365 current_page_item menu-item-951"><a href="./construct_files/construct.html">Конструктор пиццы</a></li>
 </ul>        </div>
         
         <div class="right_menu">
@@ -94,40 +92,119 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
 </ul>        </div>
     </div>
 </div>
-<div class="fullslider">
-	<div class="fullslider_wrap">
-    	<ul class="rslides rslides1" style="max-width: 3600px;">
-        	                    	<li id="rslides1_s0" class="rslides1_on" style="display: block; float: left; position: relative; opacity: 1; z-index: 2; -webkit-transition: opacity 200ms ease-in-out; transition: opacity 200ms ease-in-out;"><a href="http://700-700.ru/masters/"><img src="img/Masters-s-kuritsey.jpg"></a></li>
-                    	<li id="rslides1_s1" class="" style="float: none; position: absolute; opacity: 0; z-index: 1; display: list-item; -webkit-transition: opacity 200ms ease-in-out; transition: opacity 200ms ease-in-out;"><a href="http://vk.com/pizza700700?z=photo-47766404_353792953%2Falbum-47766404_00%2Frev"><img src="img/Kachestvo3.jpg"></a></li>
-                    	<li id="rslides1_s2" class="" style="float: none; position: absolute; opacity: 0; z-index: 1; display: list-item; -webkit-transition: opacity 200ms ease-in-out; transition: opacity 200ms ease-in-out;"><a href="http://vk.com/pizza700700?z=photo-47766404_353793714%2Falbum-47766404_00%2Frev"><img src="img/Testo.jpg"></a></li>
-                    </ul><a href="http://700-700.ru/#" class="rslides_nav rslides1_nav prev">Previous</a><a href="http://700-700.ru/#" class="rslides_nav rslides1_nav next">Next</a>
+<div class="main">
+	<div class="content_wrap constructor">
+    
+    	<h1>Приготовь свою пиццу сам!</h1>
+        <div class="ingr_cats">
+        
+        	<ul style="display:none;" class="testo">
+                        <li ingr_id="720" price="50" weight="350">Тесто <span>350 гр. / 50 руб.</span> <div class="del_ingr"></div></li>
+                    	</ul>
+
+			             
+                        <div class="ingr">
+            	<h3 cat_id="sous">Соус</h3>
+                <ul cat_id="sous"></ul>
+            </div>
+                        <div class="ingr">
+            	<h3 cat_id="syir">Сыр</h3>
+                <ul cat_id="syir"></ul>
+            </div>
+                        <div class="ingr">
+            	<h3 cat_id="myaso">Мясо</h3>
+                <ul cat_id="myaso"></ul>
+            </div>
+                        <div class="ingr">
+            	<h3 cat_id="ryiba">Рыба</h3>
+                <ul cat_id="ryiba"></ul>
+            </div>
+                        <div class="ingr">
+            	<h3 cat_id="gribyi">Грибы</h3>
+                <ul cat_id="gribyi"></ul>
+            </div>
+                        <div class="ingr">
+            	<h3 cat_id="ovoshhi">Овощи</h3>
+                <ul cat_id="ovoshhi"></ul>
+            </div>
+                        <div class="ingr">
+            	<h3 cat_id="spetsii">Специи</h3>
+                <ul cat_id="spetsii"></ul>
+            </div>
+                    </div>
+        
+        
+        <div class="hello_master">
+        	<h2>Здравствуйте, Мастер!</h2>
+            Итак, используя самые непревзойденные ингредиенты из правой колонки, <span>какую пиццу мы приготовим сегодня?</span>
+        </div>
+        
+        <div class="ingr_list">
+        </div>
+        
+        <div class="c_check">
+        	            <div class="check_price"><b class="c_w">350</b> гр. <span>/</span> <span class="red"><b class="c_p">50</b> руб.</span></div>
+                                    <a href="" id="order_construct" construct_id="1"><img src="img/order_c.png"></a>
+            <div id="constr_message">Минимальная сумма заказа 300руб. Добавьте ещё ингредиенты.</div>
+            <div id="nosous_message">Добавьте, пожалуйста, соус для основы</div>
+        </div>
+        
+        <div class="korzh">
+        	<div class="baloon1"></div>
+            <div class="baloon2"></div>
+            <div class="baloon3"></div>
+        	                                    	<div class="ingr_one" style="opacity:0; z-index:1200;" ingr_id="734"><img width="552" height="552" src="img/salyami1.png" class="attachment-post-thumbnail wp-post-image" alt="салями"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1300;" ingr_id="731"><img width="552" height="552" src="img/Pengasius.png" class="attachment-post-thumbnail wp-post-image" alt="Пенгасиус"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1300;" ingr_id="729"><img width="552" height="552" src="img/Morskoy-kokteyl.png" class="attachment-post-thumbnail wp-post-image" alt="Морской-коктейль"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1200;" ingr_id="727"><img width="552" height="552" src="img/kopchenaya-kuritsa.png" class="attachment-post-thumbnail wp-post-image" alt="копченая-курица"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1300;" ingr_id="722"><img width="552" height="552" src="img/Krevetki.png" class="attachment-post-thumbnail wp-post-image" alt="Креветки"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:0;" ingr_id="720"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1600;" ingr_id="715"><img width="552" height="552" src="img/Bazilik.png" class="attachment-post-thumbnail wp-post-image" alt="Базилик"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1203;" ingr_id="714"><img width="552" height="552" src="img/Bekon.png" class="attachment-post-thumbnail wp-post-image" alt="Бекон"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1000;" ingr_id="713"><img width="552" height="552" src="img/Belyiy-slivochnyiy.png" class="attachment-post-thumbnail wp-post-image" alt="Белый-сливочный"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1500;" ingr_id="712"><img width="552" height="552" src="img/bolgarskiy.png" class="attachment-post-thumbnail wp-post-image" alt="болгарский"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1500;" ingr_id="711"><img width="552" height="552" src="img/brokkoli.png" class="attachment-post-thumbnail wp-post-image" alt="брокколи"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1200;" ingr_id="710"><img width="552" height="552" src="img/Vetchina.png" class="attachment-post-thumbnail wp-post-image" alt="Ветчина"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1600;" ingr_id="709"><img width="552" height="552" src="img/Vostochnyie-pripravyi.png" class="attachment-post-thumbnail wp-post-image" alt="Восточные-приправы"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1200;" ingr_id="708"><img width="552" height="552" src="img/Govyadina1.png" class="attachment-post-thumbnail wp-post-image" alt="Говядина"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1600;" ingr_id="707"><img width="552" height="552" src="img/Zelen.png" class="attachment-post-thumbnail wp-post-image" alt="Зелень"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1500;" ingr_id="706"><img width="552" height="552" src="img/Zelenyiy-luk1.png" class="attachment-post-thumbnail wp-post-image" alt="Зеленый-лук"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1300;" ingr_id="705"><img width="552" height="552" src="img/Kalmar.png" class="attachment-post-thumbnail wp-post-image" alt="Кальмар"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1200;" ingr_id="704"><img width="552" height="552" src="img/Karbonat.png" class="attachment-post-thumbnail wp-post-image" alt="Карбонат"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1500;" ingr_id="703"><img width="552" height="552" src="img/kukuruza.png" class="attachment-post-thumbnail wp-post-image" alt="кукуруза"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1200;" ingr_id="702"><img width="552" height="552" src="img/Kuritsa1.png" class="attachment-post-thumbnail wp-post-image" alt="Курица"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1500;" ingr_id="700"><img width="552" height="552" src="img/Luk-repchatyiy.png" class="attachment-post-thumbnail wp-post-image" alt="Лук-репчатый"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1500;" ingr_id="699"><img width="552" height="552" src="img/marinovannyie.png" class="attachment-post-thumbnail wp-post-image" alt="маринованные"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1500;" ingr_id="698"><img width="552" height="552" src="img/maslinyi.png" class="attachment-post-thumbnail wp-post-image" alt="маслины"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1500;" ingr_id="696"><img width="552" height="552" src="img/olivki.png" class="attachment-post-thumbnail wp-post-image" alt="оливки"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1400;" ingr_id="695"><img width="552" height="552" src="img/Opyata.png" class="attachment-post-thumbnail wp-post-image" alt="Опята"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1200;" ingr_id="694"><img width="552" height="552" src="img/ohotnichi1.png" class="attachment-post-thumbnail wp-post-image" alt="охотничьи"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1500;" ingr_id="693"><img width="552" height="552" src="img/perets-chili.png" class="attachment-post-thumbnail wp-post-image" alt="перец-чили"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1500;" ingr_id="692"><img width="552" height="552" src="img/Pomidoryi.png" class="attachment-post-thumbnail wp-post-image" alt="Помидоры"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1200;" ingr_id="690"><img width="552" height="552" src="img/salyami.png" class="attachment-post-thumbnail wp-post-image" alt="салями"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1200;" ingr_id="689"><img width="552" height="552" src="img/Svinina2.png" class="attachment-post-thumbnail wp-post-image" alt="Свинина"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1300;" ingr_id="688"><img width="552" height="552" src="img/semga.png" class="attachment-post-thumbnail wp-post-image" alt="семга"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1000;" ingr_id="687"><img width="552" height="552" src="img/Slivochno-gorchichnyiy.png" class="attachment-post-thumbnail wp-post-image" alt="Сливочно-горчичный"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1000;" ingr_id="686"><img width="552" height="552" src="img/Sous-Master.png" class="attachment-post-thumbnail wp-post-image" alt="Соус-Мастер"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1000;" ingr_id="685"><img width="552" height="552" src="img/Sous-Master-ostryiy.png" class="attachment-post-thumbnail wp-post-image" alt="Соус-Мастер-острый"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1100;" ingr_id="684"><img width="552" height="552" src="img/Syir-Gauda.png" class="attachment-post-thumbnail wp-post-image" alt="Сыр-Гауда"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1100;" ingr_id="683"><img width="552" height="552" src="img/Syir-Golladnskiy.png" class="attachment-post-thumbnail wp-post-image" alt="Сыр-Голладнский"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1100;" ingr_id="681"><img width="552" height="552" src="img/Syir-motsarela.png" class="attachment-post-thumbnail wp-post-image" alt="Сыр-моцарела"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1100;" ingr_id="680"><img width="552" height="552" src="img/Syir-Parmezan.png" class="attachment-post-thumbnail wp-post-image" alt="Сыр-Пармезан"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1600;" ingr_id="679"><img width="552" height="552" src="img/CHernyiy-perets.png" class="attachment-post-thumbnail wp-post-image" alt="Черный-перец"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1500;" ingr_id="677"><img width="552" height="552" src="img/CHerri.png" class="attachment-post-thumbnail wp-post-image" alt="Черри"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1400;" ingr_id="676"><img width="552" height="552" src="img/SHampinonyi.png" class="attachment-post-thumbnail wp-post-image" alt="Шампиньоны"></div>
+                                    	<div class="ingr_one" style="opacity:0; z-index:1200;" ingr_id="673"><img width="552" height="552" src="img/YAzyik2.png" class="attachment-post-thumbnail wp-post-image" alt="Язык"></div>
+                    </div>
+        
+        <div class="clear"></div>
+        
+        <div class="alert_message">Обращаем ваше внимание на то, что вид готовой пиццы может отличаться от изображения на экране.</div>
+    	
     </div>
+    		
 </div>
 
-<div class="home_menu">
-	<div class="home_menu_wrap">
-    	<ul>
-        	<li><a href="http://700-700.ru/pizza/"><img src="img/pizza_home.jpg"></a></li>
-            <li><a href="http://700-700.ru/rolls/"><img src="img/rolls_home.jpg"></a></li>
-            <li class="nom"><a href="http://700-700.ru/masters/"><img src="img/masters.png"></a></li>
-            
-            <li><a href="http://700-700.ru/zakuski/"><img src="img/Zakuski.jpg"></a></li>
-            <li><a href="http://700-700.ru/salat/"><img src="img/salat_home.jpg"></a></li>
-            <li class="nom"><a href="http://700-700.ru/drinks/"><img src="img/drinks_home.jpg"></a></li>
-        </ul>
-        
-           		        
-    </div>
-    
-    <div class="promo_wrap">
-        <div class="vk_big_baner"><a href="http://vk.com/pizza700700" target="_blank"><img src="img/vk_big.jpg"></a></div>
-        
-    </div>
-            <div class="constructor_baner_big">
-        	<a href="http://700-700.ru/constructor-pizza/"><img src="img/constuctor_big.jpg"></a>
-        </div>
-        <div class="clear"></div>
-</div>
 
 <div class="bottom_blocks">
 	<div class="subscribe">
@@ -164,7 +241,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
 
 <div id="footer">
 	<div class="footer_wrap">
-    	<div class="copyright"><a href="./index_files/index.html">Мастер Пицца</a> 2013. Все права защищены</div>
+    	<div class="copyright"><a href="http://700-700.ru/">Мастер Пицца</a> 2013. Все права защищены</div>
         
         <div class="footmenu">
         	<ul><li id="menu-item-424" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-424"><a href="http://700-700.ru/pizza/">Пицца</a></li>
@@ -182,8 +259,8 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
 <div class="popup cartform" data-noreg="1">
 	<div class="close"></div>
     <div class="cart_preloader"></div>
-    		    
-    <div class="empty_cart" style="display: block;"><h2>Ваша корзина пустая</h2></div>
+                    
+    <div class="empty_cart"><h2>Ваша корзина пустая</h2></div>
     
             <div class="fastregister_wrap">
         	<div class="fast_reg_step_1">
@@ -223,9 +300,30 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
             <div class="fastregister_errors"></div>
         </div>
         
-    <div class="full_cart_data allcart" style="display: none;">
+    <div class="full_cart_data allcart">
     
-    <div class="big_cart_wrapper">		        
+    <div class="big_cart_wrapper">                        <div class="order_line" discount="0" discount2="" cat="drinks">
+              <div class="order_ico tablecell"><a href="http://700-700.ru/voda-bonakva-1209/"><img width="76" height="104" src="img/Voda_Bonakva-1l_logo-76x104.jpg" class="attachment-menu_76" alt="Вода_Бонаква 1л_logo"></a></div>
+              <div class="order_title tablecell">
+                    <h3>Вода Бонаква</h3>
+                    <p>Негазированная вода</p>
+                                        
+                    
+                </div>
+                <div class="order_price tablecell" price="80">
+                    <span class="people_3"></span>80 р<span class="grey"> / 1 л</span>
+                                         	
+                </div>
+                <div class="order_count tablecell">
+                    <div class="number">
+                    	                                                <span class="item_counter" code="1009" item_id="1209">1</span>
+                        <div class="up"></div>
+                        <div class="down" style="opacity:0.3;"></div>
+                    </div>
+                </div>
+                <div class="tabledel tablecell"><span class="delthis" del_id="1209"><img src="img/delete.png"></span></div>
+            </div>
+            		        
         <div class="present_drinks hide">
         	<div class="pizza_present_buttons" pizza_discount="drinks" pizza_total_count="0" style="display: none;">
             	<h1>Вы можете воспользоваться одной из двух акций:</h1>
@@ -294,7 +392,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
     	<a href="" class="order_more">Заказать что-то еще</a>
         <div class="order_total_price">
         <div class="self_discount" dsk="0">Ваша скидка: <span class="red">0 р</span></div>
-        Итого: <span class="red"><span class="total">0</span> р</span></div>
+        Итого: <span class="red"><span class="total">80</span> р</span></div>
         <div class="clear"></div>
     </div>
     
@@ -728,7 +826,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
             <div class="formline">
             	<input type="submit" value="Войти" id="popup_login_button">
                 <input type="hidden" name="redirect_to" value="/profile">
-				<input type="hidden" id="security" name="security" value="81586d0fec"><input type="hidden" name="_wp_http_referer" value="/">            </div>
+				<input type="hidden" id="security" name="security" value="81586d0fec"><input type="hidden" name="_wp_http_referer" value="/constructor-pizza/">            </div>
             <div class="formline"><a href="" id="open_forget">забыли пароль?</a></div> 
             <div class="login_result"></div>
             </form>
@@ -813,4 +911,4 @@ var _wpcf7 = {"loaderUrl":"http:\/\/700-700.ru\/wp-content\/plugins\/contact-for
 <noscript>&lt;div&gt;&lt;img src="//mc.yandex.ru/watch/23458024" style="position:absolute; left:-9999px;" alt="" /&gt;&lt;/div&gt;</noscript>
 <!-- /Yandex.Metrika counter -->
 
-<spots-wrapper></spots-wrapper></body></html>
+</body></html>

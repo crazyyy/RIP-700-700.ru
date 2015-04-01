@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<!-- saved from url=(0018)http://700-700.ru/ -->
+<!-- saved from url=(0028)http://700-700.ru/kontaktyi/ -->
 <html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="ru" hola_ext_inject="ready"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta charset="utf-8">
-    <title>Пицца Мастер 700-700 Вологда. Бесплатная доставка пиццы и роллов. Вкуснятина.</title>
+    <title>Контакты и доставка | 700-700 | Пицца Мастер</title>
     <meta name="title" content="Пицца Вологда">
     <meta name="viewport" content="maximum-scale=4, minimum-scale=0.1, width=1300">    
 	<meta name="author" content="">
@@ -21,39 +21,40 @@
     <script src="js/fancybox.js"></script>
     <script type="text/javascript" src="js/jquery.fancybox-media.js"></script>
     <script src="js/scrollbar.js"></script>
-    
+    <link rel="alternate" type="application/rss+xml" title="700-700 | Пицца Мастер » Лента комментариев к «Контакты и доставка»" href="http://700-700.ru/kontaktyi/feed/">
+
 <script type="text/javascript" src="js/jquery(1).js"></script>
 <script type="text/javascript" src="js/jquery-migrate.min.js"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://700-700.ru/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://700-700.ru/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="О нас" href="http://700-700.ru/o-nas/">
+<link rel="next" title="Качество" href="http://700-700.ru/quality/">
 <meta name="generator" content="WordPress 3.9.2">
+<link rel="shortlink" href="http://700-700.ru/?p=10">
 <script type="text/javascript">
 var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
 </script>
 
-<!-- All in One SEO Pack 2.1.1 by Michael Torbert of Semper Fi Web Design[337,344] -->
-<meta name="description" content="Быстрая доставка пиццы в Вологде. Телефон для заказа 700-700. Большой выбор на любой вкус.">
+<!-- All in One SEO Pack 2.1.1 by Michael Torbert of Semper Fi Web Design[337,365] -->
+<meta name="description" content="Компания «Пицца Мастер» Индивидуальный предприниматель Аббасова Анна Георгиевна Юр. адрес: 160019, г Вологда, ул Граничная, д 13б, кв 4 Факт. адрес: 160000,">
 
-<meta name="keywords" content="709999.ru, 709999, 709999 вологда, пицца вологда,роллы вологда, вкуснейшая пицца в вологде, вкуснейшие роллы в вологде, пиццамастер вологда, пицца мастер Вологда, бесплатная доставка вологда, бесплатная доставка в вологде, самые вкусные пиццы вологда, самые вкусные роллы вологда, вкусные обеды в вологде, бесплатная доставка обедов в вологде, пиццамастер.рф, конструктор пиццы в вологде, конструктор пиццы, Доставка пиццы и роллов на дом">
-<link rel="next" href="http://700-700.ru/page/2/">
-
-<link rel="canonical" href="./index_files/index.html">
+<link rel="canonical" href="./page_files/page.html">
 <!-- /all in one seo pack -->
 </head>
 <body minorder="350" minorderself="60" hola-ext-player="1">
 		
-		                                                        
+		
 	
 
 
     
 <div class="wrap">
-<div class="pseudohead"></div>
+<div class="pseudohead fixed"></div>
 
-<div class="header">    
+<div class="header fixed">    
     <div class="head_wrap">
     	<div class="logo">
-                        <a href="./index_files/index.html"><img src="img/Master_logo_vologda700700_2.png" title="Пицца-Мастер" alt="Доставка пиццы в Вологде"></a>
+                        <a href="http://700-700.ru/"><img src="img/Master_logo_vologda700700_2.png" title="Пицца-Мастер" alt="Доставка пиццы в Вологде"></a>
                     </div>
 
     	<div class="userlinks">
@@ -73,7 +74,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
         
     	<div class="menubg"></div>
     	<div class="left_menu">
-        	<ul><li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-16"><a href="./index_files/index.html">Главная</a></li>
+        	<ul><li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="http://700-700.ru/">Главная</a></li>
 <li id="menu-item-950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-950"><a href="http://700-700.ru/menu">Меню</a>
 <ul class="sub-menu">
 	<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="http://700-700.ru/pizza/">Пицца</a></li>
@@ -89,45 +90,38 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
         
         <div class="right_menu">
         	<ul><li id="menu-item-11618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11618"><a href="http://700-700.ru/pochemu-myi/">Почему мы?</a></li>
-<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="http://700-700.ru/kontaktyi/">Доставка</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10 current_page_item menu-item-17"><a href="./page_files/page.html">Доставка</a></li>
 <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://700-700.ru/guestbook/">Гостевая книга</a></li>
 </ul>        </div>
     </div>
 </div>
-<div class="fullslider">
-	<div class="fullslider_wrap">
-    	<ul class="rslides rslides1" style="max-width: 3600px;">
-        	                    	<li id="rslides1_s0" class="rslides1_on" style="display: block; float: left; position: relative; opacity: 1; z-index: 2; -webkit-transition: opacity 200ms ease-in-out; transition: opacity 200ms ease-in-out;"><a href="http://700-700.ru/masters/"><img src="img/Masters-s-kuritsey.jpg"></a></li>
-                    	<li id="rslides1_s1" class="" style="float: none; position: absolute; opacity: 0; z-index: 1; display: list-item; -webkit-transition: opacity 200ms ease-in-out; transition: opacity 200ms ease-in-out;"><a href="http://vk.com/pizza700700?z=photo-47766404_353792953%2Falbum-47766404_00%2Frev"><img src="img/Kachestvo3.jpg"></a></li>
-                    	<li id="rslides1_s2" class="" style="float: none; position: absolute; opacity: 0; z-index: 1; display: list-item; -webkit-transition: opacity 200ms ease-in-out; transition: opacity 200ms ease-in-out;"><a href="http://vk.com/pizza700700?z=photo-47766404_353793714%2Falbum-47766404_00%2Frev"><img src="img/Testo.jpg"></a></li>
-                    </ul><a href="http://700-700.ru/#" class="rslides_nav rslides1_nav prev">Previous</a><a href="http://700-700.ru/#" class="rslides_nav rslides1_nav next">Next</a>
-    </div>
+<div class="main">
+	<div class="content_wrap">
+    	    	<h3>Контакты и доставка</h3>
+        <div class="post_wrap">
+        <p>Компания «Пицца Мастер»<br>
+Индивидуальный предприниматель Аббасова Анна Георгиевна<br>
+<strong>Юр. адрес:</strong> 160019, г Вологда, ул Граничная, д 13б, кв 4<br>
+<strong>Факт. адрес:</strong> 160000, г Вологда, ул&nbsp;Гагарина, 2А, корпус 1<br>
+ИНН 352500958395<br>
+ОГРН 312352522100060<br>
+р/с 40802810431600006214<br>
+к/с 30101810300000000811<br>
+БИК&nbsp;044030811<br>
+в филиале №7806 ВТБ 24 (ЗАО)<br>
+<strong>E-mail:</strong> master700700@mail.ru</p>
+<p><strong>Кафе-пиццерия находится по адресу:</strong> г. Вологда, ул. Гагарина,&nbsp;2А, корпус 1</p>
+<p><strong>Наши телефоны:</strong>&nbsp;(8172) 700-700, (8172) 70-99-99</p>
+<p><strong>Время работы:</strong><br>
+Мы работаем ежедневно с 10.00 до 24.00</p>
+<p><strong>Доставка:<br>
+</strong>Лукьяново, Станкозавод, Кувшиново, Прилуки, Лоста, Ананьино —&nbsp;<strong>50 руб.</strong><strong><br>
+</strong>п. Майский, Марфино, Алексино, Непотягово, Надеево, Аэропорт -<strong>&nbsp;100 руб.</strong><br>
+п. Молочное, п. Можайское —&nbsp;<strong>150 руб.</strong></p>
+        </div>
+            </div>		
 </div>
 
-<div class="home_menu">
-	<div class="home_menu_wrap">
-    	<ul>
-        	<li><a href="http://700-700.ru/pizza/"><img src="img/pizza_home.jpg"></a></li>
-            <li><a href="http://700-700.ru/rolls/"><img src="img/rolls_home.jpg"></a></li>
-            <li class="nom"><a href="http://700-700.ru/masters/"><img src="img/masters.png"></a></li>
-            
-            <li><a href="http://700-700.ru/zakuski/"><img src="img/Zakuski.jpg"></a></li>
-            <li><a href="http://700-700.ru/salat/"><img src="img/salat_home.jpg"></a></li>
-            <li class="nom"><a href="http://700-700.ru/drinks/"><img src="img/drinks_home.jpg"></a></li>
-        </ul>
-        
-           		        
-    </div>
-    
-    <div class="promo_wrap">
-        <div class="vk_big_baner"><a href="http://vk.com/pizza700700" target="_blank"><img src="img/vk_big.jpg"></a></div>
-        
-    </div>
-            <div class="constructor_baner_big">
-        	<a href="http://700-700.ru/constructor-pizza/"><img src="img/constuctor_big.jpg"></a>
-        </div>
-        <div class="clear"></div>
-</div>
 
 <div class="bottom_blocks">
 	<div class="subscribe">
@@ -159,18 +153,18 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
     <div class="clear"></div>
 </div>
 
-<div class="empty_inner"> </div>
+<div class="empty_inner_small"> </div>
 </div>
 
 <div id="footer">
 	<div class="footer_wrap">
-    	<div class="copyright"><a href="./index_files/index.html">Мастер Пицца</a> 2013. Все права защищены</div>
+    	<div class="copyright"><a href="http://700-700.ru/">Мастер Пицца</a> 2013. Все права защищены</div>
         
         <div class="footmenu">
         	<ul><li id="menu-item-424" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-424"><a href="http://700-700.ru/pizza/">Пицца</a></li>
 <li id="menu-item-425" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-425"><a href="http://700-700.ru/rolls/">Роллы</a></li>
 <li id="menu-item-426" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-426"><a href="http://700-700.ru/drinks/">Напитки</a></li>
-<li id="menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-431"><a href="http://700-700.ru/kontaktyi/">Контакты и доставка</a></li>
+<li id="menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10 current_page_item menu-item-431"><a href="./page_files/page.html">Контакты и доставка</a></li>
 <li id="menu-item-432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-432"><a href="http://700-700.ru/guestbook/">Гостевая книга</a></li>
 </ul>        </div>
         
@@ -728,7 +722,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
             <div class="formline">
             	<input type="submit" value="Войти" id="popup_login_button">
                 <input type="hidden" name="redirect_to" value="/profile">
-				<input type="hidden" id="security" name="security" value="81586d0fec"><input type="hidden" name="_wp_http_referer" value="/">            </div>
+				<input type="hidden" id="security" name="security" value="81586d0fec"><input type="hidden" name="_wp_http_referer" value="/kontaktyi/">            </div>
             <div class="formline"><a href="" id="open_forget">забыли пароль?</a></div> 
             <div class="login_result"></div>
             </form>

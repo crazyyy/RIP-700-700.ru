@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<!-- saved from url=(0018)http://700-700.ru/ -->
+<!-- saved from url=(0025)http://700-700.ru/drinks/ -->
 <html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="ru" hola_ext_inject="ready"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta charset="utf-8">
-    <title>Пицца Мастер 700-700 Вологда. Бесплатная доставка пиццы и роллов. Вкуснятина.</title>
+    <title>Напитки | 700-700 | Пицца Мастер</title>
     <meta name="title" content="Пицца Вологда">
     <meta name="viewport" content="maximum-scale=4, minimum-scale=0.1, width=1300">    
 	<meta name="author" content="">
-    <link rel="shortcut icon" href="img/favicon.gif" type="image/x-icon">
+   <link rel="shortcut icon" href="img//favicon.gif" type="image/x-icon">
     <link href="css/reset.css" rel="stylesheet" type="text/css">
         
         <!--[if IE]><link href="http://700-700.ru/wp-content/themes/pizzamaster2/css/ie.css" rel="stylesheet" media="all" /><![endif]-->
@@ -21,7 +21,8 @@
     <script src="js/fancybox.js"></script>
     <script type="text/javascript" src="js/jquery.fancybox-media.js"></script>
     <script src="js/scrollbar.js"></script>
-    
+    <link rel="alternate" type="application/rss+xml" title="700-700 | Пицца Мастер » Лента рубрики Напитки" href="http://700-700.ru/drinks/feed/">
+
 <script type="text/javascript" src="js/jquery(1).js"></script>
 <script type="text/javascript" src="js/jquery-migrate.min.js"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://700-700.ru/xmlrpc.php?rsd">
@@ -31,29 +32,26 @@
 var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
 </script>
 
-<!-- All in One SEO Pack 2.1.1 by Michael Torbert of Semper Fi Web Design[337,344] -->
-<meta name="description" content="Быстрая доставка пиццы в Вологде. Телефон для заказа 700-700. Большой выбор на любой вкус.">
+<!-- All in One SEO Pack 2.1.1 by Michael Torbert of Semper Fi Web Design[337,353] -->
+<meta name="robots" content="noindex,follow">
 
-<meta name="keywords" content="709999.ru, 709999, 709999 вологда, пицца вологда,роллы вологда, вкуснейшая пицца в вологде, вкуснейшие роллы в вологде, пиццамастер вологда, пицца мастер Вологда, бесплатная доставка вологда, бесплатная доставка в вологде, самые вкусные пиццы вологда, самые вкусные роллы вологда, вкусные обеды в вологде, бесплатная доставка обедов в вологде, пиццамастер.рф, конструктор пиццы в вологде, конструктор пиццы, Доставка пиццы и роллов на дом">
-<link rel="next" href="http://700-700.ru/page/2/">
-
-<link rel="canonical" href="./index_files/index.html">
+<link rel="canonical" href="./quart_files/quart.html">
 <!-- /all in one seo pack -->
 </head>
 <body minorder="350" minorderself="60" hola-ext-player="1">
 		
-		                                                        
+		
 	
 
 
     
 <div class="wrap">
-<div class="pseudohead"></div>
+<div class="pseudohead fixed"></div>
 
-<div class="header">    
+<div class="header fixed">    
     <div class="head_wrap">
     	<div class="logo">
-                        <a href="./index_files/index.html"><img src="img/Master_logo_vologda700700_2.png" title="Пицца-Мастер" alt="Доставка пиццы в Вологде"></a>
+                        <a href="http://700-700.ru/"><img src="img/Master_logo_vologda700700_2.png" title="Пицца-Мастер" alt="Доставка пиццы в Вологде"></a>
                     </div>
 
     	<div class="userlinks">
@@ -64,24 +62,24 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
             <div class="freedel_text">Бесплатная<br>доставка<br>в Вологде</div>
         </div>
     	<div class="headcart">
-			            <div class="cart_counter opencartpopup">0</div>
+			            <div class="cart_counter opencartpopup">1</div>
                         <a href="" class="order opencartpopup">Оформить заказ</a>
             <h1>Корзина</h1>
-            <p>товар(-ов) на <span class="totalcartsum">0</span> руб.</p>
+            <p>товар(-ов) на <span class="totalcartsum">80</span> руб.</p>
             
         </div>
         
     	<div class="menubg"></div>
     	<div class="left_menu">
-        	<ul><li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-16"><a href="./index_files/index.html">Главная</a></li>
-<li id="menu-item-950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-950"><a href="http://700-700.ru/menu">Меню</a>
-<ul class="sub-menu">
+        	<ul><li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="http://700-700.ru/">Главная</a></li>
+<li id="menu-item-950" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-950"><a href="http://700-700.ru/menu">Меню</a>
+<ul class="sub-menu" style="display: none;">
 	<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="http://700-700.ru/pizza/">Пицца</a></li>
 	<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="http://700-700.ru/rolls/">Роллы</a></li>
 	<li id="menu-item-1178" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1178"><a href="http://700-700.ru/masters/">Мастерсы</a></li>
 	<li id="menu-item-11634" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11634"><a href="http://700-700.ru/zakuski/">Закуски</a></li>
 	<li id="menu-item-1882" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1882"><a href="http://700-700.ru/salat/">Салаты</a></li>
-	<li id="menu-item-44" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44"><a href="http://700-700.ru/drinks/">Напитки</a></li>
+	<li id="menu-item-44" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-44"><a href="./quart_files/quart.html">Напитки</a></li>
 </ul>
 </li>
 <li id="menu-item-951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-951"><a href="http://700-700.ru/constructor-pizza/">Конструктор пиццы</a></li>
@@ -94,39 +92,265 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
 </ul>        </div>
     </div>
 </div>
-<div class="fullslider">
-	<div class="fullslider_wrap">
-    	<ul class="rslides rslides1" style="max-width: 3600px;">
-        	                    	<li id="rslides1_s0" class="rslides1_on" style="display: block; float: left; position: relative; opacity: 1; z-index: 2; -webkit-transition: opacity 200ms ease-in-out; transition: opacity 200ms ease-in-out;"><a href="http://700-700.ru/masters/"><img src="img/Masters-s-kuritsey.jpg"></a></li>
-                    	<li id="rslides1_s1" class="" style="float: none; position: absolute; opacity: 0; z-index: 1; display: list-item; -webkit-transition: opacity 200ms ease-in-out; transition: opacity 200ms ease-in-out;"><a href="http://vk.com/pizza700700?z=photo-47766404_353792953%2Falbum-47766404_00%2Frev"><img src="img/Kachestvo3.jpg"></a></li>
-                    	<li id="rslides1_s2" class="" style="float: none; position: absolute; opacity: 0; z-index: 1; display: list-item; -webkit-transition: opacity 200ms ease-in-out; transition: opacity 200ms ease-in-out;"><a href="http://vk.com/pizza700700?z=photo-47766404_353793714%2Falbum-47766404_00%2Frev"><img src="img/Testo.jpg"></a></li>
-                    </ul><a href="http://700-700.ru/#" class="rslides_nav rslides1_nav prev">Previous</a><a href="http://700-700.ru/#" class="rslides_nav rslides1_nav next">Next</a>
-    </div>
-</div>
-
-<div class="home_menu">
-	<div class="home_menu_wrap">
-    	<ul>
-        	<li><a href="http://700-700.ru/pizza/"><img src="img/pizza_home.jpg"></a></li>
-            <li><a href="http://700-700.ru/rolls/"><img src="img/rolls_home.jpg"></a></li>
-            <li class="nom"><a href="http://700-700.ru/masters/"><img src="img/masters.png"></a></li>
-            
-            <li><a href="http://700-700.ru/zakuski/"><img src="img/Zakuski.jpg"></a></li>
-            <li><a href="http://700-700.ru/salat/"><img src="img/salat_home.jpg"></a></li>
-            <li class="nom"><a href="http://700-700.ru/drinks/"><img src="img/drinks_home.jpg"></a></li>
-        </ul>
+<div class="main">
+	<div class="content_wrap">
+    	<h2><span class="left_pimpa">~~~</span>  Напитки<span class="right_pimpa">~~~</span></h2>
+               
         
-           		        
-    </div>
-    
-    <div class="promo_wrap">
-        <div class="vk_big_baner"><a href="http://vk.com/pizza700700" target="_blank"><img src="img/vk_big.jpg"></a></div>
+                
+                
+                
+                
+                                                        
         
-    </div>
-            <div class="constructor_baner_big">
-        	<a href="http://700-700.ru/constructor-pizza/"><img src="img/constuctor_big.jpg"></a>
+        <div class="pizzalist">
+        	                        <div class="pizza_one ">
+            	<div class="pizza_title"><a href="http://700-700.ru/koka-kola-1-5l-345/" class="item_popup_link" data-id="345">Кока-кола 1.5л</a></div>
+                <a href="http://700-700.ru/koka-kola-1-5l-345/" title="Кока-кола 1.5л" class="item_popup_link" data-id="345"><img width="210" height="288" src="img/koka-kola-1.5l_logo-210x288.jpg" class="attachment-menu_210" alt="кока-кола 1.5л_logo"></a>
+                <div class="pizza_all_meta">
+                <div class="components"> Безалкогольный газированный напиток</div>
+                <div class="pizza_meta">
+                	                    <div class="weight">
+                                        1,5 л – <span>90 р</span>
+                                        </div>
+                                                            <div class="buy_button add_to_cart" item_id="345">В корзину</div>
+                                                            
+                    <div class="clear"></div>
+                </div>
+                </div>
+                <div class="rating_wrap">
+                    	<div class="rating_stars " data-id="345">
+                        	<div class="star" data-position="1"></div>
+                            <div class="star" data-position="2"></div>
+                            <div class="star" data-position="3"></div>
+                            <div class="star" data-position="4"></div>
+                            <div class="star" data-position="5"></div>
+                        </div>
+                        <div class="stars_back  " data-current-rating="4.9950738916257" style="width: 119.881773399017px;"></div>
+                        <div class="total_voters">Всего оценок: <span>1015</span></div>
+                        <div class="vote_result vr_345"></div>
+                 </div>
+            </div>
+                                    <div class="pizza_one ">
+            	<div class="pizza_title"><a href="http://700-700.ru/koka-kola-1l-349/" class="item_popup_link" data-id="349">Кока-кола 1л</a></div>
+                <a href="http://700-700.ru/koka-kola-1l-349/" title="Кока-кола 1л" class="item_popup_link" data-id="349"><img width="210" height="288" src="img/Koka-kola-1l_logo-210x288.jpg" class="attachment-menu_210" alt="Кока-кола 1л_logo"></a>
+                <div class="pizza_all_meta">
+                <div class="components"> Безалкогольный газированный напиток</div>
+                <div class="pizza_meta">
+                	                    <div class="weight">
+                                        1 л – <span>80 р</span>
+                                        </div>
+                                                            <div class="buy_button add_to_cart" item_id="349">В корзину</div>
+                                                            
+                    <div class="clear"></div>
+                </div>
+                </div>
+                <div class="rating_wrap">
+                    	<div class="rating_stars " data-id="349">
+                        	<div class="star" data-position="1"></div>
+                            <div class="star" data-position="2"></div>
+                            <div class="star" data-position="3"></div>
+                            <div class="star" data-position="4"></div>
+                            <div class="star" data-position="5"></div>
+                        </div>
+                        <div class="stars_back  " data-current-rating="4.9892280071813" style="width: 119.741472172351px;"></div>
+                        <div class="total_voters">Всего оценок: <span>1114</span></div>
+                        <div class="vote_result vr_349"></div>
+                 </div>
+            </div>
+                                    <div class="pizza_one ">
+            	<div class="pizza_title"><a href="http://700-700.ru/sprayt-1l-353/" class="item_popup_link" data-id="353">Спрайт 1л</a></div>
+                <a href="http://700-700.ru/sprayt-1l-353/" title="Спрайт 1л" class="item_popup_link" data-id="353"><img width="210" height="288" src="img/sprayt-1l_logo-210x288.jpg" class="attachment-menu_210" alt="спрайт 1л_logo"></a>
+                <div class="pizza_all_meta">
+                <div class="components"> Безалкогольный газированный напиток</div>
+                <div class="pizza_meta">
+                	                    <div class="weight">
+                                        1 л – <span>80 р</span>
+                                        </div>
+                                                            <div class="buy_button add_to_cart" item_id="353">В корзину</div>
+                                                            
+                    <div class="clear"></div>
+                </div>
+                </div>
+                <div class="rating_wrap">
+                    	<div class="rating_stars " data-id="353">
+                        	<div class="star" data-position="1"></div>
+                            <div class="star" data-position="2"></div>
+                            <div class="star" data-position="3"></div>
+                            <div class="star" data-position="4"></div>
+                            <div class="star" data-position="5"></div>
+                        </div>
+                        <div class="stars_back  " data-current-rating="4.9892280071814" style="width: 119.741472172354px;"></div>
+                        <div class="total_voters">Всего оценок: <span>1114</span></div>
+                        <div class="vote_result vr_353"></div>
+                 </div>
+            </div>
+                                    <div class="pizza_one ">
+            	<div class="pizza_title"><a href="http://700-700.ru/fanta-1l-357/" class="item_popup_link" data-id="357">Фанта 1л</a></div>
+                <a href="http://700-700.ru/fanta-1l-357/" title="Фанта 1л" class="item_popup_link" data-id="357"><img width="210" height="288" src="img/Fanta-1l_logo-210x288.jpg" class="attachment-menu_210" alt="Фанта 1л_logo"></a>
+                <div class="pizza_all_meta">
+                <div class="components"> Безалкогольный газированный напиток</div>
+                <div class="pizza_meta">
+                	                    <div class="weight">
+                                        1 л – <span>80 р</span>
+                                        </div>
+                                                            <div class="buy_button add_to_cart" item_id="357">В корзину</div>
+                                                            
+                    <div class="clear"></div>
+                </div>
+                </div>
+                <div class="rating_wrap">
+                    	<div class="rating_stars " data-id="357">
+                        	<div class="star" data-position="1"></div>
+                            <div class="star" data-position="2"></div>
+                            <div class="star" data-position="3"></div>
+                            <div class="star" data-position="4"></div>
+                            <div class="star" data-position="5"></div>
+                        </div>
+                        <div class="stars_back  " data-current-rating="4.9963931469793" style="width: 119.913435527503px;"></div>
+                        <div class="total_voters">Всего оценок: <span>1109</span></div>
+                        <div class="vote_result vr_357"></div>
+                 </div>
+            </div>
+                                    <div class="pizza_one ">
+            	<div class="pizza_title"><a href="http://700-700.ru/voda-bonakva-1209/" class="item_popup_link" data-id="1209">Вода Бонаква</a></div>
+                <a href="http://700-700.ru/voda-bonakva-1209/" title="Вода Бонаква" class="item_popup_link" data-id="1209"><img width="210" height="288" src="img/Voda_Bonakva-1l_logo-210x288.jpg" class="attachment-menu_210" alt="Вода_Бонаква 1л_logo"></a>
+                <div class="pizza_all_meta">
+                <div class="components"> Негазированная вода</div>
+                <div class="pizza_meta">
+                	                    <div class="weight">
+                                        1 л – <span>80 р</span>
+                                        </div>
+                                                            <div class="buy_button incart" item_id="1209">Уже в корзине</div>
+                                                            
+                    <div class="clear"></div>
+                </div>
+                </div>
+                <div class="rating_wrap">
+                    	<div class="rating_stars" data-id="1209">
+                        	<div class="star" data-position="1"></div>
+                            <div class="star" data-position="2"></div>
+                            <div class="star" data-position="3"></div>
+                            <div class="star" data-position="4"></div>
+                            <div class="star" data-position="5"></div>
+                        </div>
+                        <div class="stars_back  " data-current-rating="4.9851439182915" style="width: 119.643454038996px; background: rgb(255, 51, 0);"></div>
+                        <div class="total_voters">Всего оценок: <span>1077</span></div>
+                        <div class="vote_result vr_1209"></div>
+                 </div>
+            </div>
+                                    <div class="pizza_one ">
+            	<div class="pizza_title"><a href="http://700-700.ru/sok-dobryiy-apelsin-386/" class="item_popup_link" data-id="386">Сок “Добрый” апельсин</a></div>
+                <a href="http://700-700.ru/sok-dobryiy-apelsin-386/" title="Сок “Добрый” апельсин" class="item_popup_link" data-id="386"><img width="210" height="288" src="img/Dobryiy-apelsin_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый апельсин_logo"></a>
+                <div class="pizza_all_meta">
+                <div class="components"> Апельсиновый сок</div>
+                <div class="pizza_meta">
+                	                    <div class="weight">
+                                        1 л – <span>80 р</span>
+                                        </div>
+                                                            <div class="buy_button add_to_cart" item_id="386">В корзину</div>
+                                                            
+                    <div class="clear"></div>
+                </div>
+                </div>
+                <div class="rating_wrap">
+                    	<div class="rating_stars " data-id="386">
+                        	<div class="star" data-position="1"></div>
+                            <div class="star" data-position="2"></div>
+                            <div class="star" data-position="3"></div>
+                            <div class="star" data-position="4"></div>
+                            <div class="star" data-position="5"></div>
+                        </div>
+                        <div class="stars_back  " data-current-rating="4.9917269906928" style="width: 119.801447776627px;"></div>
+                        <div class="total_voters">Всего оценок: <span>967</span></div>
+                        <div class="vote_result vr_386"></div>
+                 </div>
+            </div>
+                                    <div class="pizza_one ">
+            	<div class="pizza_title"><a href="http://700-700.ru/sok-dobryiy-tomatnyiy-389/" class="item_popup_link" data-id="389">Сок “Добрый” томатный</a></div>
+                <a href="http://700-700.ru/sok-dobryiy-tomatnyiy-389/" title="Сок “Добрый” томатный" class="item_popup_link" data-id="389"><img width="210" height="288" src="img/Dobryiy-tomatnyiy_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый томатный_logo"></a>
+                <div class="pizza_all_meta">
+                <div class="components"> Томатный сок</div>
+                <div class="pizza_meta">
+                	                    <div class="weight">
+                                        1 л – <span>80 р</span>
+                                        </div>
+                                                            <div class="buy_button add_to_cart" item_id="389">В корзину</div>
+                                                            
+                    <div class="clear"></div>
+                </div>
+                </div>
+                <div class="rating_wrap">
+                    	<div class="rating_stars " data-id="389">
+                        	<div class="star" data-position="1"></div>
+                            <div class="star" data-position="2"></div>
+                            <div class="star" data-position="3"></div>
+                            <div class="star" data-position="4"></div>
+                            <div class="star" data-position="5"></div>
+                        </div>
+                        <div class="stars_back  " data-current-rating="4.9918946301925" style="width: 119.80547112462px;"></div>
+                        <div class="total_voters">Всего оценок: <span>987</span></div>
+                        <div class="vote_result vr_389"></div>
+                 </div>
+            </div>
+                                    <div class="pizza_one ">
+            	<div class="pizza_title"><a href="http://700-700.ru/sok-dobryiy-yablochnyiy-392/" class="item_popup_link" data-id="392">Сок “Добрый” яблочный</a></div>
+                <a href="http://700-700.ru/sok-dobryiy-yablochnyiy-392/" title="Сок “Добрый” яблочный" class="item_popup_link" data-id="392"><img width="210" height="288" src="img/Dobryiy-yabloko_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый яблоко_logo"></a>
+                <div class="pizza_all_meta">
+                <div class="components"> Яблочный сок</div>
+                <div class="pizza_meta">
+                	                    <div class="weight">
+                                        1 л – <span>80 р</span>
+                                        </div>
+                                                            <div class="buy_button add_to_cart" item_id="392">В корзину</div>
+                                                            
+                    <div class="clear"></div>
+                </div>
+                </div>
+                <div class="rating_wrap">
+                    	<div class="rating_stars " data-id="392">
+                        	<div class="star" data-position="1"></div>
+                            <div class="star" data-position="2"></div>
+                            <div class="star" data-position="3"></div>
+                            <div class="star" data-position="4"></div>
+                            <div class="star" data-position="5"></div>
+                        </div>
+                        <div class="stars_back  " data-current-rating="4.9938398357289" style="width: 119.852156057494px;"></div>
+                        <div class="total_voters">Всего оценок: <span>974</span></div>
+                        <div class="vote_result vr_392"></div>
+                 </div>
+            </div>
+                                    <div class="pizza_one ">
+            	<div class="pizza_title"><a href="http://700-700.ru/sok-dobryiy-vinogradnyiy-395/" class="item_popup_link" data-id="395">Сок “Добрый” виноградный</a></div>
+                <a href="http://700-700.ru/sok-dobryiy-vinogradnyiy-395/" title="Сок “Добрый” виноградный" class="item_popup_link" data-id="395"><img width="210" height="288" src="img/Dobryiy-vinograd_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый виноград_logo"></a>
+                <div class="pizza_all_meta">
+                <div class="components"> Виноградный сок</div>
+                <div class="pizza_meta">
+                	                    <div class="weight">
+                                        1 л – <span>80 р</span>
+                                        </div>
+                                                            <div class="buy_button add_to_cart" item_id="395">В корзину</div>
+                                                            
+                    <div class="clear"></div>
+                </div>
+                </div>
+                <div class="rating_wrap">
+                    	<div class="rating_stars " data-id="395">
+                        	<div class="star" data-position="1"></div>
+                            <div class="star" data-position="2"></div>
+                            <div class="star" data-position="3"></div>
+                            <div class="star" data-position="4"></div>
+                            <div class="star" data-position="5"></div>
+                        </div>
+                        <div class="stars_back  " data-current-rating="4.9957805907173" style="width: 119.898734177215px;"></div>
+                        <div class="total_voters">Всего оценок: <span>948</span></div>
+                        <div class="vote_result vr_395"></div>
+                 </div>
+            </div>
+                        
+                        
         </div>
-        <div class="clear"></div>
+    </div>		
 </div>
 
 <div class="bottom_blocks">
@@ -159,17 +383,17 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
     <div class="clear"></div>
 </div>
 
-<div class="empty_inner"> </div>
+<div class="empty_inner_small"> </div>
 </div>
 
 <div id="footer">
 	<div class="footer_wrap">
-    	<div class="copyright"><a href="./index_files/index.html">Мастер Пицца</a> 2013. Все права защищены</div>
+    	<div class="copyright"><a href="http://700-700.ru/">Мастер Пицца</a> 2013. Все права защищены</div>
         
         <div class="footmenu">
         	<ul><li id="menu-item-424" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-424"><a href="http://700-700.ru/pizza/">Пицца</a></li>
 <li id="menu-item-425" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-425"><a href="http://700-700.ru/rolls/">Роллы</a></li>
-<li id="menu-item-426" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-426"><a href="http://700-700.ru/drinks/">Напитки</a></li>
+<li id="menu-item-426" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-426"><a href="./quart_files/quart.html">Напитки</a></li>
 <li id="menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-431"><a href="http://700-700.ru/kontaktyi/">Контакты и доставка</a></li>
 <li id="menu-item-432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-432"><a href="http://700-700.ru/guestbook/">Гостевая книга</a></li>
 </ul>        </div>
@@ -178,12 +402,12 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
     </div>
 </div>
 
-<div class="overlay"></div>
-<div class="popup cartform" data-noreg="1">
+<div class="overlay" style="display: block;"></div>
+<div class="popup cartform" data-noreg="1" style="display: block;">
 	<div class="close"></div>
     <div class="cart_preloader"></div>
     		    
-    <div class="empty_cart" style="display: block;"><h2>Ваша корзина пустая</h2></div>
+    <div class="empty_cart" style="display: none;"><h2>Ваша корзина пустая</h2></div>
     
             <div class="fastregister_wrap">
         	<div class="fast_reg_step_1">
@@ -223,9 +447,30 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
             <div class="fastregister_errors"></div>
         </div>
         
-    <div class="full_cart_data allcart" style="display: none;">
+    <div class="full_cart_data allcart" style="display: block;">
     
-    <div class="big_cart_wrapper">		        
+    <div class="big_cart_wrapper">                        <div class="order_line" discount="0" discount2="" cat="drinks">
+              <div class="order_ico tablecell"><a href="http://700-700.ru/voda-bonakva-1209/"><img width="76" height="104" src="img/Voda_Bonakva-1l_logo-76x104.jpg" class="attachment-menu_76" alt="Вода_Бонаква 1л_logo"></a></div>
+              <div class="order_title tablecell">
+                    <h3>Вода Бонаква</h3>
+                    <p>Негазированная вода</p>
+                                        
+                    
+                </div>
+                <div class="order_price tablecell" price="80">
+                    <span class="people_3"></span>80 р<span class="grey"> / 1 л</span>
+                                         	
+                </div>
+                <div class="order_count tablecell">
+                    <div class="number">
+                    	                                                <span class="item_counter" code="1009" item_id="1209">1</span>
+                        <div class="up"></div>
+                        <div class="down" style="opacity:0.3;"></div>
+                    </div>
+                </div>
+                <div class="tabledel tablecell"><span class="delthis" del_id="1209"><img src="img/delete.png"></span></div>
+            </div>
+            		        
         <div class="present_drinks hide">
         	<div class="pizza_present_buttons" pizza_discount="drinks" pizza_total_count="0" style="display: none;">
             	<h1>Вы можете воспользоваться одной из двух акций:</h1>
@@ -294,7 +539,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
     	<a href="" class="order_more">Заказать что-то еще</a>
         <div class="order_total_price">
         <div class="self_discount" dsk="0">Ваша скидка: <span class="red">0 р</span></div>
-        Итого: <span class="red"><span class="total">0</span> р</span></div>
+        Итого: <span class="red"><span class="total">80</span> р</span></div>
         <div class="clear"></div>
     </div>
     
@@ -368,7 +613,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
         
         <div class="order_formline">
         	<h4>Способ оплаты</h4>
-            	<div class="paymethod first active" id="set_order_cash">
+            	<div class="paymethod first" id="set_order_cash">
                 	<h2>Оплата<br>наличными</h2>
                     <div class="paymethod_desc">
                             <p>Выбирайте этот метод оплаты, если Вы будете оплачивать заказ наличными деньгами.</p>
@@ -380,7 +625,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
                     </div>
                 </div>
                 
-                <div class="paymethod" id="set_order_online">
+                <div class="paymethod active" id="set_order_online">
                 	<h2>Моментальная<br>оплата</h2>
                     <div class="paymethod_desc">
                     	<p>Выбирайте этот метод оплаты, если Вы хотите оплатить заказ в онлайн-режиме прямо сейчас.</p>
@@ -400,19 +645,15 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
         </div>
         
         <div class="order_formline " id="payment_desc">
-            	<p>Выбирайте этот метод оплаты, если Вы будете оплачивать заказ наличными деньгами.</p>
-                <p>Если Вам потребуется сдача, укажите, пожалуйста, с какой суммы.</p>
-                <p>
-            	<label>Сдача с </label>
-                <input type="text" name="nominal" class="order_nominal" value=""> руб.
-                </p>
-        </div>
+                    	<p>Выбирайте этот метод оплаты, если Вы хотите оплатить заказ в онлайн-режиме прямо сейчас.</p>
+                        <p>Вы можете оплатить заказ банковской картой, электронными деньгами (Яндекс.Деньги, Webmoney, Qiwi и т.д.), с помощью СМС (Мегафон, Билайн, МТС), а так же с помощью мобильного приложения для IPhone.</p>
+                    </div>
         
         <div class="order_formline" style="display:none;">
         	<div class="order_formcell">
-				<label class="cardcell"><input name="paymethod" type="radio" id="order_cash" checked="checked">Я хочу оплачить заказ наличными</label>
+				<label class="cardcell"><input name="paymethod" type="radio" id="order_cash">Я хочу оплачить заказ наличными</label>
                 <label class="cardcell"><input name="paymethod" type="radio" id="order_cardpay">Я хочу оплатить заказ пластиковой картой</label>
-                <label class="cardcell"><input name="paymethod" type="radio" id="order_online">Я хочу оплатить заказ онлайн (Robokassa)</label>
+                <label class="cardcell"><input name="paymethod" type="radio" id="order_online" checked="checked">Я хочу оплатить заказ онлайн (Robokassa)</label>
             </div>
         </div>
         
@@ -670,9 +911,38 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
         
 </div>
 
-<div class="itempopup popup">
+<div class="itempopup popup" style="display: none;">
 	<div class="close"></div> 
-    <div class="itempopup_wrap"></div>
+    <div class="itempopup_wrap">
+    	    	        <div class="single_pizza">        	
+        	<div class="single_leftside">
+                <img width="560" height="770" src="img/Dobryiy-yabloko_logo-560x770.jpg" class="attachment-menu_560" alt="Добрый яблоко_logo">            </div>
+            <div class="single_rightside">
+            	<h1>Сок “Добрый” яблочный</h1>
+            	                                <h5>Описание</h5>
+                	Яблочный сок                                                    <div class="weight">
+                                        <ul class="variants">
+                    <li class="current">1 л – <span>80 р</span></li>
+                    </ul>
+                                    
+                <div class="single_pizza_meta">
+                	                                        <div class="buy_button add_to_cart" item_id="392">В корзину</div>
+                                                            <div class="clear"></div>
+                </div>
+                
+                <div class="calories">
+                	<h4>Пищевая и энергетическая<br>ценность в 100 г продукта:</h4>
+                    <ul>
+                        <li><label>Белки</label><span>0.5 г</span></li>
+                        <li><label>Жиры</label><span>0.2 г</span></li>
+                        <li><label>Углеводы</label><span>11.7 г</span></li>
+                        <li><label>Калории</label><span>46.8 Ккал</span></li>
+                    </ul>
+                </div>
+            </div>
+           
+        </div>
+        </div></div>
 </div>
 
 <div class="popup registerpopup">
@@ -728,7 +998,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
             <div class="formline">
             	<input type="submit" value="Войти" id="popup_login_button">
                 <input type="hidden" name="redirect_to" value="/profile">
-				<input type="hidden" id="security" name="security" value="81586d0fec"><input type="hidden" name="_wp_http_referer" value="/">            </div>
+				<input type="hidden" id="security" name="security" value="81586d0fec"><input type="hidden" name="_wp_http_referer" value="/drinks/">            </div>
             <div class="formline"><a href="" id="open_forget">забыли пароль?</a></div> 
             <div class="login_result"></div>
             </form>
