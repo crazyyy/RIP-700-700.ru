@@ -47,8 +47,12 @@
 <!-- <body minorder="350" minorderself="60" hola-ext-player="1"> -->
 
     <div class="wrap">
-        <div class="pseudohead"></div>
+    <?php if ( is_front_page() && is_home() ){
 
+    } else {
+     ?>
+        <div class="pseudohead"></div>
+	<?php } ?>
         <div class="header">
             <div class="head_wrap">
                 <div class="logo">

@@ -246,7 +246,11 @@ a {
         height: 80px;
     }
 }
-
+body.home {
+	.pseudohead {
+		display: none;
+	}
+}
 .newyear .header {
     height: 200px;
 }
