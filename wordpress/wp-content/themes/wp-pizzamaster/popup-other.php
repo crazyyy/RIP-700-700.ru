@@ -23,22 +23,22 @@
     <div class="sous_data">
         <h2>Выберите бесплатный соус к корочкам</h2>
         <div class="sous_img" sous_id="85">
-            <img width="76" height="76" src="img/chesnochnyiy-76x76.jpg" class="attachment-menu_76" alt="чесночный">
+            <img width="76" height="76" src="<?php echo get_template_directory_uri(); ?>/img/chesnochnyiy-76x76.jpg" class="attachment-menu_76" alt="чесночный">
             <br>
             <div class="sous_title">Чесночный</div>
         </div>
         <div class="sous_img" sous_id="81">
-            <img width="76" height="76" src="img/syirnyiy-76x76.jpg" class="attachment-menu_76" alt="сырный">
+            <img width="76" height="76" src="<?php echo get_template_directory_uri(); ?>/img/syirnyiy-76x76.jpg" class="attachment-menu_76" alt="сырный">
             <br>
             <div class="sous_title">Сырный</div>
         </div>
         <div class="sous_img" sous_id="79">
-            <img width="76" height="76" src="img/kislo-sladkiy-76x76.jpg" class="attachment-menu_76" alt="кисло-сладкий">
+            <img width="76" height="76" src="<?php echo get_template_directory_uri(); ?>/img/kislo-sladkiy-76x76.jpg" class="attachment-menu_76" alt="кисло-сладкий">
             <br>
             <div class="sous_title">Кисло-сладкий</div>
         </div>
         <div class="sous_img" sous_id="70">
-            <img width="76" height="76" src="img/barbekyu-76x76.jpg" class="attachment-menu_76" alt="барбекью">
+            <img width="76" height="76" src="<?php echo get_template_directory_uri(); ?>/img/barbekyu-76x76.jpg" class="attachment-menu_76" alt="барбекью">
             <br>
             <div class="sous_title">Барбекю</div>
         </div>
