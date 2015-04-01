@@ -1,97 +1,6 @@
-<!DOCTYPE html>
-<!-- saved from url=(0025)http://700-700.ru/drinks/ -->
-<html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="ru" hola_ext_inject="ready"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta charset="utf-8">
-    <title>Напитки | 700-700 | Пицца Мастер</title>
-    <meta name="title" content="Пицца Вологда">
-    <meta name="viewport" content="maximum-scale=4, minimum-scale=0.1, width=1300">    
-	<meta name="author" content="">
-   <link rel="shortcut icon" href="img//favicon.gif" type="image/x-icon">
-    <link href="css/reset.css" rel="stylesheet" type="text/css">
-        
-        <!--[if IE]><link href="http://700-700.ru/wp-content/themes/pizzamaster2/css/ie.css" rel="stylesheet" media="all" /><![endif]-->
-    <script type="text/javascript" async="" src="http://mc.yandex.ru/metrika/watch.js"></script><script async="" src="http://www.google-analytics.com/analytics.js"></script><script src="js/modernizr-2.0.6.min.js"></script>
-    <script src="js/jquery.js"></script>
-    <script src="js/scripts.js"></script>
-    <script src="js/mask.js"></script>
-    <script src="js/cookie.js"></script>
-    <script src="js/responsiveslides.min.js"></script>
-    <script src="js/mousewheel.js"></script>
-	<script src="js/timeto.js"></script>
-    <script src="js/fancybox.js"></script>
-    <script type="text/javascript" src="js/jquery.fancybox-media.js"></script>
-    <script src="js/scrollbar.js"></script>
-    <link rel="alternate" type="application/rss+xml" title="700-700 | Пицца Мастер » Лента рубрики Напитки" href="http://700-700.ru/drinks/feed/">
+<!-- /* Template Name: Quart Template */  -->
+<?php get_header(); ?>
 
-<script type="text/javascript" src="js/jquery(1).js"></script>
-<script type="text/javascript" src="js/jquery-migrate.min.js"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://700-700.ru/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://700-700.ru/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 3.9.2">
-<script type="text/javascript">
-var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
-</script>
-
-<!-- All in One SEO Pack 2.1.1 by Michael Torbert of Semper Fi Web Design[337,353] -->
-<meta name="robots" content="noindex,follow">
-
-<link rel="canonical" href="./quart_files/quart.html">
-<!-- /all in one seo pack -->
-</head>
-<body minorder="350" minorderself="60" hola-ext-player="1">
-		
-		
-	
-
-
-    
-<div class="wrap">
-<div class="pseudohead fixed"></div>
-
-<div class="header fixed">    
-    <div class="head_wrap">
-    	<div class="logo">
-                        <a href="http://700-700.ru/"><img src="img/Master_logo_vologda700700_2.png" title="Пицца-Мастер" alt="Доставка пиццы в Вологде"></a>
-                    </div>
-
-    	<div class="userlinks">
-        	            <a href="" class="loginpopup_open">Личный кабинет</a> | <a href="" class="open_register">Регистрация</a>
-                    </div>
-    	<div class="freedelivery">
-        	<div class="phones">700-700<br>70-9999</div>
-            <div class="freedel_text">Бесплатная<br>доставка<br>в Вологде</div>
-        </div>
-    	<div class="headcart">
-			            <div class="cart_counter opencartpopup">1</div>
-                        <a href="" class="order opencartpopup">Оформить заказ</a>
-            <h1>Корзина</h1>
-            <p>товар(-ов) на <span class="totalcartsum">80</span> руб.</p>
-            
-        </div>
-        
-    	<div class="menubg"></div>
-    	<div class="left_menu">
-        	<ul><li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="http://700-700.ru/">Главная</a></li>
-<li id="menu-item-950" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-950"><a href="http://700-700.ru/menu">Меню</a>
-<ul class="sub-menu" style="display: none;">
-	<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="http://700-700.ru/pizza/">Пицца</a></li>
-	<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="http://700-700.ru/rolls/">Роллы</a></li>
-	<li id="menu-item-1178" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1178"><a href="http://700-700.ru/masters/">Мастерсы</a></li>
-	<li id="menu-item-11634" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11634"><a href="http://700-700.ru/zakuski/">Закуски</a></li>
-	<li id="menu-item-1882" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1882"><a href="http://700-700.ru/salat/">Салаты</a></li>
-	<li id="menu-item-44" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-44"><a href="./quart_files/quart.html">Напитки</a></li>
-</ul>
-</li>
-<li id="menu-item-951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-951"><a href="http://700-700.ru/constructor-pizza/">Конструктор пиццы</a></li>
-</ul>        </div>
-        
-        <div class="right_menu">
-        	<ul><li id="menu-item-11618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11618"><a href="http://700-700.ru/pochemu-myi/">Почему мы?</a></li>
-<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="http://700-700.ru/kontaktyi/">Доставка</a></li>
-<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://700-700.ru/guestbook/">Гостевая книга</a></li>
-</ul>        </div>
-    </div>
-</div>
 <div class="main">
 	<div class="content_wrap">
     	<h2><span class="left_pimpa">~~~</span>  Напитки<span class="right_pimpa">~~~</span></h2>
@@ -106,7 +15,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
         <div class="pizzalist">
         	                        <div class="pizza_one ">
             	<div class="pizza_title"><a href="http://700-700.ru/koka-kola-1-5l-345/" class="item_popup_link" data-id="345">Кока-кола 1.5л</a></div>
-                <a href="http://700-700.ru/koka-kola-1-5l-345/" title="Кока-кола 1.5л" class="item_popup_link" data-id="345"><img width="210" height="288" src="img/koka-kola-1.5l_logo-210x288.jpg" class="attachment-menu_210" alt="кока-кола 1.5л_logo"></a>
+                <a href="http://700-700.ru/koka-kola-1-5l-345/" title="Кока-кола 1.5л" class="item_popup_link" data-id="345"><img width="210" height="288" src="<?php echo get_template_directory_uri(); ?>/img/koka-kola-1.5l_logo-210x288.jpg" class="attachment-menu_210" alt="кока-кола 1.5л_logo"></a>
                 <div class="pizza_all_meta">
                 <div class="components"> Безалкогольный газированный напиток</div>
                 <div class="pizza_meta">
@@ -133,7 +42,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
             </div>
                                     <div class="pizza_one ">
             	<div class="pizza_title"><a href="http://700-700.ru/koka-kola-1l-349/" class="item_popup_link" data-id="349">Кока-кола 1л</a></div>
-                <a href="http://700-700.ru/koka-kola-1l-349/" title="Кока-кола 1л" class="item_popup_link" data-id="349"><img width="210" height="288" src="img/Koka-kola-1l_logo-210x288.jpg" class="attachment-menu_210" alt="Кока-кола 1л_logo"></a>
+                <a href="http://700-700.ru/koka-kola-1l-349/" title="Кока-кола 1л" class="item_popup_link" data-id="349"><img width="210" height="288" src="<?php echo get_template_directory_uri(); ?>/img/Koka-kola-1l_logo-210x288.jpg" class="attachment-menu_210" alt="Кока-кола 1л_logo"></a>
                 <div class="pizza_all_meta">
                 <div class="components"> Безалкогольный газированный напиток</div>
                 <div class="pizza_meta">
@@ -160,7 +69,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
             </div>
                                     <div class="pizza_one ">
             	<div class="pizza_title"><a href="http://700-700.ru/sprayt-1l-353/" class="item_popup_link" data-id="353">Спрайт 1л</a></div>
-                <a href="http://700-700.ru/sprayt-1l-353/" title="Спрайт 1л" class="item_popup_link" data-id="353"><img width="210" height="288" src="img/sprayt-1l_logo-210x288.jpg" class="attachment-menu_210" alt="спрайт 1л_logo"></a>
+                <a href="http://700-700.ru/sprayt-1l-353/" title="Спрайт 1л" class="item_popup_link" data-id="353"><img width="210" height="288" src="<?php echo get_template_directory_uri(); ?>/img/sprayt-1l_logo-210x288.jpg" class="attachment-menu_210" alt="спрайт 1л_logo"></a>
                 <div class="pizza_all_meta">
                 <div class="components"> Безалкогольный газированный напиток</div>
                 <div class="pizza_meta">
@@ -187,7 +96,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
             </div>
                                     <div class="pizza_one ">
             	<div class="pizza_title"><a href="http://700-700.ru/fanta-1l-357/" class="item_popup_link" data-id="357">Фанта 1л</a></div>
-                <a href="http://700-700.ru/fanta-1l-357/" title="Фанта 1л" class="item_popup_link" data-id="357"><img width="210" height="288" src="img/Fanta-1l_logo-210x288.jpg" class="attachment-menu_210" alt="Фанта 1л_logo"></a>
+                <a href="http://700-700.ru/fanta-1l-357/" title="Фанта 1л" class="item_popup_link" data-id="357"><img width="210" height="288" src="<?php echo get_template_directory_uri(); ?>/img/Fanta-1l_logo-210x288.jpg" class="attachment-menu_210" alt="Фанта 1л_logo"></a>
                 <div class="pizza_all_meta">
                 <div class="components"> Безалкогольный газированный напиток</div>
                 <div class="pizza_meta">
@@ -214,7 +123,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
             </div>
                                     <div class="pizza_one ">
             	<div class="pizza_title"><a href="http://700-700.ru/voda-bonakva-1209/" class="item_popup_link" data-id="1209">Вода Бонаква</a></div>
-                <a href="http://700-700.ru/voda-bonakva-1209/" title="Вода Бонаква" class="item_popup_link" data-id="1209"><img width="210" height="288" src="img/Voda_Bonakva-1l_logo-210x288.jpg" class="attachment-menu_210" alt="Вода_Бонаква 1л_logo"></a>
+                <a href="http://700-700.ru/voda-bonakva-1209/" title="Вода Бонаква" class="item_popup_link" data-id="1209"><img width="210" height="288" src="<?php echo get_template_directory_uri(); ?>/img/Voda_Bonakva-1l_logo-210x288.jpg" class="attachment-menu_210" alt="Вода_Бонаква 1л_logo"></a>
                 <div class="pizza_all_meta">
                 <div class="components"> Негазированная вода</div>
                 <div class="pizza_meta">
@@ -241,7 +150,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
             </div>
                                     <div class="pizza_one ">
             	<div class="pizza_title"><a href="http://700-700.ru/sok-dobryiy-apelsin-386/" class="item_popup_link" data-id="386">Сок “Добрый” апельсин</a></div>
-                <a href="http://700-700.ru/sok-dobryiy-apelsin-386/" title="Сок “Добрый” апельсин" class="item_popup_link" data-id="386"><img width="210" height="288" src="img/Dobryiy-apelsin_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый апельсин_logo"></a>
+                <a href="http://700-700.ru/sok-dobryiy-apelsin-386/" title="Сок “Добрый” апельсин" class="item_popup_link" data-id="386"><img width="210" height="288" src="<?php echo get_template_directory_uri(); ?>/img/Dobryiy-apelsin_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый апельсин_logo"></a>
                 <div class="pizza_all_meta">
                 <div class="components"> Апельсиновый сок</div>
                 <div class="pizza_meta">
@@ -268,7 +177,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
             </div>
                                     <div class="pizza_one ">
             	<div class="pizza_title"><a href="http://700-700.ru/sok-dobryiy-tomatnyiy-389/" class="item_popup_link" data-id="389">Сок “Добрый” томатный</a></div>
-                <a href="http://700-700.ru/sok-dobryiy-tomatnyiy-389/" title="Сок “Добрый” томатный" class="item_popup_link" data-id="389"><img width="210" height="288" src="img/Dobryiy-tomatnyiy_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый томатный_logo"></a>
+                <a href="http://700-700.ru/sok-dobryiy-tomatnyiy-389/" title="Сок “Добрый” томатный" class="item_popup_link" data-id="389"><img width="210" height="288" src="<?php echo get_template_directory_uri(); ?>/img/Dobryiy-tomatnyiy_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый томатный_logo"></a>
                 <div class="pizza_all_meta">
                 <div class="components"> Томатный сок</div>
                 <div class="pizza_meta">
@@ -295,7 +204,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
             </div>
                                     <div class="pizza_one ">
             	<div class="pizza_title"><a href="http://700-700.ru/sok-dobryiy-yablochnyiy-392/" class="item_popup_link" data-id="392">Сок “Добрый” яблочный</a></div>
-                <a href="http://700-700.ru/sok-dobryiy-yablochnyiy-392/" title="Сок “Добрый” яблочный" class="item_popup_link" data-id="392"><img width="210" height="288" src="img/Dobryiy-yabloko_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый яблоко_logo"></a>
+                <a href="http://700-700.ru/sok-dobryiy-yablochnyiy-392/" title="Сок “Добрый” яблочный" class="item_popup_link" data-id="392"><img width="210" height="288" src="<?php echo get_template_directory_uri(); ?>/img/Dobryiy-yabloko_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый яблоко_logo"></a>
                 <div class="pizza_all_meta">
                 <div class="components"> Яблочный сок</div>
                 <div class="pizza_meta">
@@ -322,7 +231,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
             </div>
                                     <div class="pizza_one ">
             	<div class="pizza_title"><a href="http://700-700.ru/sok-dobryiy-vinogradnyiy-395/" class="item_popup_link" data-id="395">Сок “Добрый” виноградный</a></div>
-                <a href="http://700-700.ru/sok-dobryiy-vinogradnyiy-395/" title="Сок “Добрый” виноградный" class="item_popup_link" data-id="395"><img width="210" height="288" src="img/Dobryiy-vinograd_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый виноград_logo"></a>
+                <a href="http://700-700.ru/sok-dobryiy-vinogradnyiy-395/" title="Сок “Добрый” виноградный" class="item_popup_link" data-id="395"><img width="210" height="288" src="<?php echo get_template_directory_uri(); ?>/img/Dobryiy-vinograd_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый виноград_logo"></a>
                 <div class="pizza_all_meta">
                 <div class="components"> Виноградный сок</div>
                 <div class="pizza_meta">
@@ -353,6 +262,8 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
     </div>		
 </div>
 
+
+<!-- footer -->
 <div class="bottom_blocks">
 	<div class="subscribe">
     	Рассылка вкусных предложений
@@ -363,11 +274,11 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
         <div class="subscribe_message"></div>
     </div>
     <div class="work">
-    	<img src="img/work.png">
+    	<img src="<?php echo get_template_directory_uri(); ?>/img/work.png">
         <h3>Хотите у нас работать?</h3>
 		<a href="" id="wantwork">Заполните анкету!</a>
         <ul class="social">
-        	<li><noindex><a href="http://vk.com/pizza700700" target="_blank" rel="nofollow"><img src="img/vk.jpg"></a></noindex></li>
+        	<li><noindex><a href="http://vk.com/pizza700700" target="_blank" rel="nofollow"><img src="<?php echo get_template_directory_uri(); ?>/img/vk.jpg"></a></noindex></li>
             <!--
             <li><a href=""><img src="http://700-700.ru/wp-content/themes/pizzamaster2/images/fb.jpg" /></a></li>
             <li><a href=""><img src="http://700-700.ru/wp-content/themes/pizzamaster2/images/tw.jpg" /></a></li>
@@ -376,7 +287,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
         </ul>
     </div>
     <div class="quality">
-    	<img src="img/qality.png">
+    	<img src="<?php echo get_template_directory_uri(); ?>/img/qality.png">
         <h3><a href="http://700-700.ru/quality">Качество на первом месте.</a></h3>
         <p>Качество под контролем. Совершенство в развитии!</p>
     </div>
@@ -403,6 +314,9 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
 </div>
 
 <div class="overlay" style="display: block;"></div>
+
+
+<!-- 111111111111111 -->
 <div class="popup cartform" data-noreg="1" style="display: block;">
 	<div class="close"></div>
     <div class="cart_preloader"></div>
@@ -415,7 +329,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
             <p>Ваш телефон: <span id="your_fast_phone"></span></p>
             
 			<div class="fast_pass">
-                <input type="password" id="fast_reg_pass1" placeholder="пароль, минимум 6 знаков" style="font-weight:normal;" "="">
+                <input type="password" id="fast_reg_pass1" placeholder="пароль, минимум 6 знаков" >
             </div>
             <p>Если Вы уже зарегистрированный пользователь, то введите свой пароль.</p>
             <p>Если нет, то придумайте новый пароль. Больше ничего не понадобится!</p>
@@ -450,7 +364,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
     <div class="full_cart_data allcart" style="display: block;">
     
     <div class="big_cart_wrapper">                        <div class="order_line" discount="0" discount2="" cat="drinks">
-              <div class="order_ico tablecell"><a href="http://700-700.ru/voda-bonakva-1209/"><img width="76" height="104" src="img/Voda_Bonakva-1l_logo-76x104.jpg" class="attachment-menu_76" alt="Вода_Бонаква 1л_logo"></a></div>
+              <div class="order_ico tablecell"><a href="http://700-700.ru/voda-bonakva-1209/"><img width="76" height="104" src="<?php echo get_template_directory_uri(); ?>/img/Voda_Bonakva-1l_logo-76x104.jpg" class="attachment-menu_76" alt="Вода_Бонаква 1л_logo"></a></div>
               <div class="order_title tablecell">
                     <h3>Вода Бонаква</h3>
                     <p>Негазированная вода</p>
@@ -468,7 +382,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
                         <div class="down" style="opacity:0.3;"></div>
                     </div>
                 </div>
-                <div class="tabledel tablecell"><span class="delthis" del_id="1209"><img src="img/delete.png"></span></div>
+                <div class="tabledel tablecell"><span class="delthis" del_id="1209"><img src="<?php echo get_template_directory_uri(); ?>/img/delete.png"></span></div>
             </div>
             		        
         <div class="present_drinks hide">
@@ -481,7 +395,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
                 <h1>Вы можете выбрать бесплатные напитки: <span id="drink_count">0</span></h1>
                                 <div class="p_drink_one">
                     <div class="p_drink_img">
-                        <img width="76" height="104" src="img/Fanta-1l_logo-76x104.jpg" class="attachment-menu_76" alt="Фанта 1л_logo">                    </div>	
+                        <img width="76" height="104" src="<?php echo get_template_directory_uri(); ?>/img/Fanta-1l_logo-76x104.jpg" class="attachment-menu_76" alt="Фанта 1л_logo">                    </div>	
                     <div class="p_drink_title">
                         <h4>Фанта 1л</h4>
                         <div class="number">
@@ -494,7 +408,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
                 </div>
                             <div class="p_drink_one">
                     <div class="p_drink_img">
-                        <img width="76" height="104" src="img/sprayt-1l_logo-76x104.jpg" class="attachment-menu_76" alt="спрайт 1л_logo">                    </div>	
+                        <img width="76" height="104" src="<?php echo get_template_directory_uri(); ?>/img/sprayt-1l_logo-76x104.jpg" class="attachment-menu_76" alt="спрайт 1л_logo">                    </div>	
                     <div class="p_drink_title">
                         <h4>Спрайт 1л</h4>
                         <div class="number">
@@ -507,7 +421,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
                 </div>
                             <div class="p_drink_one">
                     <div class="p_drink_img">
-                        <img width="76" height="104" src="img/koka-kola-1.5l_logo-76x104.jpg" class="attachment-menu_76" alt="кока-кола 1.5л_logo">                    </div>	
+                        <img width="76" height="104" src="<?php echo get_template_directory_uri(); ?>/img/koka-kola-1.5l_logo-76x104.jpg" class="attachment-menu_76" alt="кока-кола 1.5л_logo">                    </div>	
                     <div class="p_drink_title">
                         <h4>Кола 1л</h4>
                         <div class="number">
@@ -520,7 +434,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
                 </div>
                             <div class="p_drink_one">
                     <div class="p_drink_img">
-                        <img width="76" height="104" src="img/Voda_Bonakva-1l_logo-76x104.jpg" class="attachment-menu_76" alt="Вода_Бонаква 1л_logo">                    </div>	
+                        <img width="76" height="104" src="<?php echo get_template_directory_uri(); ?>/img/Voda_Bonakva-1l_logo-76x104.jpg" class="attachment-menu_76" alt="Вода_Бонаква 1л_logo">                    </div>	
                     <div class="p_drink_title">
                         <h4>Бонаква 1л</h4>
                         <div class="number">
@@ -801,11 +715,11 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
         <input type="hidden" id="vote_title" value="">
         <input type="hidden" id="vote_desc" value="">
         <input type="hidden" id="vote_img" value="">
-        <a href="" id="vk" class="voter"><img src="img/v_vk.png"></a>
-        <a href="" id="fb" class="voter"><img src="img/v_fb.png"></a>
-        <a href="" id="tw" class="voter"><img src="img/v_tw.png"></a>     
-        <a href="" id="ok" class="voter"><img src="img/v_ok.png"></a>
-        <a href="" id="mm" class="voter"><img src="img/v_mm.png"></a>
+        <a href="" id="vk" class="voter"><img src="<?php echo get_template_directory_uri(); ?>/img/v_vk.png"></a>
+        <a href="" id="fb" class="voter"><img src="<?php echo get_template_directory_uri(); ?>/img/v_fb.png"></a>
+        <a href="" id="tw" class="voter"><img src="<?php echo get_template_directory_uri(); ?>/img/v_tw.png"></a>     
+        <a href="" id="ok" class="voter"><img src="<?php echo get_template_directory_uri(); ?>/img/v_ok.png"></a>
+        <a href="" id="mm" class="voter"><img src="<?php echo get_template_directory_uri(); ?>/img/v_mm.png"></a>
         </div>
     </div>
 </div>
@@ -887,19 +801,19 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
         <div class="sous_data">
         		<h2>Выберите бесплатный соус к корочкам</h2>
                                                 <div class="sous_img" sous_id="85">
-                <img width="76" height="76" src="img/chesnochnyiy-76x76.jpg" class="attachment-menu_76" alt="чесночный"><br>
+                <img width="76" height="76" src="<?php echo get_template_directory_uri(); ?>/img/chesnochnyiy-76x76.jpg" class="attachment-menu_76" alt="чесночный"><br>
                 <div class="sous_title">Чесночный</div>
                 </div>
                                 <div class="sous_img" sous_id="81">
-                <img width="76" height="76" src="img/syirnyiy-76x76.jpg" class="attachment-menu_76" alt="сырный"><br>
+                <img width="76" height="76" src="<?php echo get_template_directory_uri(); ?>/img/syirnyiy-76x76.jpg" class="attachment-menu_76" alt="сырный"><br>
                 <div class="sous_title">Сырный</div>
                 </div>
                                 <div class="sous_img" sous_id="79">
-                <img width="76" height="76" src="img/kislo-sladkiy-76x76.jpg" class="attachment-menu_76" alt="кисло-сладкий"><br>
+                <img width="76" height="76" src="<?php echo get_template_directory_uri(); ?>/img/kislo-sladkiy-76x76.jpg" class="attachment-menu_76" alt="кисло-сладкий"><br>
                 <div class="sous_title">Кисло-сладкий</div>
                 </div>
                                 <div class="sous_img" sous_id="70">
-                <img width="76" height="76" src="img/barbekyu-76x76.jpg" class="attachment-menu_76" alt="барбекью"><br>
+                <img width="76" height="76" src="<?php echo get_template_directory_uri(); ?>/img/barbekyu-76x76.jpg" class="attachment-menu_76" alt="барбекью"><br>
                 <div class="sous_title">Барбекю</div>
                 </div>
                                 <div class="with_heart">
@@ -916,7 +830,7 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
     <div class="itempopup_wrap">
     	    	        <div class="single_pizza">        	
         	<div class="single_leftside">
-                <img width="560" height="770" src="img/Dobryiy-yabloko_logo-560x770.jpg" class="attachment-menu_560" alt="Добрый яблоко_logo">            </div>
+                <img width="560" height="770" src="<?php echo get_template_directory_uri(); ?>/img/Dobryiy-yabloko_logo-560x770.jpg" class="attachment-menu_560" alt="Добрый яблоко_logo">            </div>
             <div class="single_rightside">
             	<h1>Сок “Добрый” яблочный</h1>
             	                                <h5>Описание</h5>
@@ -1030,13 +944,13 @@ var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
 
 <div style="display:none" id="half_indicator" is_full="0"></div>
 <div style="display:none" id="half_indicator_30" is_full="0"></div>
-<script type="text/javascript" src="js/jquery.form.min.js"></script>
+<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery.form.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"http:\/\/700-700.ru\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"\u041e\u0442\u043f\u0440\u0430\u0432\u043a\u0430..."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="js/scripts(1).js"></script>
+<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/scripts(1).js"></script>
 
 <script>
 	$(document).ready(function(e) {	
@@ -1044,43 +958,8 @@ var _wpcf7 = {"loaderUrl":"http:\/\/700-700.ru\/wp-content\/plugins\/contact-for
 	});
 </script>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-40703490-1', '700-700.ru');
-  ga('send', 'pageview');
 
-</script>
 
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-(function (d, w, c) {
-    (w[c] = w[c] || []).push(function() {
-        try {
-            w.yaCounter23458024 = new Ya.Metrika({id:23458024,
-                    webvisor:true,
-                    clickmap:true,
-                    trackLinks:true,
-                    accurateTrackBounce:true});
-        } catch(e) { }
-    });
-
-    var n = d.getElementsByTagName("script")[0],
-        s = d.createElement("script"),
-        f = function () { n.parentNode.insertBefore(s, n); };
-    s.type = "text/javascript";
-    s.async = true;
-    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
-
-    if (w.opera == "[object Opera]") {
-        d.addEventListener("DOMContentLoaded", f, false);
-    } else { f(); }
-})(document, window, "yandex_metrika_callbacks");
-</script>
-<noscript>&lt;div&gt;&lt;img src="//mc.yandex.ru/watch/23458024" style="position:absolute; left:-9999px;" alt="" /&gt;&lt;/div&gt;</noscript>
-<!-- /Yandex.Metrika counter -->
 
 <spots-wrapper></spots-wrapper></body></html>

@@ -5,7 +5,7 @@
     <meta charset="<?php bloginfo( 'charset' ); ?>">
     <title>
         <?php wp_title( '' ); ?>
-        <?php if ( wp_title( '', false ) ) { echo ' :'; } ?>
+        <?php if ( wp_title( '', false ) ) { echo ':'; } ?>
         <?php bloginfo( 'name' ); ?>
     </title>
 
@@ -23,19 +23,19 @@
     	<link href="http://700-700.ru/wp-content/themes/pizzamaster2/css/ie.css" rel="stylesheet" media="all" />
     <![endif]-->
 
-    <script src="js/modernizr-2.0.6.min.js"></script>
-    <script src="js/jquery.js"></script>
-    <script src="js/scripts.js"></script>
-    <script src="js/mask.js"></script>
-    <script src="js/cookie.js"></script>
-    <script src="js/responsiveslides.min.js"></script>
-    <script src="js/mousewheel.js"></script>
-    <script src="js/timeto.js"></script>
-    <script src="js/fancybox.js"></script>
-    <script type="text/javascript" src="js/jquery.fancybox-media.js"></script>
-    <script src="js/scrollbar.js"></script>
-    <script type="text/javascript" src="js/jquery(1).js"></script>
-    <script type="text/javascript" src="js/jquery-migrate.min.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/modernizr-2.0.6.min.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/scripts.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/mask.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/cookie.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/responsiveslides.min.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/mousewheel.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/timeto.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/fancybox.js"></script>
+    <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery.fancybox-media.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/scrollbar.js"></script>
+    <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery(1).js"></script>
+    <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery-migrate.min.js"></script>
     <script type="text/javascript">
         var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
     </script>

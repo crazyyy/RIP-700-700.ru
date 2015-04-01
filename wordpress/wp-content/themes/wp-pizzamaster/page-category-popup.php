@@ -1,126 +1,6 @@
-<!DOCTYPE html>
-<!-- saved from url=(0024)http://700-700.ru/pizza/ -->
-<html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="ru" hola_ext_inject="ready">
-<!--<![endif]-->
+<!-- /* Template Name: Category-Popup Template */  -->
+<?php get_header(); ?>
 
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-    <meta charset="utf-8">
-    <title>Пицца | 700-700 | Пицца Мастер</title>
-    <meta name="title" content="Пицца Вологда">
-    <meta name="viewport" content="maximum-scale=4, minimum-scale=0.1, width=1300">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="img/favicon.gif" type="image/x-icon">
-
-    <link href="css/reset.css" rel="stylesheet" type="text/css">
-
-
-    <!--[if IE]><link href="http://700-700.ru/wp-content/themes/pizzamaster2/css/ie.css" rel="stylesheet" media="all" /><![endif]-->
-    <script type="text/javascript" async="" src="http://mc.yandex.ru/metrika/watch.js"></script>
-    <script async="" src="http://www.google-analytics.com/analytics.js"></script>
-    <script src="js/modernizr-2.0.6.min.js"></script>
-    <script src="js/jquery.js"></script>
-    <script src="js/scripts.js"></script>
-    <script src="js/mask.js"></script>
-    <script src="js/cookie.js"></script>
-    <script src="js/responsiveslides.min.js"></script>
-    <script src="js/mousewheel.js"></script>
-    <script src="js/timeto.js"></script>
-    <script src="js/fancybox.js"></script>
-    <script type="text/javascript" src="js/jquery.fancybox-media.js"></script>
-    <script src="js/scrollbar.js"></script>
-    <link rel="alternate" type="application/rss+xml" title="700-700 | Пицца Мастер » Лента рубрики Пицца" href="http://700-700.ru/pizza/feed/">
-
-    <script type="text/javascript" src="js/jquery(1).js"></script>
-    <script type="text/javascript" src="js/jquery-migrate.min.js"></script>
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://700-700.ru/xmlrpc.php?rsd">
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://700-700.ru/wp-includes/wlwmanifest.xml">
-    <meta name="generator" content="WordPress 3.9.2">
-    <script type="text/javascript">
-        var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
-    </script>
-
-    <!-- All in One SEO Pack 2.1.1 by Michael Torbert of Semper Fi Web Design[337,351] -->
-    <meta name="robots" content="noindex,follow">
-
-    <link rel="canonical" href="./category-popup_files/category-popup.html">
-    <!-- /all in one seo pack -->
-</head>
-
-<body minorder="350" minorderself="60" hola-ext-player="1">
-
-
-
-
-
-
-    <div class="wrap">
-        <div class="pseudohead"></div>
-
-        <div class="header">
-            <div class="head_wrap">
-                <div class="logo">
-                    <a href="http://700-700.ru/"><img src="img/Master_logo_vologda700700_2.png" title="Пицца-Мастер" alt="Доставка пиццы в Вологде">
-                    </a>
-                </div>
-
-                <div class="userlinks">
-                    <a href="" class="loginpopup_open">Личный кабинет</a> | <a href="" class="open_register">Регистрация</a>
-                </div>
-                <div class="freedelivery">
-                    <div class="phones">700-700
-                        <br>70-9999</div>
-                    <div class="freedel_text">Бесплатная
-                        <br>доставка
-                        <br>в Вологде</div>
-                </div>
-                <div class="headcart">
-                    <div class="cart_counter opencartpopup">0</div>
-                    <a href="" class="order opencartpopup">Оформить заказ</a>
-                    <h1>Корзина</h1>
-                    <p>товар(-ов) на <span class="totalcartsum">0</span> руб.</p>
-
-                </div>
-
-                <div class="menubg"></div>
-                <div class="left_menu">
-                    <ul>
-                        <li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="http://700-700.ru/">Главная</a>
-                        </li>
-                        <li id="menu-item-950" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-950"><a href="http://700-700.ru/menu">Меню</a>
-                            <ul class="sub-menu">
-                                <li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-14"><a href="./category-popup_files/category-popup.html">Пицца</a>
-                                </li>
-                                <li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="http://700-700.ru/rolls/">Роллы</a>
-                                </li>
-                                <li id="menu-item-1178" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1178"><a href="http://700-700.ru/masters/">Мастерсы</a>
-                                </li>
-                                <li id="menu-item-11634" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11634"><a href="http://700-700.ru/zakuski/">Закуски</a>
-                                </li>
-                                <li id="menu-item-1882" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1882"><a href="http://700-700.ru/salat/">Салаты</a>
-                                </li>
-                                <li id="menu-item-44" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44"><a href="http://700-700.ru/drinks/">Напитки</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li id="menu-item-951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-951"><a href="http://700-700.ru/constructor-pizza/">Конструктор пиццы</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class="right_menu">
-                    <ul>
-                        <li id="menu-item-11618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11618"><a href="http://700-700.ru/pochemu-myi/">Почему мы?</a>
-                        </li>
-                        <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="http://700-700.ru/kontaktyi/">Доставка</a>
-                        </li>
-                        <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://700-700.ru/guestbook/">Гостевая книга</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
         <div class="main">
             <div class="content_wrap">
                 <h2><span class="left_pimpa">~~~</span>  Пицца<span class="right_pimpa">~~~</span></h2>
@@ -128,7 +8,7 @@
 
                 <div class="promo">
                     <div class="img_cont">
-                        <a href=""><img src="img/Skidka__kachestvo-900x140.jpg">
+                        <a href=""><img src="<?php echo get_template_directory_uri(); ?>/img/Skidka__kachestvo-900x140.jpg">
                         </a>
                     </div>
                 </div>
@@ -155,7 +35,7 @@
                     <div class="pizza_one klassika kolbasnyie">
                         <div class="pizza_title"><a href="http://700-700.ru/servelatto-7987/" class="item_popup_link" data-id="7987">Сервелатто</a>
                         </div>
-                        <a href="http://700-700.ru/servelatto-7987/" title="Сервелатто" class="item_popup_link" data-id="7987"><img width="210" height="180" src="img/Servelatto_logo1-210x180.jpg" class="attachment-menu_210" alt="Servelatto_logo">
+                        <a href="http://700-700.ru/servelatto-7987/" title="Сервелатто" class="item_popup_link" data-id="7987"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Servelatto_logo1-210x180.jpg" class="attachment-menu_210" alt="Servelatto_logo">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр «Моцарелла», много-много сервелата</div>
@@ -209,7 +89,7 @@
                     <div class="pizza_one kolbasnyie myasnyie s-kuritsey">
                         <div class="pizza_title"><a href="http://700-700.ru/srazu-vsyo-6788/" class="item_popup_link" data-id="6788">Сразу всё!</a>
                         </div>
-                        <a href="http://700-700.ru/srazu-vsyo-6788/" title="Сразу всё!" class="item_popup_link" data-id="6788"><img width="210" height="180" src="img/Srazu-vsyo_logo1-210x180.jpg" class="attachment-menu_210" alt="Сразу всё_logo">
+                        <a href="http://700-700.ru/srazu-vsyo-6788/" title="Сразу всё!" class="item_popup_link" data-id="6788"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Srazu-vsyo_logo1-210x180.jpg" class="attachment-menu_210" alt="Сразу всё_logo">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус мастер на основе майонеза, сыр "Моцарелла", куриная грудка, колбаса п/к, ветчина, шампиньоны, болгарский перец, помидоры</div>
@@ -263,7 +143,7 @@
                     <div class="pizza_one klassika ovoshhnyie">
                         <div class="pizza_title"><a href="http://700-700.ru/margarita-309/" class="item_popup_link" data-id="309">Маргарита</a>
                         </div>
-                        <a href="http://700-700.ru/margarita-309/" title="Маргарита" class="item_popup_link" data-id="309"><img width="210" height="180" src="img/Margarita3-210x180.jpg" class="attachment-menu_210" alt="Маргарита">
+                        <a href="http://700-700.ru/margarita-309/" title="Маргарита" class="item_popup_link" data-id="309"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Margarita3-210x180.jpg" class="attachment-menu_210" alt="Маргарита">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", помидоры</div>
@@ -317,7 +197,7 @@
                     <div class="pizza_one kolbasnyie myasnyie">
                         <div class="pizza_title"><a href="http://700-700.ru/mr-bekon-6842/" class="item_popup_link" data-id="6842">Mr. Бекон</a>
                         </div>
-                        <a href="http://700-700.ru/mr-bekon-6842/" title="Mr. Бекон" class="item_popup_link" data-id="6842"><img width="210" height="180" src="img/Mr.Bekon_logo2-210x180.jpg" class="attachment-menu_210" alt="Mr.Бекон_logo">
+                        <a href="http://700-700.ru/mr-bekon-6842/" title="Mr. Бекон" class="item_popup_link" data-id="6842"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Mr.Bekon_logo2-210x180.jpg" class="attachment-menu_210" alt="Mr.Бекон_logo">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", бекон, орегано, базилик</div>
@@ -371,7 +251,7 @@
                     <div class="pizza_one kolbasnyie s-kuritsey">
                         <div class="pizza_title"><a href="http://700-700.ru/papa-karlo-3-341/" class="item_popup_link" data-id="341">Папа Карло</a>
                         </div>
-                        <a href="http://700-700.ru/papa-karlo-3-341/" title="Папа Карло" class="item_popup_link" data-id="341"><img width="210" height="180" src="img/Papa-Karlo12-210x180.jpg" class="attachment-menu_210" alt="Папа Карло1">
+                        <a href="http://700-700.ru/papa-karlo-3-341/" title="Папа Карло" class="item_popup_link" data-id="341"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Papa-Karlo12-210x180.jpg" class="attachment-menu_210" alt="Папа Карло1">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", грудка куриная копченая, охотничьи колбаски, помидоры, перец болгарский</div>
@@ -425,7 +305,7 @@
                     <div class="pizza_one myasnyie">
                         <div class="pizza_title"><a href="http://700-700.ru/mussolini-330/" class="item_popup_link" data-id="330">Мужу на ужин</a>
                         </div>
-                        <a href="http://700-700.ru/mussolini-330/" title="Мужу на ужин" class="item_popup_link" data-id="330"><img width="210" height="180" src="img/Muzhu-na-uzhin2-210x180.jpg" class="attachment-menu_210" alt="Мужу на ужин">
+                        <a href="http://700-700.ru/mussolini-330/" title="Мужу на ужин" class="item_popup_link" data-id="330"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Muzhu-na-uzhin2-210x180.jpg" class="attachment-menu_210" alt="Мужу на ужин">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", говядина, свинина, болгарский перец</div>
@@ -479,7 +359,7 @@
                     <div class="pizza_one kolbasnyie ovoshhnyie">
                         <div class="pizza_title"><a href="http://700-700.ru/pyatnitso-2015/" class="item_popup_link" data-id="2015">ПятницО!</a>
                         </div>
-                        <a href="http://700-700.ru/pyatnitso-2015/" title="ПятницО!" class="item_popup_link" data-id="2015"><img width="210" height="180" src="img/Pyatnitso_logo4-210x180.jpg" class="attachment-menu_210" alt="Пятницо_logo">
+                        <a href="http://700-700.ru/pyatnitso-2015/" title="ПятницО!" class="item_popup_link" data-id="2015"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Pyatnitso_logo4-210x180.jpg" class="attachment-menu_210" alt="Пятницо_logo">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус сливочный, сыр "Моцарелла", ветчина, помидоры, перец болгарский, лук красный, огурцы маринованные, маслины
@@ -534,7 +414,7 @@
                     <div class="pizza_one ovoshhnyie">
                         <div class="pizza_title"><a href="http://700-700.ru/90-60-90-ovoshhnaya-1195/" class="item_popup_link" data-id="1195">90-60-90 (овощная)</a>
                         </div>
-                        <a href="http://700-700.ru/90-60-90-ovoshhnaya-1195/" title="90-60-90 (овощная)" class="item_popup_link" data-id="1195"><img width="210" height="180" src="img/90-60-902-210x180.jpg" class="attachment-menu_210" alt="90-60-90">
+                        <a href="http://700-700.ru/90-60-90-ovoshhnaya-1195/" title="90-60-90 (овощная)" class="item_popup_link" data-id="1195"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/90-60-902-210x180.jpg" class="attachment-menu_210" alt="90-60-90">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", помидоры, перец болгарский, брокколи, лук маринованный красный, кукуруза, маслины</div>
@@ -588,7 +468,7 @@
                     <div class="pizza_one kolbasnyie s-kuritsey">
                         <div class="pizza_title"><a href="http://700-700.ru/hochu-eshhyo-2012/" class="item_popup_link" data-id="2012">Хочу ещё!</a>
                         </div>
-                        <a href="http://700-700.ru/hochu-eshhyo-2012/" title="Хочу ещё!" class="item_popup_link" data-id="2012"><img width="210" height="180" src="img/Hochu-eshhe_logo3-210x180.jpg" class="attachment-menu_210" alt="Хочу еще_logo">
+                        <a href="http://700-700.ru/hochu-eshhyo-2012/" title="Хочу ещё!" class="item_popup_link" data-id="2012"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Hochu-eshhe_logo3-210x180.jpg" class="attachment-menu_210" alt="Хочу еще_logo">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", колбаса п/к, ветчина, курица копченая, маринованные огурцы, помидоры
@@ -643,7 +523,7 @@
                     <div class="pizza_one kolbasnyie">
                         <div class="pizza_title"><a href="http://700-700.ru/neapolitanskaya-2-291/" class="item_popup_link" data-id="291">Неаполитанская</a>
                         </div>
-                        <a href="http://700-700.ru/neapolitanskaya-2-291/" title="Неаполитанская" class="item_popup_link" data-id="291"><img width="210" height="180" src="img/Neapolitanskaya1-210x180.jpg" class="attachment-menu_210" alt="Неаполитанская">
+                        <a href="http://700-700.ru/neapolitanskaya-2-291/" title="Неаполитанская" class="item_popup_link" data-id="291"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Neapolitanskaya1-210x180.jpg" class="attachment-menu_210" alt="Неаполитанская">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", грудинка свиная, буженина, колбаса п/к, лук репчатый</div>
@@ -697,7 +577,7 @@
                     <div class="pizza_one s-kuritsey">
                         <div class="pizza_title"><a href="http://700-700.ru/detskaya-327/" class="item_popup_link" data-id="327">Детская</a>
                         </div>
-                        <a href="http://700-700.ru/detskaya-327/" title="Детская" class="item_popup_link" data-id="327"><img width="210" height="180" src="img/Detskaya2-210x180.jpg" class="attachment-menu_210" alt="Детская">
+                        <a href="http://700-700.ru/detskaya-327/" title="Детская" class="item_popup_link" data-id="327"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Detskaya2-210x180.jpg" class="attachment-menu_210" alt="Детская">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", грудка куриная, морковь / сосики</div>
@@ -751,7 +631,7 @@
                     <div class="pizza_one klassika kolbasnyie">
                         <div class="pizza_title"><a href="http://700-700.ru/karbonariy-321/" class="item_popup_link" data-id="321">Карбонарий</a>
                         </div>
-                        <a href="http://700-700.ru/karbonariy-321/" title="Карбонарий" class="item_popup_link" data-id="321"><img width="210" height="180" src="img/Karbonariy1-210x180.jpg" class="attachment-menu_210" alt="Карбонарий">
+                        <a href="http://700-700.ru/karbonariy-321/" title="Карбонарий" class="item_popup_link" data-id="321"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Karbonariy1-210x180.jpg" class="attachment-menu_210" alt="Карбонарий">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", яйцо, ветчина, помидоры</div>
@@ -805,7 +685,7 @@
                     <div class="pizza_one kolbasnyie ostryie">
                         <div class="pizza_title"><a href="http://700-700.ru/korrida-306/" class="item_popup_link" data-id="306">Коррида</a>
                         </div>
-                        <a href="http://700-700.ru/korrida-306/" title="Коррида" class="item_popup_link" data-id="306"><img width="210" height="180" src="img/Korrida2-210x180.jpg" class="attachment-menu_210" alt="Коррида">
+                        <a href="http://700-700.ru/korrida-306/" title="Коррида" class="item_popup_link" data-id="306"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Korrida2-210x180.jpg" class="attachment-menu_210" alt="Коррида">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", колбаса п/к, лук красный, перец чили</div>
@@ -859,7 +739,7 @@
                     <div class="pizza_one myasnyie s-kuritsey">
                         <div class="pizza_title"><a href="http://700-700.ru/chipollino-297/" class="item_popup_link" data-id="297">Чиполлино</a>
                         </div>
-                        <a href="http://700-700.ru/chipollino-297/" title="Чиполлино" class="item_popup_link" data-id="297"><img width="210" height="180" src="img/CHipollino1-210x180.jpg" class="attachment-menu_210" alt="Чиполлино">
+                        <a href="http://700-700.ru/chipollino-297/" title="Чиполлино" class="item_popup_link" data-id="297"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/CHipollino1-210x180.jpg" class="attachment-menu_210" alt="Чиполлино">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", свинина, говядина, куриная грудка, лук репчатый, чеснок</div>
@@ -913,7 +793,7 @@
                     <div class="pizza_one ovoshhnyie s-gribami s-kuritsey">
                         <div class="pizza_title"><a href="http://700-700.ru/master-firmennaya-288/" class="item_popup_link" data-id="288">Мастер фирменная</a>
                         </div>
-                        <a href="http://700-700.ru/master-firmennaya-288/" title="Мастер фирменная" class="item_popup_link" data-id="288"><img width="210" height="180" src="img/Master4-210x180.jpg" class="attachment-menu_210" alt="Мастер">
+                        <a href="http://700-700.ru/master-firmennaya-288/" title="Мастер фирменная" class="item_popup_link" data-id="288"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Master4-210x180.jpg" class="attachment-menu_210" alt="Мастер">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", курица, грибное ассорти, перец болгарский, помидоры, огурчики маринованные, маслины</div>
@@ -967,7 +847,7 @@
                     <div class="pizza_one klassika kolbasnyie">
                         <div class="pizza_title"><a href="http://700-700.ru/klassika-303/" class="item_popup_link" data-id="303">Классика</a>
                         </div>
-                        <a href="http://700-700.ru/klassika-303/" title="Классика" class="item_popup_link" data-id="303"><img width="210" height="180" src="img/Klassika2-210x180.jpg" class="attachment-menu_210" alt="Классика">
+                        <a href="http://700-700.ru/klassika-303/" title="Классика" class="item_popup_link" data-id="303"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Klassika2-210x180.jpg" class="attachment-menu_210" alt="Классика">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", ветчина, шампиньоны маринованные, помидоры, оливки</div>
@@ -1021,7 +901,7 @@
                     <div class="pizza_one s-kuritsey s-ryiboy-i-moreproduktami">
                         <div class="pizza_title"><a href="http://700-700.ru/belissimo-300/" class="item_popup_link" data-id="300">Белиссимо</a>
                         </div>
-                        <a href="http://700-700.ru/belissimo-300/" title="Белиссимо" class="item_popup_link" data-id="300"><img width="210" height="180" src="img/Belissimo1_logo4-210x180.jpg" class="attachment-menu_210" alt="Белиссимо1_logo">
+                        <a href="http://700-700.ru/belissimo-300/" title="Белиссимо" class="item_popup_link" data-id="300"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Belissimo1_logo4-210x180.jpg" class="attachment-menu_210" alt="Белиссимо1_logo">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", куриная грудка, креветки, перец болгарский, помидоры</div>
@@ -1075,7 +955,7 @@
                     <div class="pizza_one myasnyie">
                         <div class="pizza_title"><a href="http://700-700.ru/teshhin-yazyik-599/" class="item_popup_link" data-id="599">Тещин язык</a>
                         </div>
-                        <a href="http://700-700.ru/teshhin-yazyik-599/" title="Тещин язык" class="item_popup_link" data-id="599"><img width="210" height="180" src="img/Teshhin-yazyik_logo4-210x180.jpg" class="attachment-menu_210" alt="Тещин язык_logo">
+                        <a href="http://700-700.ru/teshhin-yazyik-599/" title="Тещин язык" class="item_popup_link" data-id="599"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Teshhin-yazyik_logo4-210x180.jpg" class="attachment-menu_210" alt="Тещин язык_logo">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус белый сливочный, сыр "Моцарелла", перец болгарский, лук красный маринованный, огурчики маринованные, язык отварной</div>
@@ -1129,7 +1009,7 @@
                     <div class="pizza_one s-ryiboy-i-moreproduktami">
                         <div class="pizza_title"><a href="http://700-700.ru/ryibatskiy-bereg-333/" class="item_popup_link" data-id="333">Рыбацкий берег</a>
                         </div>
-                        <a href="http://700-700.ru/ryibatskiy-bereg-333/" title="Рыбацкий берег" class="item_popup_link" data-id="333"><img width="210" height="180" src="img/Ryibatskiy-bereg2-210x180.jpg" class="attachment-menu_210" alt="Рыбацкий берег">
+                        <a href="http://700-700.ru/ryibatskiy-bereg-333/" title="Рыбацкий берег" class="item_popup_link" data-id="333"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Ryibatskiy-bereg2-210x180.jpg" class="attachment-menu_210" alt="Рыбацкий берег">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", сёмга, треска, кальмар отварной, помидоры, маслины</div>
@@ -1183,7 +1063,7 @@
                     <div class="pizza_one s-ryiboy-i-moreproduktami">
                         <div class="pizza_title"><a href="http://700-700.ru/sitsiliya-324/" class="item_popup_link" data-id="324">Сицилия</a>
                         </div>
-                        <a href="http://700-700.ru/sitsiliya-324/" title="Сицилия" class="item_popup_link" data-id="324"><img width="210" height="180" src="img/Sitsiliya1-210x180.jpg" class="attachment-menu_210" alt="Сицилия">
+                        <a href="http://700-700.ru/sitsiliya-324/" title="Сицилия" class="item_popup_link" data-id="324"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Sitsiliya1-210x180.jpg" class="attachment-menu_210" alt="Сицилия">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус белый сливочный, сыр "Моцарелла", рыба красная, капуста брокколи, помидоры</div>
@@ -1237,7 +1117,7 @@
                     <div class="pizza_one klassika s-gribami">
                         <div class="pizza_title"><a href="http://700-700.ru/lesnaya-318/" class="item_popup_link" data-id="318">Лесная</a>
                         </div>
-                        <a href="http://700-700.ru/lesnaya-318/" title="Лесная" class="item_popup_link" data-id="318"><img width="210" height="180" src="img/Lesnaya2-210x180.jpg" class="attachment-menu_210" alt="Лесная">
+                        <a href="http://700-700.ru/lesnaya-318/" title="Лесная" class="item_popup_link" data-id="318"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Lesnaya2-210x180.jpg" class="attachment-menu_210" alt="Лесная">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", грибное ассорти, лук красный</div>
@@ -1291,7 +1171,7 @@
                     <div class="pizza_one s-ryiboy-i-moreproduktami">
                         <div class="pizza_title"><a href="http://700-700.ru/marinara-315/" class="item_popup_link" data-id="315">Маринара</a>
                         </div>
-                        <a href="http://700-700.ru/marinara-315/" title="Маринара" class="item_popup_link" data-id="315"><img width="210" height="180" src="img/Marinara2-210x180.jpg" class="attachment-menu_210" alt="Маринара">
+                        <a href="http://700-700.ru/marinara-315/" title="Маринара" class="item_popup_link" data-id="315"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Marinara2-210x180.jpg" class="attachment-menu_210" alt="Маринара">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", морской коктейль, помидоры, маслины</div>
@@ -1345,7 +1225,7 @@
                     <div class="pizza_one klassika">
                         <div class="pizza_title"><a href="http://700-700.ru/syirnaya-312/" class="item_popup_link" data-id="312">Сырная</a>
                         </div>
-                        <a href="http://700-700.ru/syirnaya-312/" title="Сырная" class="item_popup_link" data-id="312"><img width="210" height="180" src="img/Syirnaya1-210x180.jpg" class="attachment-menu_210" alt="Сырная">
+                        <a href="http://700-700.ru/syirnaya-312/" title="Сырная" class="item_popup_link" data-id="312"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Syirnaya1-210x180.jpg" class="attachment-menu_210" alt="Сырная">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", сыр "Гауда", сыр "Пармезан"</div>
@@ -1399,7 +1279,7 @@
                     <div class="pizza_one myasnyie ostryie s-gribami">
                         <div class="pizza_title"><a href="http://700-700.ru/abbas-294/" class="item_popup_link" data-id="294">Аббас</a>
                         </div>
-                        <a href="http://700-700.ru/abbas-294/" title="Аббас" class="item_popup_link" data-id="294"><img width="210" height="180" src="img/Abbas2-210x180.jpg" class="attachment-menu_210" alt="Abbas">
+                        <a href="http://700-700.ru/abbas-294/" title="Аббас" class="item_popup_link" data-id="294"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Abbas2-210x180.jpg" class="attachment-menu_210" alt="Abbas">
                         </a>
                         <div class="pizza_all_meta">
                             <div class="components"><span>Состав:</span> Соус фирменный, сыр "Моцарелла", пряная маринованная телятина, шампиньоны, красный лук, перец болгарский, перец чили, восточные приправы</div>
@@ -1466,13 +1346,13 @@
                 <div class="subscribe_message"></div>
             </div>
             <div class="work">
-                <img src="img/work.png">
+                <img src="<?php echo get_template_directory_uri(); ?>/img/work.png">
                 <h3>Хотите у нас работать?</h3>
                 <a href="" id="wantwork">Заполните анкету!</a>
                 <ul class="social">
                     <li>
                         <noindex>
-                            <a href="http://vk.com/pizza700700" target="_blank" rel="nofollow"><img src="img/vk.jpg">
+                            <a href="http://vk.com/pizza700700" target="_blank" rel="nofollow"><img src="<?php echo get_template_directory_uri(); ?>/img/vk.jpg">
                             </a>
                         </noindex>
                     </li>
@@ -1484,7 +1364,7 @@
                 </ul>
             </div>
             <div class="quality">
-                <img src="img/qality.png">
+                <img src="<?php echo get_template_directory_uri(); ?>/img/qality.png">
                 <h3><a href="http://700-700.ru/quality">Качество на первом месте.</a></h3>
                 <p>Качество под контролем. Совершенство в развитии!</p>
             </div>
@@ -1533,7 +1413,7 @@
                 </p>
 
                 <div class="fast_pass">
-                    <input type="password" id="fast_reg_pass1" placeholder="пароль, минимум 6 знаков" style="font-weight:normal;" "=" ">
+                    <input type="password" id="fast_reg_pass1" placeholder="пароль, минимум 6 знаков" >
             </div>
             <p>Если Вы уже зарегистрированный пользователь, то введите свой пароль.</p>
             <p>Если нет, то придумайте новый пароль. Больше ничего не понадобится!</p>
@@ -1577,7 +1457,7 @@
                 <h1>Вы можете выбрать бесплатные напитки: <span id="drink_count ">0</span></h1>
                                 <div class="p_drink_one ">
                     <div class="p_drink_img ">
-                        <img width="76 " height="104 " src="img/Fanta-1l_logo-76x104.jpg " class="attachment-menu_76 " alt="Фанта 1л_logo ">                    </div>	
+                        <img width="76 " height="104 " src="<?php echo get_template_directory_uri(); ?>/img/Fanta-1l_logo-76x104.jpg " class="attachment-menu_76 " alt="Фанта 1л_logo ">                    </div>	
                     <div class="p_drink_title ">
                         <h4>Фанта 1л</h4>
                         <div class="number ">
@@ -1590,7 +1470,7 @@
                 </div>
                             <div class="p_drink_one ">
                     <div class="p_drink_img ">
-                        <img width="76 " height="104 " src="img/sprayt-1l_logo-76x104.jpg " class="attachment-menu_76 " alt="спрайт 1л_logo ">                    </div>	
+                        <img width="76 " height="104 " src="<?php echo get_template_directory_uri(); ?>/img/sprayt-1l_logo-76x104.jpg " class="attachment-menu_76 " alt="спрайт 1л_logo ">                    </div>	
                     <div class="p_drink_title ">
                         <h4>Спрайт 1л</h4>
                         <div class="number ">
@@ -1603,7 +1483,7 @@
                 </div>
                             <div class="p_drink_one ">
                     <div class="p_drink_img ">
-                        <img width="76 " height="104 " src="img/koka-kola-1.5l_logo-76x104.jpg " class="attachment-menu_76 " alt="кока-кола 1.5л_logo ">                    </div>	
+                        <img width="76 " height="104 " src="<?php echo get_template_directory_uri(); ?>/img/koka-kola-1.5l_logo-76x104.jpg " class="attachment-menu_76 " alt="кока-кола 1.5л_logo ">                    </div>	
                     <div class="p_drink_title ">
                         <h4>Кола 1л</h4>
                         <div class="number ">
@@ -1616,7 +1496,7 @@
                 </div>
                             <div class="p_drink_one ">
                     <div class="p_drink_img ">
-                        <img width="76 " height="104 " src="img/Voda_Bonakva-1l_logo-76x104.jpg " class="attachment-menu_76 " alt="Вода_Бонаква 1л_logo ">                    </div>	
+                        <img width="76 " height="104 " src="<?php echo get_template_directory_uri(); ?>/img/Voda_Bonakva-1l_logo-76x104.jpg " class="attachment-menu_76 " alt="Вода_Бонаква 1л_logo ">                    </div>	
                     <div class="p_drink_title ">
                         <h4>Бонаква 1л</h4>
                         <div class="number ">
@@ -1901,11 +1781,11 @@
         <input type="hidden " id="vote_title " value=" ">
         <input type="hidden " id="vote_desc " value=" ">
         <input type="hidden " id="vote_img " value=" ">
-        <a href=" " id="vk " class="voter "><img src="img/v_vk.png "></a>
-        <a href=" " id="fb " class="voter "><img src="img/v_fb.png "></a>
-        <a href=" " id="tw " class="voter "><img src="img/v_tw.png "></a>     
-        <a href=" " id="ok " class="voter "><img src="img/v_ok.png "></a>
-        <a href=" " id="mm " class="voter "><img src="img/v_mm.png "></a>
+        <a href=" " id="vk " class="voter "><img src="<?php echo get_template_directory_uri(); ?>/img/v_vk.png "></a>
+        <a href=" " id="fb " class="voter "><img src="<?php echo get_template_directory_uri(); ?>/img/v_fb.png "></a>
+        <a href=" " id="tw " class="voter "><img src="<?php echo get_template_directory_uri(); ?>/img/v_tw.png "></a>     
+        <a href=" " id="ok " class="voter "><img src="<?php echo get_template_directory_uri(); ?>/img/v_ok.png "></a>
+        <a href=" " id="mm " class="voter "><img src="<?php echo get_template_directory_uri(); ?>/img/v_mm.png "></a>
         </div>
     </div>
 </div>
@@ -1987,19 +1867,19 @@
         <div class="sous_data ">
         		<h2>Выберите бесплатный соус к корочкам</h2>
                                                 <div class="sous_img " sous_id="85 ">
-                <img width="76 " height="76 " src="img/chesnochnyiy-76x76.jpg " class="attachment-menu_76 " alt="чесночный "><br>
+                <img width="76 " height="76 " src="<?php echo get_template_directory_uri(); ?>/img/chesnochnyiy-76x76.jpg " class="attachment-menu_76 " alt="чесночный "><br>
                 <div class="sous_title ">Чесночный</div>
                 </div>
                                 <div class="sous_img " sous_id="81 ">
-                <img width="76 " height="76 " src="img/syirnyiy-76x76.jpg " class="attachment-menu_76 " alt="сырный "><br>
+                <img width="76 " height="76 " src="<?php echo get_template_directory_uri(); ?>/img/syirnyiy-76x76.jpg " class="attachment-menu_76 " alt="сырный "><br>
                 <div class="sous_title ">Сырный</div>
                 </div>
                                 <div class="sous_img " sous_id="79 ">
-                <img width="76 " height="76 " src="img/kislo-sladkiy-76x76.jpg " class="attachment-menu_76 " alt="кисло-сладкий "><br>
+                <img width="76 " height="76 " src="<?php echo get_template_directory_uri(); ?>/img/kislo-sladkiy-76x76.jpg " class="attachment-menu_76 " alt="кисло-сладкий "><br>
                 <div class="sous_title ">Кисло-сладкий</div>
                 </div>
                                 <div class="sous_img " sous_id="70 ">
-                <img width="76 " height="76 " src="img/barbekyu-76x76.jpg " class="attachment-menu_76 " alt="барбекью "><br>
+                <img width="76 " height="76 " src="<?php echo get_template_directory_uri(); ?>/img/barbekyu-76x76.jpg " class="attachment-menu_76 " alt="барбекью "><br>
                 <div class="sous_title ">Барбекю</div>
                 </div>
                                 <div class="with_heart ">
@@ -2016,7 +1896,7 @@
     <div class="itempopup_wrap ">
     	    	        <div class="single_pizza ">        	
         	<div class="single_leftside ">
-                <img width="560 " height="482 " src="img/Syirnaya1-560x482.jpg " class="attachment-menu_560 " alt="Сырная ">            </div>
+                <img width="560 " height="482 " src="<?php echo get_template_directory_uri(); ?>/img/Syirnaya1-560x482.jpg " class="attachment-menu_560 " alt="Сырная ">            </div>
             <div class="single_rightside ">
             	<h1>Сырная</h1>
             	                                <div class="consist "><strong>Состав:</strong>Соус фирменный, сыр "Моцарелла ", сыр "Гауда ", сыр "Пармезан "</div>
@@ -2148,13 +2028,13 @@
 
 <div style="display:none " id="half_indicator " is_full="0 "></div>
 <div style="display:none " id="half_indicator_30 " is_full="0 "></div>
-<script type="text/javascript " src="js/jquery.form.min.js "></script>
+<script type="text/javascript " src="<?php echo get_template_directory_uri(); ?>/js/jquery.form.min.js "></script>
 <script type="text/javascript ">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl ":"http:\/\/700-700.ru\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif ","sending ":"\u041e\u0442\u043f\u0440\u0430\u0432\u043a\u0430... "};
 /* ]]> */
 </script>
-<script type="text/javascript " src="js/scripts(1).js "></script>
+<script type="text/javascript " src="<?php echo get_template_directory_uri(); ?>/js/scripts(1).js "></script>
 
 <script>
 	$(document).ready(function(e) {	
