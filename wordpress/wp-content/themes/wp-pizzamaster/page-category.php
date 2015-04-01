@@ -37,12 +37,18 @@
 
 
             <div class="pizza_one klassika kolbasnyie">
-                <div class="pizza_title"><a href="http://700-700.ru/servelatto-7987/" class="item_popup_link" data-id="7987">Сервелатто</a>
+
+                <div class="pizza_title">
+                    <a href="http://700-700.ru/servelatto-7987/" class="item_popup_link" data-id="7987">Сервелатто</a>
                 </div>
-                <a href="http://700-700.ru/servelatto-7987/" title="Сервелатто" class="item_popup_link" data-id="7987"><img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Servelatto_logo1-210x180.jpg" class="attachment-menu_210" alt="Servelatto_logo">
+
+                <a href="http://700-700.ru/servelatto-7987/" title="Сервелатто" class="item_popup_link" data-id="7987">
+                    <img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Servelatto_logo1-210x180.jpg" class="attachment-menu_210" alt="Servelatto_logo">
                 </a>
+
                 <div class="pizza_all_meta">
                     <div class="components"><span>Состав:</span> Соус фирменный, сыр «Моцарелла», много-много сервелата</div>
+                    
                     <div class="pizza_meta">
                         <div class="variants_buttons">
                             <div data-variant="30" class="pizza30">30см</div>
@@ -59,7 +65,6 @@
                             </select>
                         </div>
                         <div class="weight">
-
                             <ul class="variants">
                                 <li class="full40 current" item_id="7987">800 г – <span>400 р</span>
                                 </li>
@@ -71,11 +76,12 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="buy_button add_to_cart" item_id="7987" is_pizza="1">В корзину</div>
 
+                        <div class="buy_button add_to_cart" item_id="7987" is_pizza="1">В корзину</div>
                         <div class="clear"></div>
-                    </div>
-                </div>
+                    </div><!-- pizza_meta -->
+                </div><!-- pizza_all_meta -->
+
                 <div class="rating_wrap">
                     <div class="rating_stars " data-id="7987">
                         <div class="star" data-position="1"></div>
@@ -88,10 +94,11 @@
                     <div class="total_voters">Всего оценок: <span>1038</span>
                     </div>
                     <div class="vote_result vr_7987"></div>
-                </div>
+                </div><!-- rating_wrap -->
             </div><!-- pizza_one -->
-        </div><!-- pizzalist -->
 
+
+        </div><!-- pizzalist -->
 
     </div><!-- content_wrap -->
 </div><!-- main -->
