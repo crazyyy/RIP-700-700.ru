@@ -61,7 +61,7 @@
                     <h1>Вы можете выбрать бесплатные напитки: <span id="drink_count">0</span></h1>
                     <div class="p_drink_one">
                         <div class="p_drink_img">
-                            <img width="76" height="104" src="img/Fanta-1l_logo-76x104.jpg" class="attachment-menu_76" alt="Фанта 1л_logo"> </div>
+                            <img width="76" height="104" src="<?php echo get_template_directory_uri(); ?>/img/Fanta-1l_logo-76x104.jpg" class="attachment-menu_76" alt="Фанта 1л_logo"> </div>
                         <div class="p_drink_title">
                             <h4>Фанта 1л</h4>
                             <div class="number">
@@ -74,7 +74,7 @@
                     </div>
                     <div class="p_drink_one">
                         <div class="p_drink_img">
-                            <img width="76" height="104" src="img/sprayt-1l_logo-76x104.jpg" class="attachment-menu_76" alt="спрайт 1л_logo"> </div>
+                            <img width="76" height="104" src="<?php echo get_template_directory_uri(); ?>/img/sprayt-1l_logo-76x104.jpg" class="attachment-menu_76" alt="спрайт 1л_logo"> </div>
                         <div class="p_drink_title">
                             <h4>Спрайт 1л</h4>
                             <div class="number">
@@ -87,7 +87,7 @@
                     </div>
                     <div class="p_drink_one">
                         <div class="p_drink_img">
-                            <img width="76" height="104" src="img/koka-kola-1.5l_logo-76x104.jpg" class="attachment-menu_76" alt="кока-кола 1.5л_logo"> </div>
+                            <img width="76" height="104" src="<?php echo get_template_directory_uri(); ?>/img/koka-kola-1.5l_logo-76x104.jpg" class="attachment-menu_76" alt="кока-кола 1.5л_logo"> </div>
                         <div class="p_drink_title">
                             <h4>Кола 1л</h4>
                             <div class="number">
@@ -100,7 +100,7 @@
                     </div>
                     <div class="p_drink_one">
                         <div class="p_drink_img">
-                            <img width="76" height="104" src="img/Voda_Bonakva-1l_logo-76x104.jpg" class="attachment-menu_76" alt="Вода_Бонаква 1л_logo"> </div>
+                            <img width="76" height="104" src="<?php echo get_template_directory_uri(); ?>/img/Voda_Bonakva-1l_logo-76x104.jpg" class="attachment-menu_76" alt="Вода_Бонаква 1л_logo"> </div>
                         <div class="p_drink_title">
                             <h4>Бонаква 1л</h4>
                             <div class="number">
