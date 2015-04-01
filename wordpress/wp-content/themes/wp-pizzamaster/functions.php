@@ -811,7 +811,7 @@ function register_cpt_products() {
         'new_item' => _x( 'New products', 'products' ),
         'view_item' => _x( 'View products', 'products' ),
         'search_items' => _x( 'Search Products', 'products' ),
-        'not_found' => _x( 'No афиша found', 'products' ),
+        'not_found' => _x( 'No products found', 'products' ),
         'not_found_in_trash' => _x( 'No products found in Trash', 'products' ),
         'parent_item_colon' => _x( 'Parent products:', 'products' ),
         'menu_name' => _x( 'Products', 'products' ),
