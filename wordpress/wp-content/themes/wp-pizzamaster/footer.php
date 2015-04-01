@@ -1,4 +1,5 @@
 <div class="bottom_blocks">
+    
     <div class="subscribe">
         Рассылка вкусных предложений
         <form>
@@ -6,7 +7,8 @@
             <input type="button" value=" " id="add_phone">
         </form>
         <div class="subscribe_message"></div>
-    </div>
+    </div><!-- subscribe -->
+
     <div class="work">
         <img src="<?php echo get_template_directory_uri(); ?>/img/work.png">
         <h3>Хотите у нас работать?</h3>
@@ -19,35 +21,25 @@
                 </noindex>
             </li>
         </ul>
-    </div>
+    </div><!-- work -->
+
     <div class="quality">
         <img src="<?php echo get_template_directory_uri(); ?>/img/qality.png">
         <h3><a href="http://700-700.ru/quality">Качество на первом месте.</a></h3>
         <p>Качество под контролем. Совершенство в развитии!</p>
     </div>
     <div class="clear"></div>
-</div>
+</div><!-- bottom_blocks -->
 
 <div class="empty_inner"> </div>
 </div>
 
 <div id="footer">
     <div class="footer_wrap">
-        <div class="copyright"><a href="./index_files/index.html">Мастер Пицца</a> 2013. Все права защищены</div>
+        <div class="copyright"><a href="<?php echo home_url(); ?>"><?php bloginfo('name'); ?></a> <?php echo date("Y"); ?>. Все права защищены</div>
 
         <div class="footmenu">
-            <ul>
-                <li id="menu-item-424" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-424"><a href="http://700-700.ru/pizza/">Пицца</a>
-                </li>
-                <li id="menu-item-425" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-425"><a href="http://700-700.ru/rolls/">Роллы</a>
-                </li>
-                <li id="menu-item-426" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-426"><a href="http://700-700.ru/drinks/">Напитки</a>
-                </li>
-                <li id="menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-431"><a href="http://700-700.ru/kontaktyi/">Контакты и доставка</a>
-                </li>
-                <li id="menu-item-432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-432"><a href="http://700-700.ru/guestbook/">Гостевая книга</a>
-                </li>
-            </ul>
+            <?php wpeFootNav(); ?>
         </div>
 
 
