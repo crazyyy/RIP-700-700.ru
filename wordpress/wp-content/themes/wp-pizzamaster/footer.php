@@ -74,11 +74,5 @@
     </script>
     <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/scripts(1).js"></script>
 
-    <script>
-        $(document).ready(function (e) {
-            update_cart($.cookie('cart'));
-        });
-    </script>
-
 </body>
 </html>

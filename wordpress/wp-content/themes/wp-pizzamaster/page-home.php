@@ -19,7 +19,7 @@
             </ul> -->
 <!-- zzzzzzzzzzzzzzzz -->
          <?php if( have_rows('slider') ): ?>
-                    <ul>
+                    <ul class="rslides rslides1" >
                     <?php while( have_rows('slider') ): the_row(); 
                         // vars
                         $simage = get_sub_field('slider-img');
