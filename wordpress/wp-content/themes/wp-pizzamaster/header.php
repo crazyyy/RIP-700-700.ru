@@ -5,7 +5,7 @@
     <meta charset="<?php bloginfo( 'charset' ); ?>">
     <title>
         <?php wp_title( '' ); ?>
-        <?php if ( wp_title( '', false ) ) { echo ' :'; } ?>
+        <?php if ( wp_title( '', false ) ) { echo ':'; } ?>
         <?php bloginfo( 'name' ); ?>
     </title>
 
