@@ -15,7 +15,7 @@
         <div class="pizzalist">
         	                        <div class="pizza_one ">
             	<div class="pizza_title"><a href="http://700-700.ru/koka-kola-1-5l-345/" class="item_popup_link" data-id="345">Кока-кола 1.5л</a></div>
-                <a href="http://700-700.ru/koka-kola-1-5l-345/" title="Кока-кола 1.5л" class="item_popup_link" data-id="345"><img width="210" height="288" src="img/koka-kola-1.5l_logo-210x288.jpg" class="attachment-menu_210" alt="кока-кола 1.5л_logo"></a>
+                <a href="http://700-700.ru/koka-kola-1-5l-345/" title="Кока-кола 1.5л" class="item_popup_link" data-id="345"><img width="210" height="288" src="<?php echo get_template_directory_uri(); ?>/img/koka-kola-1.5l_logo-210x288.jpg" class="attachment-menu_210" alt="кока-кола 1.5л_logo"></a>
                 <div class="pizza_all_meta">
                 <div class="components"> Безалкогольный газированный напиток</div>
                 <div class="pizza_meta">
@@ -42,7 +42,7 @@
             </div>
                                     <div class="pizza_one ">
             	<div class="pizza_title"><a href="http://700-700.ru/koka-kola-1l-349/" class="item_popup_link" data-id="349">Кока-кола 1л</a></div>
-                <a href="http://700-700.ru/koka-kola-1l-349/" title="Кока-кола 1л" class="item_popup_link" data-id="349"><img width="210" height="288" src="img/Koka-kola-1l_logo-210x288.jpg" class="attachment-menu_210" alt="Кока-кола 1л_logo"></a>
+                <a href="http://700-700.ru/koka-kola-1l-349/" title="Кока-кола 1л" class="item_popup_link" data-id="349"><img width="210" height="288" src="<?php echo get_template_directory_uri(); ?>/img/Koka-kola-1l_logo-210x288.jpg" class="attachment-menu_210" alt="Кока-кола 1л_logo"></a>
                 <div class="pizza_all_meta">
                 <div class="components"> Безалкогольный газированный напиток</div>
                 <div class="pizza_meta">
@@ -69,7 +69,7 @@
             </div>
                                     <div class="pizza_one ">
             	<div class="pizza_title"><a href="http://700-700.ru/sprayt-1l-353/" class="item_popup_link" data-id="353">Спрайт 1л</a></div>
-                <a href="http://700-700.ru/sprayt-1l-353/" title="Спрайт 1л" class="item_popup_link" data-id="353"><img width="210" height="288" src="img/sprayt-1l_logo-210x288.jpg" class="attachment-menu_210" alt="спрайт 1л_logo"></a>
+                <a href="http://700-700.ru/sprayt-1l-353/" title="Спрайт 1л" class="item_popup_link" data-id="353"><img width="210" height="288" src="<?php echo get_template_directory_uri(); ?>/img/sprayt-1l_logo-210x288.jpg" class="attachment-menu_210" alt="спрайт 1л_logo"></a>
                 <div class="pizza_all_meta">
                 <div class="components"> Безалкогольный газированный напиток</div>
                 <div class="pizza_meta">
@@ -96,7 +96,7 @@
             </div>
                                     <div class="pizza_one ">
             	<div class="pizza_title"><a href="http://700-700.ru/fanta-1l-357/" class="item_popup_link" data-id="357">Фанта 1л</a></div>
-                <a href="http://700-700.ru/fanta-1l-357/" title="Фанта 1л" class="item_popup_link" data-id="357"><img width="210" height="288" src="img/Fanta-1l_logo-210x288.jpg" class="attachment-menu_210" alt="Фанта 1л_logo"></a>
+                <a href="http://700-700.ru/fanta-1l-357/" title="Фанта 1л" class="item_popup_link" data-id="357"><img width="210" height="288" src="<?php echo get_template_directory_uri(); ?>/img/Fanta-1l_logo-210x288.jpg" class="attachment-menu_210" alt="Фанта 1л_logo"></a>
                 <div class="pizza_all_meta">
                 <div class="components"> Безалкогольный газированный напиток</div>
                 <div class="pizza_meta">
@@ -123,7 +123,7 @@
             </div>
                                     <div class="pizza_one ">
             	<div class="pizza_title"><a href="http://700-700.ru/voda-bonakva-1209/" class="item_popup_link" data-id="1209">Вода Бонаква</a></div>
-                <a href="http://700-700.ru/voda-bonakva-1209/" title="Вода Бонаква" class="item_popup_link" data-id="1209"><img width="210" height="288" src="img/Voda_Bonakva-1l_logo-210x288.jpg" class="attachment-menu_210" alt="Вода_Бонаква 1л_logo"></a>
+                <a href="http://700-700.ru/voda-bonakva-1209/" title="Вода Бонаква" class="item_popup_link" data-id="1209"><img width="210" height="288" src="<?php echo get_template_directory_uri(); ?>/img/Voda_Bonakva-1l_logo-210x288.jpg" class="attachment-menu_210" alt="Вода_Бонаква 1л_logo"></a>
                 <div class="pizza_all_meta">
                 <div class="components"> Негазированная вода</div>
                 <div class="pizza_meta">
@@ -150,7 +150,7 @@
             </div>
                                     <div class="pizza_one ">
             	<div class="pizza_title"><a href="http://700-700.ru/sok-dobryiy-apelsin-386/" class="item_popup_link" data-id="386">Сок “Добрый” апельсин</a></div>
-                <a href="http://700-700.ru/sok-dobryiy-apelsin-386/" title="Сок “Добрый” апельсин" class="item_popup_link" data-id="386"><img width="210" height="288" src="img/Dobryiy-apelsin_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый апельсин_logo"></a>
+                <a href="http://700-700.ru/sok-dobryiy-apelsin-386/" title="Сок “Добрый” апельсин" class="item_popup_link" data-id="386"><img width="210" height="288" src="<?php echo get_template_directory_uri(); ?>/img/Dobryiy-apelsin_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый апельсин_logo"></a>
                 <div class="pizza_all_meta">
                 <div class="components"> Апельсиновый сок</div>
                 <div class="pizza_meta">
@@ -177,7 +177,7 @@
             </div>
                                     <div class="pizza_one ">
             	<div class="pizza_title"><a href="http://700-700.ru/sok-dobryiy-tomatnyiy-389/" class="item_popup_link" data-id="389">Сок “Добрый” томатный</a></div>
-                <a href="http://700-700.ru/sok-dobryiy-tomatnyiy-389/" title="Сок “Добрый” томатный" class="item_popup_link" data-id="389"><img width="210" height="288" src="img/Dobryiy-tomatnyiy_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый томатный_logo"></a>
+                <a href="http://700-700.ru/sok-dobryiy-tomatnyiy-389/" title="Сок “Добрый” томатный" class="item_popup_link" data-id="389"><img width="210" height="288" src="<?php echo get_template_directory_uri(); ?>/img/Dobryiy-tomatnyiy_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый томатный_logo"></a>
                 <div class="pizza_all_meta">
                 <div class="components"> Томатный сок</div>
                 <div class="pizza_meta">
@@ -204,7 +204,7 @@
             </div>
                                     <div class="pizza_one ">
             	<div class="pizza_title"><a href="http://700-700.ru/sok-dobryiy-yablochnyiy-392/" class="item_popup_link" data-id="392">Сок “Добрый” яблочный</a></div>
-                <a href="http://700-700.ru/sok-dobryiy-yablochnyiy-392/" title="Сок “Добрый” яблочный" class="item_popup_link" data-id="392"><img width="210" height="288" src="img/Dobryiy-yabloko_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый яблоко_logo"></a>
+                <a href="http://700-700.ru/sok-dobryiy-yablochnyiy-392/" title="Сок “Добрый” яблочный" class="item_popup_link" data-id="392"><img width="210" height="288" src="<?php echo get_template_directory_uri(); ?>/img/Dobryiy-yabloko_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый яблоко_logo"></a>
                 <div class="pizza_all_meta">
                 <div class="components"> Яблочный сок</div>
                 <div class="pizza_meta">
@@ -231,7 +231,7 @@
             </div>
                                     <div class="pizza_one ">
             	<div class="pizza_title"><a href="http://700-700.ru/sok-dobryiy-vinogradnyiy-395/" class="item_popup_link" data-id="395">Сок “Добрый” виноградный</a></div>
-                <a href="http://700-700.ru/sok-dobryiy-vinogradnyiy-395/" title="Сок “Добрый” виноградный" class="item_popup_link" data-id="395"><img width="210" height="288" src="img/Dobryiy-vinograd_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый виноград_logo"></a>
+                <a href="http://700-700.ru/sok-dobryiy-vinogradnyiy-395/" title="Сок “Добрый” виноградный" class="item_popup_link" data-id="395"><img width="210" height="288" src="<?php echo get_template_directory_uri(); ?>/img/Dobryiy-vinograd_logo-210x288.jpg" class="attachment-menu_210" alt="Добрый виноград_logo"></a>
                 <div class="pizza_all_meta">
                 <div class="components"> Виноградный сок</div>
                 <div class="pizza_meta">
@@ -274,11 +274,11 @@
         <div class="subscribe_message"></div>
     </div>
     <div class="work">
-    	<img src="img/work.png">
+    	<img src="<?php echo get_template_directory_uri(); ?>/img/work.png">
         <h3>Хотите у нас работать?</h3>
 		<a href="" id="wantwork">Заполните анкету!</a>
         <ul class="social">
-        	<li><noindex><a href="http://vk.com/pizza700700" target="_blank" rel="nofollow"><img src="img/vk.jpg"></a></noindex></li>
+        	<li><noindex><a href="http://vk.com/pizza700700" target="_blank" rel="nofollow"><img src="<?php echo get_template_directory_uri(); ?>/img/vk.jpg"></a></noindex></li>
             <!--
             <li><a href=""><img src="http://700-700.ru/wp-content/themes/pizzamaster2/images/fb.jpg" /></a></li>
             <li><a href=""><img src="http://700-700.ru/wp-content/themes/pizzamaster2/images/tw.jpg" /></a></li>
@@ -287,7 +287,7 @@
         </ul>
     </div>
     <div class="quality">
-    	<img src="img/qality.png">
+    	<img src="<?php echo get_template_directory_uri(); ?>/img/qality.png">
         <h3><a href="http://700-700.ru/quality">Качество на первом месте.</a></h3>
         <p>Качество под контролем. Совершенство в развитии!</p>
     </div>
@@ -364,7 +364,7 @@
     <div class="full_cart_data allcart" style="display: block;">
     
     <div class="big_cart_wrapper">                        <div class="order_line" discount="0" discount2="" cat="drinks">
-              <div class="order_ico tablecell"><a href="http://700-700.ru/voda-bonakva-1209/"><img width="76" height="104" src="img/Voda_Bonakva-1l_logo-76x104.jpg" class="attachment-menu_76" alt="Вода_Бонаква 1л_logo"></a></div>
+              <div class="order_ico tablecell"><a href="http://700-700.ru/voda-bonakva-1209/"><img width="76" height="104" src="<?php echo get_template_directory_uri(); ?>/img/Voda_Bonakva-1l_logo-76x104.jpg" class="attachment-menu_76" alt="Вода_Бонаква 1л_logo"></a></div>
               <div class="order_title tablecell">
                     <h3>Вода Бонаква</h3>
                     <p>Негазированная вода</p>
@@ -382,7 +382,7 @@
                         <div class="down" style="opacity:0.3;"></div>
                     </div>
                 </div>
-                <div class="tabledel tablecell"><span class="delthis" del_id="1209"><img src="img/delete.png"></span></div>
+                <div class="tabledel tablecell"><span class="delthis" del_id="1209"><img src="<?php echo get_template_directory_uri(); ?>/img/delete.png"></span></div>
             </div>
             		        
         <div class="present_drinks hide">
@@ -395,7 +395,7 @@
                 <h1>Вы можете выбрать бесплатные напитки: <span id="drink_count">0</span></h1>
                                 <div class="p_drink_one">
                     <div class="p_drink_img">
-                        <img width="76" height="104" src="img/Fanta-1l_logo-76x104.jpg" class="attachment-menu_76" alt="Фанта 1л_logo">                    </div>	
+                        <img width="76" height="104" src="<?php echo get_template_directory_uri(); ?>/img/Fanta-1l_logo-76x104.jpg" class="attachment-menu_76" alt="Фанта 1л_logo">                    </div>	
                     <div class="p_drink_title">
                         <h4>Фанта 1л</h4>
                         <div class="number">
@@ -408,7 +408,7 @@
                 </div>
                             <div class="p_drink_one">
                     <div class="p_drink_img">
-                        <img width="76" height="104" src="img/sprayt-1l_logo-76x104.jpg" class="attachment-menu_76" alt="спрайт 1л_logo">                    </div>	
+                        <img width="76" height="104" src="<?php echo get_template_directory_uri(); ?>/img/sprayt-1l_logo-76x104.jpg" class="attachment-menu_76" alt="спрайт 1л_logo">                    </div>	
                     <div class="p_drink_title">
                         <h4>Спрайт 1л</h4>
                         <div class="number">
@@ -421,7 +421,7 @@
                 </div>
                             <div class="p_drink_one">
                     <div class="p_drink_img">
-                        <img width="76" height="104" src="img/koka-kola-1.5l_logo-76x104.jpg" class="attachment-menu_76" alt="кока-кола 1.5л_logo">                    </div>	
+                        <img width="76" height="104" src="<?php echo get_template_directory_uri(); ?>/img/koka-kola-1.5l_logo-76x104.jpg" class="attachment-menu_76" alt="кока-кола 1.5л_logo">                    </div>	
                     <div class="p_drink_title">
                         <h4>Кола 1л</h4>
                         <div class="number">
@@ -434,7 +434,7 @@
                 </div>
                             <div class="p_drink_one">
                     <div class="p_drink_img">
-                        <img width="76" height="104" src="img/Voda_Bonakva-1l_logo-76x104.jpg" class="attachment-menu_76" alt="Вода_Бонаква 1л_logo">                    </div>	
+                        <img width="76" height="104" src="<?php echo get_template_directory_uri(); ?>/img/Voda_Bonakva-1l_logo-76x104.jpg" class="attachment-menu_76" alt="Вода_Бонаква 1л_logo">                    </div>	
                     <div class="p_drink_title">
                         <h4>Бонаква 1л</h4>
                         <div class="number">
@@ -715,11 +715,11 @@
         <input type="hidden" id="vote_title" value="">
         <input type="hidden" id="vote_desc" value="">
         <input type="hidden" id="vote_img" value="">
-        <a href="" id="vk" class="voter"><img src="img/v_vk.png"></a>
-        <a href="" id="fb" class="voter"><img src="img/v_fb.png"></a>
-        <a href="" id="tw" class="voter"><img src="img/v_tw.png"></a>     
-        <a href="" id="ok" class="voter"><img src="img/v_ok.png"></a>
-        <a href="" id="mm" class="voter"><img src="img/v_mm.png"></a>
+        <a href="" id="vk" class="voter"><img src="<?php echo get_template_directory_uri(); ?>/img/v_vk.png"></a>
+        <a href="" id="fb" class="voter"><img src="<?php echo get_template_directory_uri(); ?>/img/v_fb.png"></a>
+        <a href="" id="tw" class="voter"><img src="<?php echo get_template_directory_uri(); ?>/img/v_tw.png"></a>     
+        <a href="" id="ok" class="voter"><img src="<?php echo get_template_directory_uri(); ?>/img/v_ok.png"></a>
+        <a href="" id="mm" class="voter"><img src="<?php echo get_template_directory_uri(); ?>/img/v_mm.png"></a>
         </div>
     </div>
 </div>
@@ -801,19 +801,19 @@
         <div class="sous_data">
         		<h2>Выберите бесплатный соус к корочкам</h2>
                                                 <div class="sous_img" sous_id="85">
-                <img width="76" height="76" src="img/chesnochnyiy-76x76.jpg" class="attachment-menu_76" alt="чесночный"><br>
+                <img width="76" height="76" src="<?php echo get_template_directory_uri(); ?>/img/chesnochnyiy-76x76.jpg" class="attachment-menu_76" alt="чесночный"><br>
                 <div class="sous_title">Чесночный</div>
                 </div>
                                 <div class="sous_img" sous_id="81">
-                <img width="76" height="76" src="img/syirnyiy-76x76.jpg" class="attachment-menu_76" alt="сырный"><br>
+                <img width="76" height="76" src="<?php echo get_template_directory_uri(); ?>/img/syirnyiy-76x76.jpg" class="attachment-menu_76" alt="сырный"><br>
                 <div class="sous_title">Сырный</div>
                 </div>
                                 <div class="sous_img" sous_id="79">
-                <img width="76" height="76" src="img/kislo-sladkiy-76x76.jpg" class="attachment-menu_76" alt="кисло-сладкий"><br>
+                <img width="76" height="76" src="<?php echo get_template_directory_uri(); ?>/img/kislo-sladkiy-76x76.jpg" class="attachment-menu_76" alt="кисло-сладкий"><br>
                 <div class="sous_title">Кисло-сладкий</div>
                 </div>
                                 <div class="sous_img" sous_id="70">
-                <img width="76" height="76" src="img/barbekyu-76x76.jpg" class="attachment-menu_76" alt="барбекью"><br>
+                <img width="76" height="76" src="<?php echo get_template_directory_uri(); ?>/img/barbekyu-76x76.jpg" class="attachment-menu_76" alt="барбекью"><br>
                 <div class="sous_title">Барбекю</div>
                 </div>
                                 <div class="with_heart">
@@ -830,7 +830,7 @@
     <div class="itempopup_wrap">
     	    	        <div class="single_pizza">        	
         	<div class="single_leftside">
-                <img width="560" height="770" src="img/Dobryiy-yabloko_logo-560x770.jpg" class="attachment-menu_560" alt="Добрый яблоко_logo">            </div>
+                <img width="560" height="770" src="<?php echo get_template_directory_uri(); ?>/img/Dobryiy-yabloko_logo-560x770.jpg" class="attachment-menu_560" alt="Добрый яблоко_logo">            </div>
             <div class="single_rightside">
             	<h1>Сок “Добрый” яблочный</h1>
             	                                <h5>Описание</h5>
