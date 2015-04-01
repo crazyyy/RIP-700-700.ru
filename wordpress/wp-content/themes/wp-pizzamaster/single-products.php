@@ -1,7 +1,5 @@
 <?php get_header(); ?>
-
 <div class="main">
-
 
     <div class="content_wrap">
 
