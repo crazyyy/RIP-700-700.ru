@@ -51,7 +51,8 @@
         <div class="header">
             <div class="head_wrap">
                 <div class="logo">
-                    <a href="./index_files/index.html"><img src="<?php echo get_template_directory_uri(); ?>/img/Master_logo_vologda700700_2.png" title="Пицца-Мастер" alt="Доставка пиццы в Вологде">
+                    <a href="<?php echo home_url(); ?>">
+                    	<img src="<?php echo get_template_directory_uri(); ?>/img/Master_logo_vologda700700_2.png" title="<?php wp_title( '' ); ?>" alt="<?php wp_title( '' ); ?>">
                     </a>
                 </div>
 
