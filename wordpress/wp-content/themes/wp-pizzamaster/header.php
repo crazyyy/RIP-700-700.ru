@@ -35,7 +35,7 @@
     <script src="<?php echo get_template_directory_uri(); ?>/js/fancybox.js"></script>
     <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery.fancybox-media.js"></script>
     <script src="<?php echo get_template_directory_uri(); ?>/js/scrollbar.js"></script>
-    <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery(1).js"></script>
+    <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery.js"></script>
     <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery-migrate.min.js"></script>
     <script type="text/javascript">
         var ajaxurl = 'http://700-700.ru/wp-admin/admin-ajax.php';
