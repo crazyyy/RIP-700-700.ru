@@ -15,7 +15,9 @@
                     <a href="http://vk.com/pizza700700?z=photo-47766404_353793714%2Falbum-47766404_00%2Frev"><img src="<?php echo get_template_directory_uri(); ?>/img/Testo.jpg">
                     </a>
                 </li>
-            </ul><a href="http://700-700.ru/#" class="rslides_nav rslides1_nav prev">Previous</a><a href="http://700-700.ru/#" class="rslides_nav rslides1_nav next">Next</a>
+            </ul>
+            <a href="http://700-700.ru/#" class="rslides_nav rslides1_nav prev">Previous</a>
+            <a href="http://700-700.ru/#" class="rslides_nav rslides1_nav next">Next</a>
         </div>
     </div><!-- fullslider -->
 
