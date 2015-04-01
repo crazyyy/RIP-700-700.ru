@@ -47,6 +47,7 @@
 </div>
 
 <div class="overlay"></div>
+
 <div class="popup cartform" data-noreg="1">
     <div class="close"></div>
     <div class="cart_preloader"></div>
@@ -307,172 +308,20 @@
             </div>
         </div>
     </div>
-
-</div>
-
-<div class="popup iwantwork">
-    <div class="close"></div>
-    <div class="cart_preloader"></div>
-    <div class="full_cart_data">
-
-        <div class="work_step_1">
-            <h4>Выберите должность</h4>
-            <div class="order_formline">
-                <div class="order_formcell">
-                    <label>Должность <span class="red">*</span>
-                    </label>
-                    <select id="anketa_place" style="width:660px">
-                        <option value="povar">Повар на пиццу</option>
-                        <option value="kurer">Водитель-курьер</option>
-                        <option value="uborshhik">Уборщик</option>
-                        <option value="logist-operator">Диспетчер</option>
-                        <option value="administrator">Администратор</option>
-                    </select>
-                </div>
-            </div>
-            <div class="order_formline">
-                <div class="workplace_desc" data-place="povar" style="display:block;"></div>
-                <div class="workplace_desc" data-place="kurer">
-                    <p>1) С личным автомобилем.
-                        <br> 2) Работа в 2 смены. Оплата почасовая + за заказ.
-                        <br> 3) Знание города приветствуется.
-                        <br> Заполняйте анкету и мы с вами свяжемся!</p>
-                </div>
-                <div class="workplace_desc" data-place="uborshhik"></div>
-                <div class="workplace_desc" data-place="logist-operator"></div>
-                <div class="workplace_desc" data-place="administrator"></div>
-            </div>
-            <div class="order_formline">
-                <input type="button" value="Дальше" class="send_button" id="work_step_2">
-            </div>
-        </div>
-
-        <div class="work_step_2">
-            <h4>Напишите немного о себе и мы свяжемся с Вами</h4>
-            <div class="order_formline">
-                <div class="order_formcell">
-                    <label>Ф.И.О. <span class="red">*</span>
-                    </label>
-                    <input type="text" id="anketa_fio" style="width:640px">
-                </div>
-            </div>
-
-
-            <div class="order_formline">
-                <div class="order_formcell">
-                    <label>Телефон <span class="red">*</span>
-                    </label>
-                    <input type="text" id="anketa_phone" class="w300">
-                </div>
-                <div class="order_formcell">
-                    <label>Email <span class="red">*</span>
-                    </label>
-                    <input type="text" id="anketa_mail" class="w300">
-                </div>
-            </div>
-
-            <div class="order_formline">
-                <div class="order_formcell">
-                    <label>День рождения<span class="red">*</span>
-                    </label>
-                    <input type="text" id="anketa_day" class="w180">
-                </div>
-                <div class="order_formcell">
-                    <label>Месяц рождения<span class="red">*</span>
-                    </label>
-                    <input type="text" id="anketa_month" class="w180">
-                </div>
-                <div class="order_formcell">
-                    <label>Год рождения<span class="red">*</span>
-                    </label>
-                    <input type="text" id="anketa_year" class="w180">
-                </div>
-            </div>
-
-            <div class="order_formline">
-                <div class="order_formcell">
-                    <label>Напишите немного о себе <span class="red">*</span>
-                    </label>
-                    <textarea id="anketa_text"></textarea>
-                </div>
-            </div>
-
-
-            <div class="order_formline">
-                <div class="errors_line">Заполните обязательные поля</div>
-                <input type="submit" value="Отправить" class="send_button" id="send_anketa">
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="popup feedback">
-    <div class="close"></div>
-    <div class="cart_preloader"></div>
-    <div class="full_cart_data">
-        <h4>Оставьте свой отзыв</h4>
-        <div class="order_formline">
-            <div class="order_formcell">
-                <label>ФИО <span class="red">*</span>
-                </label>
-                <input type="text" name="f_fio" id="feedback_fio" style="width:640px">
-            </div>
-        </div>
-
-
-        <div class="order_formline">
-            <div class="order_formcell">
-                <label>Телефон</label>
-                <input type="text" name="f_phone" id="feedback_phone" style="width:300px">
-                <small>Телефон не будет отображаться на сайте.</small>
-            </div>
-
-            <div class="order_formcell">
-                <label>Email</label>
-                <input type="text" name="f_email" id="feedback_mail" style="width:300px">
-            </div>
-        </div>
-
-        <div class="order_formline">
-            <div class="order_formcell">
-                <label>Текст отзыва <span class="red">*</span>
-                </label>
-                <textarea name="description" id="feedback_text"></textarea>
-            </div>
-        </div>
-
-        <div class="order_formline">
-            <div class="errors_line">Заполните обязательные поля</div>
-            <input type="submit" value="Отправить" class="send_button" id="send_feedback">
-        </div>
-    </div>
 </div>
 
 
-<div class="popup vote">
-    <div class="close"></div>
-    <div class="full_cart_data">
-        <div class="site_close">
-            <h2>Выберите социальную сеть для голосования</h2>
-            <input type="hidden" id="vote_url" value="">
-            <input type="hidden" id="vote_id" value="">
-            <input type="hidden" id="vote_count" value="">
-            <input type="hidden" id="vote_title" value="">
-            <input type="hidden" id="vote_desc" value="">
-            <input type="hidden" id="vote_img" value="">
-            <a href="" id="vk" class="voter"><img src="<?php echo get_template_directory_uri(); ?>/img/v_vk.png">
-            </a>
-            <a href="" id="fb" class="voter"><img src="<?php echo get_template_directory_uri(); ?>/img/v_fb.png">
-            </a>
-            <a href="" id="tw" class="voter"><img src="<?php echo get_template_directory_uri(); ?>/img/v_tw.png">
-            </a>
-            <a href="" id="ok" class="voter"><img src="<?php echo get_template_directory_uri(); ?>/img/v_ok.png">
-            </a>
-            <a href="" id="mm" class="voter"><img src="<?php echo get_template_directory_uri(); ?>/img/v_mm.png">
-            </a>
-        </div>
-    </div>
-</div>
+<?php get_template_part('popup-iwantwork'); ?>
+
+<?php get_template_part('popup-feedback'); ?>
+
+<?php get_template_part('popup-vote'); ?>
+
+
+
+
+
+
 
 <div class="popup vote_complete">
     <div class="close"></div>
