@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<?php /* Template Name: Category Template */ get_header(); ?>
 <!-- saved from url=(0024)http://700-700.ru/pizza/ -->
 <html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="ru" hola_ext_inject="ready"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
@@ -9,7 +10,7 @@
 	<meta name="author" content="">
     <link rel="shortcut icon" href="img/favicon.gif" type="image/x-icon">
     
-    <link href="css/reset.css" rel="stylesheet" type="text/css">
+    <link href="style.css" rel="stylesheet" type="text/css">
         
         <!--[if IE]><link href="http://700-700.ru/wp-content/themes/pizzamaster2/css/ie.css" rel="stylesheet" media="all" /><![endif]-->
     <script type="text/javascript" async="" src="http://mc.yandex.ru/metrika/watch.js"></script><script async="" src="http://www.google-analytics.com/analytics.js"></script><script src="js/modernizr-2.0.6.min.js"></script>
