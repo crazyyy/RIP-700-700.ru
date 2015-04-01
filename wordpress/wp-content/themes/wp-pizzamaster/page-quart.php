@@ -262,6 +262,8 @@
     </div>		
 </div>
 
+
+<!-- footer -->
 <div class="bottom_blocks">
 	<div class="subscribe">
     	Рассылка вкусных предложений
@@ -312,6 +314,9 @@
 </div>
 
 <div class="overlay" style="display: block;"></div>
+
+
+<!-- 111111111111111 -->
 <div class="popup cartform" data-noreg="1" style="display: block;">
 	<div class="close"></div>
     <div class="cart_preloader"></div>
@@ -324,7 +329,7 @@
             <p>Ваш телефон: <span id="your_fast_phone"></span></p>
             
 			<div class="fast_pass">
-                <input type="password" id="fast_reg_pass1" placeholder="пароль, минимум 6 знаков" style="font-weight:normal;" "="">
+                <input type="password" id="fast_reg_pass1" placeholder="пароль, минимум 6 знаков" >
             </div>
             <p>Если Вы уже зарегистрированный пользователь, то введите свой пароль.</p>
             <p>Если нет, то придумайте новый пароль. Больше ничего не понадобится!</p>
