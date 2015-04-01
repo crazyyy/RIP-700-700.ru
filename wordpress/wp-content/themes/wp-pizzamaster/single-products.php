@@ -26,7 +26,6 @@
             <h2 class="page-title inner-title"><?php _e( 'Sorry, nothing to display.', 'wpeasy' ); ?></h2>
             <?php endif; ?>
 
-
         </div>
         <!-- post_wrap -->
 

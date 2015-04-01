@@ -23,35 +23,26 @@
 
     <div class="home_menu">
         <div class="home_menu_wrap">
+            <?php if( have_rows('blumberg') ): ?>
             <ul>
+            <?php while( have_rows('blumberg') ): the_row(); 
+                // vars
+                $image = get_sub_field('blumberg-img');
+                $link = get_sub_field('blumberg-link');
+
+            ?>
                 <li>
-                    <a href="http://700-700.ru/pizza/"><img src="<?php echo get_template_directory_uri(); ?>/img/pizza_home.jpg">
-                    </a>
-                </li>
-                <li>
-                    <a href="http://700-700.ru/rolls/"><img src="<?php echo get_template_directory_uri(); ?>/img/rolls_home.jpg">
-                    </a>
-                </li>
-                <li class="nom">
-                    <a href="http://700-700.ru/masters/"><img src="<?php echo get_template_directory_uri(); ?>/img/masters.png">
+                    <a href="<?php echo $link; ?>">
+                        <img src="<?php echo $image; ?>">
                     </a>
                 </li>
 
-                <li>
-                    <a href="http://700-700.ru/zakuski/"><img src="<?php echo get_template_directory_uri(); ?>/img/Zakuski.jpg">
-                    </a>
-                </li>
-                <li>
-                    <a href="http://700-700.ru/salat/"><img src="<?php echo get_template_directory_uri(); ?>/img/salat_home.jpg">
-                    </a>
-                </li>
-                <li class="nom">
-                    <a href="http://700-700.ru/drinks/"><img src="<?php echo get_template_directory_uri(); ?>/img/drinks_home.jpg">
-                    </a>
-                </li>
+            <?php endwhile; ?>
             </ul>
+            <?php endif; ?>
         </div><!-- home_menu_wrap -->
 
+        
         <div class="promo_wrap">
             <div class="vk_big_baner">
                 <a href="http://vk.com/pizza700700" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/vk_big.jpg">
