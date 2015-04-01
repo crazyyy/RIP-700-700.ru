@@ -23,8 +23,15 @@
 
                 <div class="test-blocks">
                     
-<?php the_field('protein'); ?>
-<?php the_field('big-text'); ?>
+                <?php the_field('protein'); ?> <br>
+                <?php the_field('big-text'); ?>
+                <?php the_field('big-text'); ?>
+                <?php the_field('text-with_REDACTOR'); ?>
+                <?php 
+                    $image = get_field('imagere');
+                    if( !empty($image) ): ?>
+                    <img src="<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>" />
+                    <?php endif; ?>
 
                 </div>
 
