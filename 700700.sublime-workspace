@@ -1,0 +1,1122 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"spa",
+				"span	Tag"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"lis",
+				"list-dc	list-style-type: decimal;"
+			],
+			[
+				"va",
+				"va-tt	vertical-align: text-top;"
+			],
+			[
+				"tt",
+				"tt-l	text-transform: lowercase;"
+			],
+			[
+				"border",
+				"bordercolor"
+			],
+			[
+				"inc",
+				"include	@include"
+			],
+			[
+				"nth",
+				"nth-child(  (pseudo-class)"
+			],
+			[
+				"f",
+				"first-child  (pseudo-class)"
+			],
+			[
+				"la",
+				"last-child  (pseudo-class)"
+			],
+			[
+				"bord",
+				"border-image:   (property)"
+			],
+			[
+				"n",
+				"nth-child(  (pseudo-class)"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"ff",
+				"ff:ss	font-family:sans-serif"
+			],
+			[
+				"firs",
+				"first-child"
+			],
+			[
+				"trs",
+				"trs	transition: ${1:prop} ${2:time};"
+			],
+			[
+				"imp",
+				"@import	@import url(${0});"
+			],
+			[
+				"li",
+				"lighten(color, 10%)"
+			],
+			[
+				"article-",
+				"article-title"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"in",
+				"inside"
+			],
+			[
+				"list-style-",
+				"list-style-position"
+			],
+			[
+				"liststyle",
+				"list-style-type"
+			],
+			[
+				"box-z",
+				"-moz-box-sizing:   (property)"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"fff",
+				"F0F0F0"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"op",
+				"op:ms	-ms-filter:opacity"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"bor",
+				"border-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wordpress/wp-content/themes/wp-pizzamaster/index.php",
+			"settings":
+			{
+				"buffer_size": 40495,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wordpress/wp-content/themes/wp-pizzamaster/loop.php",
+			"settings":
+			{
+				"buffer_size": 1435,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wordpress/wp-content/themes/wp-pizzamaster/page-construct.php",
+			"settings":
+			{
+				"buffer_size": 51245,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"css",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"cssc",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"emme",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"encode/de",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"emmet",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"cssco",
+				"Run CSScomb"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"packe",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"encod",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"sass",
+				"SassBeautify: Convert from SCSS to current type"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"emmet enc",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"emmet en",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"tor",
+				"TortoiseSVN: Commit"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"tidy",
+				"Tidy CSS"
+			],
+			[
+				"ti",
+				"Tidy HTML"
+			],
+			[
+				"wo",
+				"WordPress: Open Config File"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"snip de",
+				"Snippet: desktop  laptop"
+			],
+			[
+				"sni mo",
+				"Snippet: smartphone"
+			],
+			[
+				"snipe",
+				"Snippet: :focus"
+			],
+			[
+				"snip",
+				"Snippet: ipad"
+			],
+			[
+				"clea",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ty",
+				"Tidy HTML"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sft",
+				"SFTP: Setup Server…"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"live",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"qi",
+				"Git: Quick Commit"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"git ",
+				"Git: Push"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"gut",
+				"Git: Quick Commit"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"gi",
+				"Git: Push"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"subl",
+				"SublimeZilla: Import FileZilla Server"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"colo",
+				"BracketHighlighter: Toggle Global Enable"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 199.0,
+		"history":
+		[
+			"restart",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Working/develop/verstka/RIP-700-700.ru.git"
+	],
+	"file_history":
+	[
+		"/D/Working/develop/verstka/kovkanazakaz/wordpress/wp-content/themes/wp-kovkanazakaz/page.php",
+		"/D/Working/develop/verstka/kovkanazakaz/wordpress/wp-content/themes/wp-kovkanazakaz/header.php",
+		"/D/Working/develop/verstka/kovkanazakaz/wordpress/wp-content/themes/wp-kovkanazakaz/index.php",
+		"/D/Working/develop/verstka/kovkanazakaz/wordpress/wp-content/themes/wp-kovkanazakaz/functions.php",
+		"/D/Working/develop/verstka/kovkanazakaz/wordpress/wp-content/themes/wp-kovkanazakaz/single.php",
+		"/D/Working/develop/verstka/kovkanazakaz/wordpress/wp-content/themes/wp-kovkanazakaz/sidebar.php",
+		"/D/Working/develop/verstka/kovkanazakaz/wordpress/wp-content/themes/wp-kovkanazakaz/footer.php",
+		"/D/Working/develop/verstka/kovkanazakaz/wordpress/wp-content/themes/wp-kovkanazakaz/loop.php",
+		"/D/Working/develop/verstka/kovkanazakaz/wordpress/wp-content/themes/wp-kovkanazakaz/assets/sass/main.scss",
+		"/D/Working/develop/verstka/kovkanazakaz/wordpress/wp-content/themes/wp-kovkanazakaz/assets/sass/old_main.scss",
+		"/D/Working/develop/verstka/kovkanazakaz/wordpress/wp-content/themes/wp-kovkanazakaz/page_o.php",
+		"/D/Working/develop/verstka/kovkanazakaz/wordpress/wp-content/themes/wp-kovkanazakaz/examples-container.php",
+		"/D/Working/develop/verstka/kovkanazakaz/wordpress/wp-content/themes/wp-kovkanazakaz/package.json",
+		"/D/Working/Dropbox/Soft/SublimeText3/Data/Packages/User/Preferences.sublime-settings",
+		"//h24-prog-verst/Work/hotels24-blog/wordpress/wp-content/themes/wp-hotels/sidebar-home.php",
+		"/Z/hotels24-blog/wordpress/wp-content/themes/wp-hotels/sidebar-posters.php",
+		"//h24-prog-verst/Work/hotels24-blog/wordpress/wp-content/themes/wp-hotels/sidebar.php",
+		"//h24-prog-verst/Work/hotels24-blog/wordpress/wp-content/themes/wp-hotels/sidebar-single.php",
+		"//h24-prog-verst/Work/hotels24-blog/wordpress/wp-content/themes/wp-hotels/sidebar-page.php",
+		"//h24-prog-verst/Work/hotels24-blog/wordpress/wp-content/themes/wp-hotels/loop.php",
+		"//h24-prog-verst/Work/hotels24-blog/wordpress/wp-content/themes/wp-hotels/page.php",
+		"//h24-prog-verst/Work/hotels24-blog/wordpress/wp-content/themes/wp-hotels/single.php",
+		"//h24-prog-verst/Work/hotels24-blog/wordpress/wp-content/themes/wp-hotels/footer.php",
+		"//h24-prog-verst/Work/hotels24-blog/wordpress/wp-content/themes/wp-hotels/archive-posters.php",
+		"//h24-prog-verst/Work/hotels24-blog/wordpress/wp-content/themes/wp-hotels/mailing-form.php",
+		"//h24-prog-verst/Work/hotels24-blog/wordpress/wp-content/themes/wp-hotels/page-home.php",
+		"//h24-prog-verst/Work/hotels24-blog/wordpress/wp-content/themes/wp-hotels/sidebar-posters.php",
+		"/Z/hotels24-blog/wordpress/wp-content/themes/wp-hotels/category-posters.php",
+		"//h24-prog-verst/Work/hotels24-blog/wordpress/wp-content/themes/wp-hotels/single-posters.php",
+		"//h24-prog-verst/Work/hotels24-blog/wordpress/wp-content/themes/wp-hotels/page-poster.php",
+		"//h24-prog-verst/Work/hotels24-blog/wordpress/wp-content/themes/wp-hotels/assets/sass/_sprite.scss",
+		"/Z/hotels24-blog/wordpress/wp-content/themes/wp-hotels/mailing-form.php",
+		"/Z/hotels24-blog/wordpress/wp-content/themes/wp-hotels/header.php",
+		"/Z/hotels24-blog/wordpress/wp-content/themes/wp-hotels/pagination.php",
+		"/Z/hotels24-blog/wordpress/wp-content/themes/wp-hotels/sidebar-tests.php",
+		"/Z/maildeveloper/Gruntfile.js",
+		"/Z/hotels24-blog/wordpress/wp-content/themes/wp-hotels/single-poster.php",
+		"/Z/hotels24-blog/hotels24-blog.sublime-project",
+		"/Z/hotels24-blog/wordpress/wp-content/themes/wp-hotels/assets/sass/_print.scss",
+		"/Z/hotels24-blog/wp-hotels/nearby-hotels.php",
+		"/Z/hotels24-blog/wp-hotels/see-also.php",
+		"/Z/hotels24-blog/wp-hotels/functions.php",
+		"/Z/hotels24-blog/wp-hotels/single-poster.php",
+		"/Z/hotels24-blog/wp-hotels/single.php",
+		"/Z/hotels24-blog/wp-hotels/assets/sass/main.scss",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/poster-paced.php",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/single.php",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/page-home.php",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/assets/sass/_sprite.scss",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/sidebar-single.php",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/see-also.php",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/footer.php",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/package.json",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/gulpfile.js",
+		"/D/Working/develop/verstka/drmichaels/html/assets/sass/main.scss",
+		"/D/Working/develop/verstka/drmichaels/html/assets/sass/_fonts.scss",
+		"/D/Working/develop/verstka/drmichaels/html/assets/sass/main_purged.scss",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/css/main.css",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/index_o.php",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/index.php",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/header.php",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/assets/sass/fa/_variables.scss",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/assets/sass/_font-awesome.scss",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/assets/sass/_fonts.scss",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/functions.php",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/css/sprite.css",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/assets/sass/_normalize.scss",
+		"/D/Working/develop/verstka/hotels24-blog/wp-hotels/style.css",
+		"/D/Working/develop/verstka/hotels24-blog/html/assets/sass/main.scss",
+		"/D/Working/develop/soft/uncss/gulpfile.js",
+		"/D/Working/develop/verstka/hotels24-blog/html/assets/sass/_fonts.scss",
+		"/D/Working/develop/verstka/hotels24-blog/html/index.html",
+		"/Z/hotels24.ua/assets/sass/temp_thee_page.scss",
+		"/Z/hotels24.ua/assets/sass/minifed.scss",
+		"/D/Working/develop/soft/uncss/out/index.css",
+		"/Z/hotels24.ua/assets/sass/minifed.css",
+		"/D/Working/develop/soft/uncss/index.css",
+		"/D/Working/develop/soft/uncss/dest/index.css",
+		"/D/Working/develop/verstka/html2wp-easy/builds/development/css/stylesheet.css",
+		"/D/Working/develop/verstka/html2wp-easy/builds/development/index.html",
+		"/D/Working/develop/verstka/hotels24-blog/html/assets/sass/_reset.scss",
+		"/D/Working/develop/verstka/nayada-work-html-wp-land/html/style.css",
+		"/D/Working/develop/verstka/nayada-work-html-wp-land/html/index.html",
+		"/D/Working/develop/verstka/hotels24-blog/html/gulpfile.js",
+		"/D/_develop_framework/new/html2wp-easy/package.json",
+		"/D/Working/develop/verstka/hotels24-blog/html/package.json",
+		"/D/_develop_framework/new/html2wp-easy/gulpfile.js",
+		"/D/_develop_framework/new/html2wp-easy/bower.json",
+		"/D/_develop_framework/new/html2wp-easy/.bowerrc",
+		"/Z/crm/app/views/scripts/deed/clientVouchers/blocks/bookingInfo",
+		"/Z/crm/app/views/scripts/deed/clientVouchers/blocks/hotelInfo",
+		"/Z/crm/app/views/scripts/deed/clientVouchers/blocks/cancelBooking/pay",
+		"/Z/crm/app/views/scripts/deed/clientVouchers/blocks/cancelBooking/free",
+		"/Z/crm/app/views/scripts/deed/clientVouchers/blocks/cancelBooking/toDay",
+		"/Z/crm/app/views/scripts/deed/hotelCancelVouchers/mainVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/hotelVouchers/onlineFullPrepaymentVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/hotelVouchers/onlineNoPrepaymentVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/hotelVouchers/blocks/bookingInfoOffline",
+		"/Z/crm/app/views/scripts/deed/hotelCancelVouchers/blocks/bookingInfoOnline",
+		"/Z/crm/app/views/scripts/deed/hotelCancelVouchers/blocks/bookingInfoOffline",
+		"/Z/crm/app/views/scripts/deed/hotelVouchers/onlinePartialPrepaymentVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/hotelVouchers/onlineSendCardVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/hotelVouchers/offlinePartialPrepaymentVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/hotelVouchers/offlineFullPrepaymentVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/hotelVouchers/offlineNoPrepaymentVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/hotelVouchers/blocks/bookingInfoOnline",
+		"/Z/crm/app/views/scripts/deed/hotelCancelVouchers/onlinePartialPrepaymentCancelVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/hotelCancelVouchers/onlineSendCardCancelVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/hotelCancelVouchers/header.twig",
+		"/Z/crm/app/views/scripts/deed/hotelVouchers/header.twig",
+		"/Z/crm/app/views/scripts/deed/hotelCancelVouchers/onlineFullPrepaymentCancelVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/hotelCancelVouchers/blocks/footerOffline",
+		"/Z/crm/app/views/scripts/deed/hotelCancelVouchers/onlineNoPrepaymentCancelVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/hotelCancelVouchers/offlineFullPrepaymentCancelVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/hotelCancelVouchers/offlineNoPrepaymentCancelVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/hotelCancelVouchers/offlinePartialPrepaymentCancelVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/hotelVouchers/blocks/footerOffline",
+		"/Z/crm/app/views/scripts/deed/hotelVouchers/blocks/footerOnline",
+		"/Z/crm/app/views/scripts/deed/clientCancelVouchers/offlinePartialPrepaymentCancelVoucher.twig",
+		"/Z/crm/dev-vaucher/bck/ready-long/app/booking-request.twig",
+		"/Z/crm/dev-vaucher/bck/ready-long/app/index.html",
+		"/Z/crm/dev-vaucher/bck/ready-long/app/scss/style.scss",
+		"/Z/crm/composer.json",
+		"/Z/crm/.hgignore.orig",
+		"/Z/crm/app/views/scripts/deed/vaucher.html",
+		"/Z/crm/app/views/scripts/deed/voucher_bck.phtml",
+		"/Z/crm/app/views/scripts/deed/voucher.phtml",
+		"/Z/client/public/js/libs/require/require.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"&nbsp;",
+			"<div class=\"main-content-container-shadow\"></div>",
+			"looper-title",
+			"single-posters",
+			"inner-title",
+			"page-title",
+			"looper",
+			"last-c",
+			"loop-with-first",
+			".widget",
+			"big-date",
+			"mounth-date-big",
+			"img",
+			"ico-mailform",
+			".head-go-botton",
+			"comments",
+			"main",
+			"sideba",
+			"lang-selector",
+			"poster-headline",
+			"see-also-title",
+			"single",
+			"spri",
+			"ico-halfprice-48",
+			"<span class=\"price\">от <span class=\"num\">90</span> грн</span>",
+			"от 90 грн",
+			"sin",
+			"aside",
+			"bread",
+			"fa-star",
+			"category-hl",
+			"cat",
+			"article",
+			"live",
+			"sourcemaps",
+			"cache",
+			"live",
+			"reloa",
+			"reload",
+			"#id-common-common_hotel_facilities",
+			"#id-common-common_hotel_facilities label",
+			"input + label",
+			"input+label",
+			"disab",
+			"liver",
+			"livereload",
+			"webp",
+			"article",
+			"font-family: revicons;",
+			"font-family: segoeuilight;",
+			"font-family: segoeui;",
+			"font-family: IcoMoon;",
+			"font-family: equiplight;",
+			"font-family: FontAwesome;",
+			"font-family: Pe-icon-7-stroke;",
+			"font-family: 'Roboto Condensed';",
+			"font-family: 'Archivo Narrow';",
+			"@font-face",
+			"@keyframes",
+			"3c89b5",
+			".pipe(livereload());",
+			"spri",
+			"sprite",
+			"ececec",
+			"border",
+			"body",
+			"line-he",
+			"font-we",
+			"body",
+			"html",
+			"width",
+			"bowerFiles",
+			"streamqueue",
+			"font",
+			"bowe",
+			"str-4",
+			"str-6",
+			"p s",
+			"font-s",
+			" font-size: 90%",
+			"font-size: 90%; ",
+			"font-size: 100%;",
+			"font-size: 100%",
+			"10_2",
+			"22pt",
+			"10_2",
+			"22px",
+			"22pt",
+			"грн",
+			"22pt",
+			"line-10_2",
+			"22pt",
+			"spadding: 0; ",
+			"spadding: 2px 0; ",
+			"spad",
+			"spadding: 2px 0; ",
+			"spadding: 0; ",
+			"spadding: 2px 0; ",
+			"spad",
+			"spadding: 0; ",
+			"spadding: 2px 0; ",
+			"spad",
+			"spadding: 0; ",
+			"spadding: 0; f",
+			"spad",
+			"spadding: 2px 0; ",
+			"spad",
+			"spadding: 0; ",
+			"padding: 2px 0; ",
+			"spadding: 2px 0; ",
+			"block-5_2",
+			"ТОИМОСТЬ НОМЕРА",
+			"block-7_2",
+			"block-4_2",
+			"line-6",
+			"Стандарт",
+			"position",
+			"sum",
+			"оплате в",
+			"оплате в оте",
+			"сведе",
+			"Сведения",
+			"Сведения о бронирова",
+			"067 510 15 04, 0800 210-017, 044 364-20-00",
+			"cancel_booking_day",
+			"Бесплатная",
+			"Бесплатная отмена бронирования",
+			"услуги"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"от <span class=\"num\">90</span> грн",
+			"fa fa-star",
+			"",
+			"font-size: 90%",
+			"",
+			"tempclass",
+			"p",
+			"",
+			"</button",
+			"<button",
+			"290",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"295",
+			"img/model",
+			"//",
+			"href=\"#\"",
+			"68",
+			" .tab-header li",
+			"72",
+			"<?php echo get_template_directory_uri(); ?>/",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"font-family: 'PT Sans', sans-serif;",
+			"href=\"#\"",
+			"100",
+			"950",
+			"fonts",
+			"img",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"img",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"src=\"phpshop/templates/saitobaza/img",
+			"carousell-inner",
+			"carousell-item",
+			"120",
+			"1200",
+			"rgba(253, 238, 186, 0.25)",
+			"#FDEEBA",
+			"</a>",
+			"<a href=\"\">\\1<aasa>",
+			"<a href=\"\">/1<a\\/>",
+			").png",
+			")png",
+			"png\" ",
+			"timthumb",
+			" ",
+			"h3",
+			"../img/",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"src=\"img",
+			"img/",
+			"font-family: 'Open Sans', sans-serif;",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"src=\"<?php echo get_template_directory_uri(); ?>/photos",
+			"current-menu-item",
+			"",
+			"img",
+			"70",
+			"1000",
+			"<li>",
+			"showposts=12",
+			"page-template-page-jobs-php",
+			"http://mihas86.myjino.ru/wp-content/themes/wp-onetoone/img/",
+			"http://mihas86.myjino.ru/",
+			"140",
+			"1000",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img/",
+			"url('../img",
+			"url('img/",
+			"href=\"#\"",
+			"src=\"img",
+			"img",
+			"relative",
+			"  behavior: url(http://demo.saitobaza.ru/wp-content/themes/wp-clickprime/PIE/PIE.htc);",
+			"section",
+			"/PIE.htc",
+			"http://demo.saitobaza.ru/wp-content/themes/wp-clickprime/PIE.htc",
+			".section-main",
+			"400",
+			"515",
+			"115",
+			"175",
+			"href=\"#\"",
+			"320",
+			"<span class=\"article-info\"><span class=\"date\">10:26  23.02.2014</span>  Интервью  Богдан Тимин</span>",
+			"<h2><a href=\"\">Что случилось с Михаилом Рокфеллером</a></h2>",
+			"180",
+			"1000",
+			"253",
+			"MyriadProBoldCondensed",
+			"1000",
+			"",
+			"wpeasy",
+			"c"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wordpress/wp-content/themes/wp-pizzamaster/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wordpress/wp-content/themes/wp-pizzamaster/loop.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "wordpress/wp-content/themes/wp-pizzamaster/page-construct.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1000,
+								974
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti_monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 183.0
+	},
+	"output.sftp":
+	{
+		"height": 149.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 172.0
+	},
+	"pinned_build_system": "",
+	"project": "700700.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"wp-hotels\\single-poster.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"\\\\H24-PROG-VERST\\Work\\hotels24.ua\\hotels24ua.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
