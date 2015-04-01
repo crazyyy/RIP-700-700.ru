@@ -2,46 +2,40 @@
 <?php get_header(); ?>
 <div class="main">
     <div class="content_wrap">
+        <?php if (have_posts()): while (have_posts()) : the_post(); ?>
+            <h2><span class="left_pimpa">~~~</span>  <?php the_title(); ?><span class="right_pimpa">~~~</span></h2>
 
 
-    <h2><span class="left_pimpa">~~~</span>  Пицца<span class="right_pimpa">~~~</span></h2>
+            <div class="promo">
+                <div class="img_cont">
+                    <a href=""><img src="<?php echo get_template_directory_uri(); ?>/img/Skidka__kachestvo-900x140.jpg">
+                    </a>
+                </div>
+            </div>
 
 
-    <div class="promo">
-        <div class="img_cont">
-            <a href=""><img src="<?php echo get_template_directory_uri(); ?>/img/Skidka__kachestvo-900x140.jpg">
-            </a>
-        </div>
-    </div>
+            <div class="open_filter">▾ открыть фильтр</div>
+            <div class="pizza_filter">
+                <ul>
+                    <li data-type="klassika">Классика</li>
+                    <li data-type="kolbasnyie">Колбасные</li>
+                    <li data-type="myasnyie">Мясные</li>
+                    <li data-type="ovoshhnyie">Овощные</li>
+                    <li data-type="ostryie">Острые</li>
+                    <li data-type="s-gribami">С грибами</li>
+                    <li data-type="s-kuritsey">С курицей</li>
+                    <li data-type="s-ryiboy-i-moreproduktami">С рыбой и морепродуктами</li>
+                </ul>
+            </div><!-- pizza_filter -->
 
+            <div class="pizzalist">
 
-    <div class="open_filter">▾ открыть фильтр</div>
-    <div class="pizza_filter">
-        <ul>
-            <li data-type="klassika">Классика</li>
-            <li data-type="kolbasnyie">Колбасные</li>
-            <li data-type="myasnyie">Мясные</li>
-            <li data-type="ovoshhnyie">Овощные</li>
-            <li data-type="ostryie">Острые</li>
-            <li data-type="s-gribami">С грибами</li>
-            <li data-type="s-kuritsey">С курицей</li>
-            <li data-type="s-ryiboy-i-moreproduktami">С рыбой и морепродуктами</li>
-        </ul>
-    </div><!-- pizza_filter -->
-
-
-
-
-        <div class="pizzalist">
-
-
-
-        <?php
-            $paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
-            $temp = $wp_query;
-            $wp_query= null;
-            query_posts('post_type=products'.'&showposts=100'.'&paged='.$paged);
-            while (have_posts()) : the_post();?>
+            <?php
+                $paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
+                $temp = $wp_query;
+                $wp_query= null;
+                query_posts('post_type=products'.'&showposts=100'.'&paged='.$paged);
+                while (have_posts()) : the_post();?>
 
             <div class="pizza_one <?php the_tags(); ?>">
 
@@ -114,5 +108,10 @@
         </div><!-- pizzalist -->
 
     </div><!-- content_wrap -->
+    <?php endwhile; else: // If 404 page error ?>
+        <div class="content_wrap">
+            <h2 class="page-title inner-title"><?php _e( 'Sorry, nothing to display.', 'wpeasy' ); ?></h2>   
+        </div>
+    <?php endif; ?>
 </div><!-- main -->
 <?php get_footer(); ?>

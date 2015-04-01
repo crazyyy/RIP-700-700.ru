@@ -5372,17 +5372,13 @@ figure, figcaption {
 .mCS-dark > .mCSB_scrollTools {
     .mCSB_draggerRail {
         background: #000;
-        /* rgba fallback */
-        background: rgba(0, 0, 0);
     }
     .mCSB_dragger {
         .mCSB_dragger_bar {
             background: #000;
-            /* rgba fallback */
-            background: rgba(0, 0, 0);
         }
         &:hover .mCSB_dragger_bar, &:active .mCSB_dragger_bar, &.mCSB_dragger_onDrag .mCSB_dragger_bar {
-            background: rgba(0, 0, 0);
+            background: #000;
         }
     }
     .mCSB_buttonUp {
@@ -5407,7 +5403,7 @@ figure, figcaption {
             width: 4px;
             background: #fff;
             /* rgba fallback */
-            background: rgba(255, 255, 255);
+            background: #fff;
             -webkit-border-radius: 1px;
             -moz-border-radius: 1px;
             border-radius: 1px;
@@ -5428,7 +5424,7 @@ figure, figcaption {
     > .mCSB_scrollTools {
         .mCSB_dragger {
             &:hover .mCSB_dragger_bar, &:active .mCSB_dragger_bar, &.mCSB_dragger_onDrag .mCSB_dragger_bar {
-                background: rgba(255, 255, 255);
+                background: #fff;
             }
         }
         .mCSB_buttonUp {
