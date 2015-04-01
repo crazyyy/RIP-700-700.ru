@@ -18,6 +18,7 @@
     <link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/img/favicon.gif" type="image/x-icon">
 
     <!-- css + javascript -->
+    <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&subset=latin,cyrillic-ext,cyrillic' rel='stylesheet' type='text/css'>
     <?php wp_head(); ?>
     <!--[if IE]>
     	<link href="http://700-700.ru/wp-content/themes/pizzamaster2/css/ie.css" rel="stylesheet" media="all" />
