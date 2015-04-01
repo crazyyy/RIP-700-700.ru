@@ -6054,3 +6054,8 @@ http://wordpress.org/extend/plugins/wp-pagenavi/
 .wp-pagenavi span.current {
 	font-weight: bold;
 }
+/* mine editor */ 
+.item_popup_link-feature-210-180 img {
+	width: 210px;
+	height: 180px;
+}

@@ -36,18 +36,27 @@
 
 
 
-            <div class="pizza_one klassika kolbasnyie">
+        <?php
+            $paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
+            $temp = $wp_query;
+            $wp_query= null;
+            query_posts('post_type=products'.'&showposts=100'.'&paged='.$paged);
+            while (have_posts()) : the_post();?>
+
+            <div class="pizza_one <?php the_tags(); ?>">
 
                 <div class="pizza_title">
-                    <a href="http://700-700.ru/servelatto-7987/" class="item_popup_link" data-id="7987">Сервелатто</a>
+                    <a href="<?php the_permalink(); ?>" class="item_popup_link" data-id="<?php the_ID(); ?>"><?php the_title(); ?></a>
                 </div>
 
-                <a href="http://700-700.ru/servelatto-7987/" title="Сервелатто" class="item_popup_link" data-id="7987">
-                    <img width="210" height="180" src="<?php echo get_template_directory_uri(); ?>/img/Servelatto_logo1-210x180.jpg" class="attachment-menu_210" alt="Servelatto_logo">
+                <a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>" class="item_popup_link item_popup_link-feature-210-180" data-id="<?php the_ID(); ?>">
+                    <?php the_post_thumbnail(); // Fullsize image for the single post ?>
                 </a>
 
                 <div class="pizza_all_meta">
-                    <div class="components"><span>Состав:</span> Соус фирменный, сыр «Моцарелла», много-много сервелата</div>
+                    <div class="components">
+                        <?php the_content(); ?>
+                    </div>
                     
                     <div class="pizza_meta">
                         <div class="variants_buttons">
@@ -83,7 +92,7 @@
                 </div><!-- pizza_all_meta -->
 
                 <div class="rating_wrap">
-                    <div class="rating_stars " data-id="7987">
+                    <div class="rating_stars " data-id="<?php the_ID(); ?>">
                         <div class="star" data-position="1"></div>
                         <div class="star" data-position="2"></div>
                         <div class="star" data-position="3"></div>
@@ -96,6 +105,10 @@
                     <div class="vote_result vr_7987"></div>
                 </div><!-- rating_wrap -->
             </div><!-- pizza_one -->
+
+            <?php endwhile; ?>
+            <?php html5wp_pagination(); ?>
+            <?php $wp_query = null; $wp_query = $temp;?>
 
 
         </div><!-- pizzalist -->
