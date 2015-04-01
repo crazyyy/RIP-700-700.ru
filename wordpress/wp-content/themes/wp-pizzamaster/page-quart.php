@@ -944,13 +944,13 @@
 
 <div style="display:none" id="half_indicator" is_full="0"></div>
 <div style="display:none" id="half_indicator_30" is_full="0"></div>
-<script type="text/javascript" src="js/jquery.form.min.js"></script>
+<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery.form.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"http:\/\/700-700.ru\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"\u041e\u0442\u043f\u0440\u0430\u0432\u043a\u0430..."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="js/scripts(1).js"></script>
+<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/scripts(1).js"></script>
 
 <script>
 	$(document).ready(function(e) {	
@@ -958,43 +958,8 @@ var _wpcf7 = {"loaderUrl":"http:\/\/700-700.ru\/wp-content\/plugins\/contact-for
 	});
 </script>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-40703490-1', '700-700.ru');
-  ga('send', 'pageview');
 
-</script>
 
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-(function (d, w, c) {
-    (w[c] = w[c] || []).push(function() {
-        try {
-            w.yaCounter23458024 = new Ya.Metrika({id:23458024,
-                    webvisor:true,
-                    clickmap:true,
-                    trackLinks:true,
-                    accurateTrackBounce:true});
-        } catch(e) { }
-    });
-
-    var n = d.getElementsByTagName("script")[0],
-        s = d.createElement("script"),
-        f = function () { n.parentNode.insertBefore(s, n); };
-    s.type = "text/javascript";
-    s.async = true;
-    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
-
-    if (w.opera == "[object Opera]") {
-        d.addEventListener("DOMContentLoaded", f, false);
-    } else { f(); }
-})(document, window, "yandex_metrika_callbacks");
-</script>
-<noscript>&lt;div&gt;&lt;img src="//mc.yandex.ru/watch/23458024" style="position:absolute; left:-9999px;" alt="" /&gt;&lt;/div&gt;</noscript>
-<!-- /Yandex.Metrika counter -->
 
 <spots-wrapper></spots-wrapper></body></html>
