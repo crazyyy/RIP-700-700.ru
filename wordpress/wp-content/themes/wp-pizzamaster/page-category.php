@@ -1,18 +1,23 @@
-<!-- /* Template Name: Category Template */  -->
-<?php get_header(); ?>
+<?php /* Template Name: Category Template */ get_header(); ?>
 <div class="main">
     <div class="content_wrap">
         <?php if (have_posts()): while (have_posts()) : the_post(); ?>
             <h2><span class="left_pimpa">~~~</span>  <?php the_title(); ?><span class="right_pimpa">~~~</span></h2>
-
-
+        
+        <?php if( get_field('baner-img') ): ?>  
             <div class="promo">
-                <div class="img_cont">
-                    <a href="##"><img src="<?php echo get_template_directory_uri(); ?>/img/Skidka__kachestvo-900x140.jpg">
-                    </a>
+                <div class="img_cont">         
+                        <?php
+                             //vars 
+                            $link = get_field('baner');
+                            $image = get_field('baner-img');
+                        ?>
+                        <a href="<?php echo $link; ?>" >
+                            <img src="<?php echo $image; ?>">
+                        </a>         
                 </div>
             </div>
-
+        <?php endif; ?>
 
             <div class="open_filter">▾ открыть фильтр</div>
             <div class="pizza_filter">
