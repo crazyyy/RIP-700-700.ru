@@ -19,8 +19,24 @@
             <a class="single-thumb" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
                 <?php the_post_thumbnail(); // Fullsize image for the single post ?>
             </a>
+
+
+                <div class="test-blocks">
+                    
+<?php the_field('protein'); ?>
+<?php the_field('big-text'); ?>
+
+                </div>
+
+
+<div class="mames">
+    
+</div>
+
             <?php endif; ?>
             <!-- /post thumbnail -->
+
+
 
 
 
