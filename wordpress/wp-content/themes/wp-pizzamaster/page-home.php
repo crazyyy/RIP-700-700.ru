@@ -1,3 +1,4 @@
+<!-- /* Template Name: Home Page Template */  -->
 <?php get_header(); ?>
     <div class="fullslider">
         <div class="fullslider_wrap">
