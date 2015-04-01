@@ -65,49 +65,21 @@
                         <br>доставка
                         <br>в Вологде</div>
                 </div>
+
                 <div class="headcart">
                     <div class="cart_counter opencartpopup">0</div>
                     <a href="" class="order opencartpopup">Оформить заказ</a>
                     <h1>Корзина</h1>
                     <p>товар(-ов) на <span class="totalcartsum">0</span> руб.</p>
-
-                </div>
+                </div><!-- headcart -->
 
                 <div class="menubg"></div>
-                <div class="left_menu">
-                    <ul>
-                        <li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-16"><a href="./index_files/index.html">Главная</a>
-                        </li>
-                        <li id="menu-item-950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-950"><a href="http://700-700.ru/menu">Меню</a>
-                            <ul class="sub-menu">
-                                <li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="http://700-700.ru/pizza/">Пицца</a>
-                                </li>
-                                <li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="http://700-700.ru/rolls/">Роллы</a>
-                                </li>
-                                <li id="menu-item-1178" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1178"><a href="http://700-700.ru/masters/">Мастерсы</a>
-                                </li>
-                                <li id="menu-item-11634" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11634"><a href="http://700-700.ru/zakuski/">Закуски</a>
-                                </li>
-                                <li id="menu-item-1882" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1882"><a href="http://700-700.ru/salat/">Салаты</a>
-                                </li>
-                                <li id="menu-item-44" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44"><a href="http://700-700.ru/drinks/">Напитки</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li id="menu-item-951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-951"><a href="http://700-700.ru/constructor-pizza/">Конструктор пиццы</a>
-                        </li>
-                    </ul>
-                </div>
 
+                <div class="left_menu">
+                	<?php wpeHeadNav(); ?>
+                </div>
                 <div class="right_menu">
-                    <ul>
-                        <li id="menu-item-11618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11618"><a href="http://700-700.ru/pochemu-myi/">Почему мы?</a>
-                        </li>
-                        <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="http://700-700.ru/kontaktyi/">Доставка</a>
-                        </li>
-                        <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://700-700.ru/guestbook/">Гостевая книга</a>
-                        </li>
-                    </ul>
+                	<?php wpeSideNav(); ?>
                 </div>
             </div>
         </div>
