@@ -60,8 +60,7 @@
                     <a href="" class="loginpopup_open">Личный кабинет</a> | <a href="" class="open_register">Регистрация</a>
                 </div>
                 <div class="freedelivery">
-                    <div class="phones">700-700
-                        <br>70-9999</div>
+                    <div class="phones">271-10-33</div>
                     <div class="freedel_text">Бесплатная
                         <br>доставка
                         <br>в Вологде</div>
