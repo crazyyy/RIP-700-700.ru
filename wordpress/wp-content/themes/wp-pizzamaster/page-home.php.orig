@@ -2,24 +2,31 @@
 <?php get_header(); ?>
     <div class="fullslider">
         <div class="fullslider_wrap">
-          
-             <?php if( have_rows('slider') ): ?>
-                <ul class="rslides">
-                <?php while( have_rows('slider') ): the_row(); 
-                    // vars
-                    $simage = get_sub_field('slider-img');
-                    $slink = get_sub_field('slider-url');
 
-                ?>
-                    <li >
-                        <a href="<?php echo $slink; ?>">
-                            <img src="<?php echo $simage; ?>">
-                        </a>
-                    </li>
+           
+         <?php if( have_rows('slider') ): ?>
+<<<<<<< HEAD
+                    <ul class="rslides rslides1" >
+=======
+                    <ul class="rslides">
+>>>>>>> origin/DAN
+                    <?php while( have_rows('slider') ): the_row(); 
+                        // vars
+                        $simage = get_sub_field('slider-img');
+                        $slink = get_sub_field('slider-url');
 
-                <?php endwhile; ?>
-                </ul>
-            <?php endif; ?>
+                    ?>
+                        <li >
+                            <a href="<?php echo $slink; ?>">
+                                <img src="<?php echo $simage; ?>">
+                            </a>
+                        </li>
+
+                    <?php endwhile; ?>
+                    </ul>
+        <?php endif; ?>
+
+
 
             <a href="#" class="rslides_nav rslides1_nav prev">Previous</a>
             <a href="#" class="rslides_nav rslides1_nav next">Next</a>
@@ -50,11 +57,11 @@
         
         <div class="promo_wrap">
             <div class="vk_big_baner">
-                <?php
-                    //vars 
-                    $vklink = get_field('vk-baner-link');
-                    $vkimage = get_field('vk-baner-img');
-                ?>
+            <?php
+                //vars 
+                $vklink = get_field('vk-baner-link');
+                $vkimage = get_field('vk-baner-img');
+            ?>
                 <a href="<?php echo $vklink; ?>" target="_blank">
                 <img src="<?php echo $vkimage; ?>">
                 </a>
@@ -68,9 +75,9 @@
                 $clink = get_field('construct-link');
                 $cimage = get_field('construct-img');
             ?>
-            <a href="<?php echo $clink; ?>">
+                <a href="<?php echo $clink; ?>">
                 <img src="<?php echo $cimage; ?>">
-            </a>
+                </a>
         </div>
 
         <div class="clear"></div>
