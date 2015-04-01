@@ -1,3 +1,1 @@
-[04/01/2015 7:21 AM] - FAILURE : AIOWPSecurity_Utility_IP - Invalid IP received 
-[04/01/2015 7:21 AM] - FAILURE : Error inserting record into bd700_aiowps_login_activity
-[04/01/2015 7:21 AM] - FAILURE : AIOWPSecurity_Utility_IP - Invalid IP received 
+[04/01/2015 7:31 AM] - FAILURE : Error inserting record into bd700_aiowps_login_activity
