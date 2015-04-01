@@ -3,30 +3,16 @@
     <div class="fullslider">
         <div class="fullslider_wrap">
 
-            <!-- <ul class="rslides rslides1" style="max-width: 3600px;">
-                <li  >
-                    <a href="http://700-700.ru/masters/"><img src="<?php echo get_template_directory_uri(); ?>/img/Masters-s-kuritsey.jpg">
-                    </a>
-                </li>
-                <li>
-                    <a href="http://vk.com/pizza700700?z=photo-47766404_353792953%2Falbum-47766404_00%2Frev"><img src="<?php echo get_template_directory_uri(); ?>/img/Kachestvo3.jpg">
-                    </a>
-                </li>
-                <li >
-                    <a href="http://vk.com/pizza700700?z=photo-47766404_353793714%2Falbum-47766404_00%2Frev"><img src="<?php echo get_template_directory_uri(); ?>/img/Testo.jpg">
-                    </a>
-                </li>
-            </ul> -->
-<!-- zzzzzzzzzzzzzzzz -->
+           
          <?php if( have_rows('slider') ): ?>
-                    <ul class="rslides rslides1" >
+                    <ul class="rslides">
                     <?php while( have_rows('slider') ): the_row(); 
                         // vars
                         $simage = get_sub_field('slider-img');
                         $slink = get_sub_field('slider-url');
 
                     ?>
-                        <li>
+                        <li >
                             <a href="<?php echo $slink; ?>">
                                 <img src="<?php echo $simage; ?>">
                             </a>
