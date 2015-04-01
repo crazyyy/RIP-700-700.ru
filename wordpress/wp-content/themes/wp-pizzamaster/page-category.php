@@ -8,7 +8,7 @@
 
             <div class="promo">
                 <div class="img_cont">
-                    <a href=""><img src="<?php echo get_template_directory_uri(); ?>/img/Skidka__kachestvo-900x140.jpg">
+                    <a href="##"><img src="<?php echo get_template_directory_uri(); ?>/img/Skidka__kachestvo-900x140.jpg">
                     </a>
                 </div>
             </div>
